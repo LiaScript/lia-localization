@@ -1,0 +1,29 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "localization files for LiaScript",
+  "main": "index.js",
+  "dependencies": {
+    "elm-i18n-gen": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx elm-i18n-gen locale Translations.elm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liaScript/lia-localization.git"
+  },
+  "keywords": [
+    "localization",
+    "liascript",
+    "open-course"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liaScript/lia-localization/issues"
+  },
+  "homepage": "https://github.com/liaScript/lia-localization#readme"
+}
