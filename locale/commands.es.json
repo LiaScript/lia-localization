@@ -1,0 +1,79 @@
+{
+  "base": {
+    "next": "siguente",
+    "prev": "anterior",
+
+    "font": "fuente",
+    "dec":  "reducir",
+    "inc":  "aumentar",
+
+    "search":   "buscar",
+
+    "toc": "índice (mostrar/ocultar)"
+  },
+
+  "no_translation": "aún sin traducción",
+
+  "c": {
+    "color":    "color",
+    "dark":     "oscuro",
+    "bright":   "luminoso",
+
+    "default":  "defecto",
+    "amber":    "ámbar",
+    "blue":     "azul",
+    "gray":     "gris",
+    "green":    "verde",
+    "purple":   "púrpura"
+  },
+
+  "mode": {
+    "textbook":     "Modo: Manual",
+    "presentation": "Modo: Presentación",
+    "slides":       "Modo: Imagen"
+  },
+
+  "sound": {
+    "on":  "Sonido encendido",
+    "off": "Sonido apagado"
+  },
+
+  "info": {
+    "author":  "Autor",
+    "date":    "fecha",
+    "email":   "email",
+    "version": "versión"
+  },
+
+  "conf": {
+    "informations": "informaciones",
+    "settings":     "configuración",
+    "share":        "compartir",
+    "translations": "traducciones"
+  },
+
+  "code": {
+    "execute":  "ejecutar",
+    "running":  "en funcionamiento",
+    "prev":     "versión anterior",
+    "next":     "versión siguiente",
+    "first":    "primera versión",
+    "last":     "última versión",
+    "minimize": "minimizar vista",
+    "maximize": "maximinzar vista"
+  },
+
+  "quiz": {
+    "check":    "verificar",
+    "checked":  "verificado",
+    "solution": "mostrar solución",
+    "resolved": "resuelto",
+    "hint":     "mostrar indicio"
+  },
+
+  "survey": {
+    "submit":    "enviar",
+    "submitted": "enviado",
+    "text":      "introducir texto"
+  }
+}
