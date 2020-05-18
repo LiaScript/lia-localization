@@ -46,7 +46,7 @@
   },
 
   "conf": {
-    "informations": "Informatie",
+    "information":  "Informatie",
     "settings":     "Instellingen",
     "share":        "Delen",
     "translations": "Vertalingen"

@@ -46,7 +46,7 @@
    },
 
    "conf": {
-     "informations": "інформація",
+     "information":  "інформація",
      "settings":     "налаштування",
      "share":        "поділитися",
      "translations": "переклади"

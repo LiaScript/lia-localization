@@ -46,7 +46,7 @@
   },
 
   "conf": {
-    "informations": "ինֆորմացիա",
+    "information":  "ինֆորմացիա",
     "settings":     "կարգավորումներ",
     "share":        "կիսվել",
     "translations": "թարգմանություններ"

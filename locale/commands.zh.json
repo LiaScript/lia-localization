@@ -46,7 +46,7 @@
   },
 
   "conf": {
-    "informations": "關於",
+    "information": "關於",
     "settings":    "設定",
     "share":        "分享",
     "translations": "翻譯"
