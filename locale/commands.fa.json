@@ -46,7 +46,7 @@
   },
 
   "conf": {
-    "informations": "اطلاعات",
+    "information":  "اطلاعات",
     "settings":     "تنظیمات",
     "share":        "اشتراک",
     "translations": "ترجمه ها"
