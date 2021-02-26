@@ -34,9 +34,10 @@
   },
 
   "mode": {
-    "textbook":     "Режим: Текст",
-    "presentation": "Режим: Презентация",
-    "slides":       "Режим: Слайдове"
+    "mode":         "Режим",
+    "textbook":     "Текст",
+    "presentation": "Презентация",
+    "slides":       "Слайдове"
   },
 
   "sound": {

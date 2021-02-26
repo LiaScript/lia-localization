@@ -34,9 +34,10 @@
   },
 
   "mode": {
-    "textbook":     "Modo: Manual",
-    "presentation": "Modo: Presentación",
-    "slides":       "Modo: Imagen"
+    "mode":         "Modo",
+    "textbook":     "Manual",
+    "presentation": "Presentación",
+    "slides":       "Imagen"
   },
 
   "sound": {

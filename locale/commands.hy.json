@@ -34,9 +34,10 @@
   },
 
   "mode": {
-    "textbook":     "կերպ: գիրք",
-    "presentation": "կերպ: ներկայացում",
-    "slides":       "կերպ: սլայդներ"
+    "mode":         "կերպ",
+    "textbook":     "գիրք",
+    "presentation": "ներկայացում",
+    "slides":       "սլայդներ"
   },
 
   "sound": {

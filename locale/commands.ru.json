@@ -34,8 +34,9 @@
   },
 
   "mode": {
-    "textbook":     "режим чтения",
-    "presentation": "режим презентации",
+    "mode":         "режим",
+    "textbook":     "чтения",
+    "presentation": "презентации",
     "slides":       "слайды"
   },
 

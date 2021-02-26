@@ -34,9 +34,10 @@
   },
 
   "mode": {
-    "textbook":     "模式: 教科書",
-    "presentation": "模式: 報告",
-    "slides":       "模式: 幻燈片"
+    "mode":         "模式",
+    "textbook":     "教科書",
+    "presentation": "報告",
+    "slides":       "幻燈片"
   },
 
   "sound": {

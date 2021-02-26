@@ -34,9 +34,10 @@
   },
 
   "mode": {
-    "textbook":     "Modus: Studieboek",
-    "presentation": "Modus: Presentatie",
-    "slides":       "Modus: Folies"
+    "mode":         "Modus",
+    "textbook":     "Studieboek",
+    "presentation": "Presentatie",
+    "slides":       "Folies"
   },
 
   "sound": {
