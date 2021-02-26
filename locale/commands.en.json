@@ -26,7 +26,11 @@
     "blue":     "Blue",
     "gray":     "Gray",
     "green":    "Green",
-    "purple":   "Purple"
+    "purple":   "Purple",
+
+    "red":       "Red",
+    "yellow":    "Yellow",
+    "turquoise": "Turquoise"
   },
 
   "mode": {

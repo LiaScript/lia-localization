@@ -26,7 +26,11 @@
     "blue":     "藍色",
     "gray":     "灰色",
     "green":    "綠色",
-    "purple":   "紫色"
+    "purple":   "紫色",
+
+    "red":       "红色的",
+    "yellow":    "黄色的",
+    "turquoise": "绿松石"
   },
 
   "mode": {

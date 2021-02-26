@@ -26,7 +26,11 @@
     "blue":     "azul",
     "gray":     "gris",
     "green":    "verde",
-    "purple":   "púrpura"
+    "purple":   "púrpura",
+
+    "red":       "rojo",
+    "yellow":    "amarillo",
+    "turquoise": "turquesa"
   },
 
   "mode": {

@@ -26,7 +26,11 @@
     "blue":     "blauw",
     "gray":     "grijs",
     "green":    "groen",
-    "purple":   "paars"
+    "purple":   "paars",
+
+    "red":       "rood",
+    "yellow":    "geel",
+    "turquoise": "turkoois"
   },
 
   "mode": {
