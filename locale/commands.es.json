@@ -8,6 +8,10 @@
     "inc":  "aumentar",
 
     "search":   "buscar",
+    "delete":   "eliminar búsqueda",
+    "results":   "Resultados",
+    "oneResult": "un resultado",
+    "noResult":  "No hay resultados",
 
     "toc": "índice",
 

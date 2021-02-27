@@ -8,6 +8,10 @@
     "inc":  "vergrößern",
 
     "search":   "Suche",
+    "delete":   "Suche löschen",
+    "results":   "Ergebnisse",
+    "oneResult": "ein Ergebnis",
+    "noResult":  "kein Ergebnis",
 
     "toc": "Inhaltsverzeichnis",
     "show": "zeigen",

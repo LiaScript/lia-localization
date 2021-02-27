@@ -8,6 +8,10 @@
     "inc":  "增加",
 
     "search":   "搜尋",
+    "delete":   "删除搜寻",
+    "results":   "结果",
+    "oneResult": "一个结果",
+    "noResult":  "没有结果",
 
     "toc": "目錄",
 

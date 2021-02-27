@@ -8,6 +8,10 @@
     "inc":  "vergroten",
 
     "search":   "zoek",
+    "delete":   "Duidelijke zoek",
+    "results":   "Resultaten",
+    "oneResult": "een resultaat",
+    "noResult":  "Geen resultaten",
 
     "toc": "Inhoudsopgave",
 

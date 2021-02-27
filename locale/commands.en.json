@@ -8,6 +8,11 @@
     "inc":  "increase",
 
     "search":   "Search",
+    "delete":   "clear search",
+    "results":   "results",
+    "oneResult": "one result",
+    "noResult":  "no results",
+
 
     "toc": "Table of Contents",
     "show": "show",
