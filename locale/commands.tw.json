@@ -34,7 +34,7 @@
   },
 
   "mode": {
-    "mode":         "模式",
+    "mode":         "简报模式",
     "textbook":     "教科書",
     "presentation": "報告",
     "slides":       "幻燈片"

@@ -34,7 +34,7 @@
   },
 
   "mode": {
-    "mode":         "Modo",
+    "mode":         "Modo presentación",
     "textbook":     "Manual",
     "presentation": "Presentación",
     "slides":       "Imagen"
