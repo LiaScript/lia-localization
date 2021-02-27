@@ -9,7 +9,9 @@
 
     "search":   "Search",
 
-    "toc": "Table of Contents (show/hide)",
+    "toc": "Table of Contents",
+    "show": "show",
+    "hide": "hide",
 
     "lang": "English"
   },

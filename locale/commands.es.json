@@ -9,7 +9,10 @@
 
     "search":   "buscar",
 
-    "toc": "índice (mostrar/ocultar)",
+    "toc": "índice",
+
+    "show": "mostrar",
+    "hide": "ocultar",
 
     "lang": "Español"
   },

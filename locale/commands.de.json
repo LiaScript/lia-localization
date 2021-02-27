@@ -9,8 +9,9 @@
 
     "search":   "Suche",
 
-    "toc": "Inhaltsverzeichnis (zeigen/verbergen)",
-
+    "toc": "Inhaltsverzeichnis",
+    "show": "zeigen",
+    "hide": "verberghen",
     "lang": "Deutsch"
   },
 

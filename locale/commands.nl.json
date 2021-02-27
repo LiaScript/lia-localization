@@ -9,7 +9,10 @@
 
     "search":   "zoek",
 
-    "toc": "Inhoudsopgave (tonen/verbergen)",
+    "toc": "Inhoudsopgave",
+
+    "show": "tonen",
+    "hide": "verbergen",
 
     "lang":     "Nederlands"
   },
