@@ -87,5 +87,30 @@
     "submit":       "Abschicken",
     "submitted":    "Dankeshön",
     "text":         "Texteingabe ..."
+  },
+
+  "chart": {
+    "pie": "Tortendiagramm",
+    "bar": "Balkendiagramm",
+    "line": "Liniendiagramm",
+    "scatter": "Streudiagramm",
+    "effectScatter": "Welligkeits-Streudiagramm",
+    "radar": "Radar-Karte",
+    "tree": "Baum",
+    "treemap": "Baumkarte",
+    "boxplot": "Boxplot",
+    "candlestick": "Kerzenständer",
+    "k": "K Liniendiagramm",
+    "heatmap": "Heatmap",
+    "map": "Karte",
+    "parallel": "Parallele Koordinatenkarte",
+    "lines": "Liniendiagramm",
+    "graph": "Beziehungsgrafik",
+    "sankey": "Sankey-Diagramm",
+    "funnel": "Trichterdiagramm",
+    "gauge": "Meßanzeige",
+    "pictorialBar": "Bildlicher Balken",
+    "themeRiver": "Thematische Flusskarte",
+    "sunburst": "Sonnenausbruch"
   }
 }

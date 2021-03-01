@@ -89,5 +89,30 @@
     "submit":    "遞交",
     "submitted": "感謝",
     "text":      "輸入文字..."
+  },
+
+  "chart": {
+    "pie": "饼图",
+    "bar": "柱状图",
+    "line": "折线图",
+    "scatter": "散点图",
+    "effectScatter": "涟漪散点图",
+    "radar": "雷达图",
+    "tree": "树图",
+    "treemap": "矩形树图",
+    "boxplot": "箱型图",
+    "candlestick": "K线图",
+    "k": "K线图",
+    "heatmap": "热力图",
+    "map": "地图",
+    "parallel": "平行坐标图",
+    "lines": "线图",
+    "graph": "关系图",
+    "sankey": "桑基图",
+    "funnel": "漏斗图",
+    "gauge": "仪表盘图",
+    "pictorialBar": "象形柱图",
+    "themeRiver": "主题河流图",
+    "sunburst": "旭日图"
   }
 }
