@@ -3,13 +3,12 @@
   "version": "1.0.0",
   "description": "localization files for LiaScript",
   "main": "index.js",
-  "dependencies": {
-    "elm-i18n-gen": "^1.0.5"
+  "devDependencies": {
+    "elm-i18n-gen": "github:andre-dietrich/elm-i18n-module-generator"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx elm-i18n-gen locale Translations.elm"
+    "build": "npx elm-i18n-gen --default EN locale Translations.elm"
   },
   "repository": {
     "type": "git",
