@@ -4,90 +4,90 @@
     "prev": "terug",
 
     "font": "font",
-    "dec":  "verkleinen",
-    "inc":  "vergroten",
+    "dec": "verkleinen",
+    "inc": "vergroten",
 
-    "search":   "zoek",
-    "delete":   "Duidelijke zoek",
-    "results":   "Resultaten",
+    "search": "zoek",
+    "delete": "Duidelijke zoek",
+    "results": "Resultaten",
     "oneResult": "een resultaat",
-    "noResult":  "Geen resultaten",
+    "noResult": "Geen resultaten",
 
     "toc": "Inhoudsopgave",
 
     "show": "tonen",
     "hide": "verbergen",
 
-    "lang":     "Nederlands"
+    "lang": "Nederlands"
   },
 
   "no_translation": "noch geen vertaling aanwezig",
 
   "c": {
-    "color":    "kleur",
-    "dark":     "donker",
-    "bright":   "licht",
+    "color": "kleur",
+    "dark": "donker",
+    "bright": "licht",
 
-    "default":  "standaard",
-    "amber":    "amber",
-    "blue":     "blauw",
-    "gray":     "grijs",
-    "green":    "groen",
-    "purple":   "paars",
+    "default": "standaard",
+    "amber": "amber",
+    "blue": "blauw",
+    "gray": "grijs",
+    "green": "groen",
+    "purple": "paars",
 
-    "red":       "rood",
-    "yellow":    "geel",
+    "red": "rood",
+    "yellow": "geel",
     "turquoise": "turkoois"
   },
 
   "mode": {
-    "mode":         "Presentatiemodus",
-    "textbook":     "Studieboek",
+    "mode": "Presentatiemodus",
+    "textbook": "Studieboek",
     "presentation": "Presentatie",
-    "slides":       "Folies"
+    "slides": "Folies"
   },
 
   "sound": {
-    "on":           "Luidspreker aan",
-    "off":          "Luidspreker uit"
+    "on": "Luidspreker aan",
+    "off": "Luidspreker uit"
   },
 
   "info": {
-    "author":       "Auteur: ",
-    "date":         "Datum: ",
-    "email":        "e-email: ",
-    "version":      "Versie: "
+    "author": "Auteur: ",
+    "date": "Datum: ",
+    "email": "e-email: ",
+    "version": "Versie: "
   },
 
   "conf": {
-    "information":  "Informatie",
-    "settings":     "Instellingen",
-    "share":        "Delen",
+    "information": "Informatie",
+    "settings": "Instellingen",
+    "share": "Delen",
     "translations": "Vertalingen"
   },
 
   "code": {
-    "execute":      "uitvoeren",
-    "running":      "wordt uitgevoerd",
-    "prev":         "een versie terug",
-    "next":         "een versie vooruit",
-    "first":        "eerste versie",
-    "last":         "laatste versie",
-    "minimize":     "weergave verkleinen",
-    "maximize":     "weergave maximaliseren"
+    "execute": "uitvoeren",
+    "running": "wordt uitgevoerd",
+    "prev": "een versie terug",
+    "next": "een versie vooruit",
+    "first": "eerste versie",
+    "last": "laatste versie",
+    "minimize": "weergave verkleinen",
+    "maximize": "weergave maximaliseren"
   },
 
   "quiz": {
-    "check":        "bekijk",
-    "checked":      "bekeken",
-    "solution":     "toon oplossing",
-    "resolved":     "opgelost",
-    "hint":         "toon hint"
+    "check": "bekijk",
+    "checked": "bekeken",
+    "solution": "toon oplossing",
+    "resolved": "opgelost",
+    "hint": "toon hint"
   },
 
   "survey": {
-    "submit":       "Verzenden",
-    "submitted":    "Vriendelijk bedankt",
-    "text":         "Tekstinvoer ..."
+    "submit": "Verzenden",
+    "submitted": "Vriendelijk bedankt",
+    "text": "Tekstinvoer ..."
   }
 }

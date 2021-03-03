@@ -4,14 +4,14 @@
     "prev": "返回",
 
     "font": "字體",
-    "dec":  "減少",
-    "inc":  "增加",
+    "dec": "減少",
+    "inc": "增加",
 
-    "search":   "搜尋",
-    "delete":   "删除搜寻",
-    "results":   "结果",
+    "search": "搜尋",
+    "delete": "删除搜寻",
+    "results": "结果",
     "oneResult": "一个结果",
-    "noResult":  "没有结果",
+    "noResult": "没有结果",
 
     "toc": "目錄",
 
@@ -24,71 +24,71 @@
   "no_translation": "尚未翻譯",
 
   "c": {
-    "color":    "顏色",
-    "dark":     "深",
-    "bright":   "淺",
+    "color": "顏色",
+    "dark": "深",
+    "bright": "淺",
 
-    "default":  "預設",
-    "amber":    "琥珀色",
-    "blue":     "藍色",
-    "gray":     "灰色",
-    "green":    "綠色",
-    "purple":   "紫色",
+    "default": "預設",
+    "amber": "琥珀色",
+    "blue": "藍色",
+    "gray": "灰色",
+    "green": "綠色",
+    "purple": "紫色",
 
-    "red":       "红色的",
-    "yellow":    "黄色的",
+    "red": "红色的",
+    "yellow": "黄色的",
     "turquoise": "绿松石"
   },
 
   "mode": {
-    "mode":         "简报模式",
-    "textbook":     "教科書",
+    "mode": "简报模式",
+    "textbook": "教科書",
     "presentation": "報告",
-    "slides":       "幻燈片"
+    "slides": "幻燈片"
   },
 
   "sound": {
-    "on":  "聲音開啟",
+    "on": "聲音開啟",
     "off": "聲音關閉"
   },
 
   "info": {
-    "author":  "作者: ",
-    "date":    "日期: ",
-    "email":   "電郵: ",
+    "author": "作者: ",
+    "date": "日期: ",
+    "email": "電郵: ",
     "version": "版本: "
   },
 
   "conf": {
     "information": "關於",
-    "settings":    "設定",
-    "share":        "分享",
+    "settings": "設定",
+    "share": "分享",
     "translations": "翻譯"
   },
 
   "code": {
-    "execute":  "開始執行",
-    "running":  "執行中",
-    "prev":     "上一版",
-    "next":     "下一版",
-    "first":    "最初版",
-    "last":     "最終版",
+    "execute": "開始執行",
+    "running": "執行中",
+    "prev": "上一版",
+    "next": "下一版",
+    "first": "最初版",
+    "last": "最終版",
     "minimize": "極小視窗",
     "maximize": "極大視窗"
   },
 
   "quiz": {
-    "check":    "選取",
-    "checked":  "已選取",
+    "check": "選取",
+    "checked": "已選取",
     "solution": "顯示解答",
     "resolved": "以解答",
-    "hint":     "暗示"
+    "hint": "暗示"
   },
 
   "survey": {
-    "submit":    "遞交",
+    "submit": "遞交",
     "submitted": "感謝",
-    "text":      "輸入文字..."
+    "text": "輸入文字..."
   },
 
   "chart": {

@@ -4,14 +4,14 @@
     "prev": "previous",
 
     "font": "Font",
-    "dec":  "decrease",
-    "inc":  "increase",
+    "dec": "decrease",
+    "inc": "increase",
 
-    "search":   "Search",
-    "delete":   "clear search",
-    "results":   "results",
+    "search": "Search",
+    "delete": "clear search",
+    "results": "results",
     "oneResult": "one result",
-    "noResult":  "no results",
+    "noResult": "no results",
 
 
     "toc": "Table of Contents",
@@ -24,71 +24,71 @@
   "no_translation": "no translation yet",
 
   "c": {
-    "color":    "Color",
-    "dark":     "Dark",
-    "bright":   "Bright",
+    "color": "Color",
+    "dark": "Dark",
+    "bright": "Bright",
 
-    "default":  "Default",
-    "amber":    "Amber",
-    "blue":     "Blue",
-    "gray":     "Gray",
-    "green":    "Green",
-    "purple":   "Purple",
+    "default": "Default",
+    "amber": "Amber",
+    "blue": "Blue",
+    "gray": "Gray",
+    "green": "Green",
+    "purple": "Purple",
 
-    "red":       "Red",
-    "yellow":    "Yellow",
+    "red": "Red",
+    "yellow": "Yellow",
     "turquoise": "Turquoise"
   },
 
   "mode": {
-    "mode":         "Presentation mode",
-    "textbook":     "Textbook",
+    "mode": "Presentation mode",
+    "textbook": "Textbook",
     "presentation": "Presentation",
-    "slides":       "Slides"
+    "slides": "Slides"
   },
 
   "sound": {
-    "on":  "Sound on",
+    "on": "Sound on",
     "off": "Sound off"
   },
 
   "info": {
-    "author":  "Author: ",
-    "date":    "Date: ",
-    "email":   "eMail: ",
+    "author": "Author: ",
+    "date": "Date: ",
+    "email": "eMail: ",
     "version": "Version: "
   },
 
   "conf": {
-    "information":  "Information",
-    "settings":     "Settings",
-    "share":        "Share",
+    "information": "Information",
+    "settings": "Settings",
+    "share": "Share",
     "translations": "Translations"
   },
 
   "code": {
-    "execute":  "Execute",
-    "running":  "is running",
-    "prev":     "previous version",
-    "next":     "next version",
-    "first":    "first version",
-    "last":     "last version",
+    "execute": "Execute",
+    "running": "is running",
+    "prev": "previous version",
+    "next": "next version",
+    "first": "first version",
+    "last": "last version",
     "minimize": "minimize view",
     "maximize": "maximize view"
   },
 
   "quiz": {
-    "check":    "Check",
-    "checked":  "Checked",
+    "check": "Check",
+    "checked": "Checked",
     "solution": "show solution",
     "resolved": "Resolved",
-    "hint":     "show hint"
+    "hint": "show hint"
   },
 
   "survey": {
-    "submit":    "Submit",
+    "submit": "Submit",
     "submitted": "Thanks",
-    "text":      "Enter some text..."
+    "text": "Enter some text..."
   },
 
   "chart": {
