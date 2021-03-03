@@ -29,12 +29,7 @@
     "bright": "licht",
 
     "default": "standaard",
-    "amber": "amber",
     "blue": "blauw",
-    "gray": "grijs",
-    "green": "groen",
-    "purple": "paars",
-
     "red": "rood",
     "yellow": "geel",
     "turquoise": "turkoois"

@@ -29,12 +29,7 @@
     "bright": "luminoso",
 
     "default": "defecto",
-    "amber": "ámbar",
     "blue": "azul",
-    "gray": "gris",
-    "green": "verde",
-    "purple": "púrpura",
-
     "red": "rojo",
     "yellow": "amarillo",
     "turquoise": "turquesa"
