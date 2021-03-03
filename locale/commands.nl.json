@@ -25,6 +25,7 @@
 
   "c": {
     "color": "kleur",
+    "schema": "Kleurenschema",
     "dark": "donker",
     "bright": "licht",
 

@@ -25,6 +25,7 @@
 
   "c": {
     "color": "Color",
+    "schema": "Color scheme",
     "dark": "Dark",
     "bright": "Bright",
 

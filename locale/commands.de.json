@@ -23,6 +23,7 @@
 
   "c": {
     "color": "Farbe",
+    "schema": "Farbschema",
     "dark": "Dunkel",
     "bright": "Hell",
 

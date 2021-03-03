@@ -25,6 +25,7 @@
 
   "c": {
     "color": "color",
+    "schema": "Esquema de colores",
     "dark": "oscuro",
     "bright": "luminoso",
 
