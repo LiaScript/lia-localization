@@ -13,7 +13,6 @@
     "oneResult": "one result",
     "noResult": "no results",
 
-
     "toc": "Table of Contents",
     "show": "show",
     "hide": "hide",
@@ -22,6 +21,7 @@
   },
 
   "no_translation": "no translation yet",
+  "translateWithGoogle": "Translate with Google (experimental)",
 
   "c": {
     "color": "Color",
