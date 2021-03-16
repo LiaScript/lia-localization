@@ -90,5 +90,11 @@
     "submit": "Verzenden",
     "submitted": "Vriendelijk bedankt",
     "text": "Tekstinvoer ..."
-  }
+  },
+
+  "sort": {
+    "asc": "oplopend sorteren",
+    "desc": "sorteer aflopend",
+    "not": "niet gesorteerd"
+  },
 }

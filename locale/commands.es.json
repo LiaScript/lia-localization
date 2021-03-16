@@ -90,5 +90,11 @@
     "submit": "enviar",
     "submitted": "enviado",
     "text": "introducir texto"
-  }
+  },
+
+  "sort": {
+    "asc": "orden ascendente",
+    "desc": "orden descendiente",
+    "not": "no ordenado"
+  },
 }

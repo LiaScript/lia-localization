@@ -90,6 +90,12 @@
     "text": "Texteingabe ..."
   },
 
+  "sort": {
+    "asc": "aufsteigend sortieren",
+    "desc": "absteigend sortieren",
+    "not": "nicht sortiert"
+  },
+
   "chart": {
     "pie": "Tortendiagramm",
     "bar": "Balkendiagramm",

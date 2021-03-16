@@ -91,6 +91,12 @@
     "text": "Enter some text..."
   },
 
+  "sort": {
+    "asc": "sort ascending",
+    "desc": "sort descending",
+    "not": "not sorted"
+  },
+
   "chart": {
     "pie": "Pie chart",
     "bar": "Bar chart",
