@@ -75,10 +75,14 @@
 
   "quiz": {
     "check": "Check",
-    "checked": "Checked",
     "solution": "show solution",
-    "resolved": "Resolved",
-    "hint": "show hint"
+    "hint": "show hint",
+
+    "answer": {
+      "success": "Congratiulations, that was the right answer",
+      "error": "That's not the right answer",
+      "resolved": "Resolved answer"
+    }
   },
 
   "survey": {

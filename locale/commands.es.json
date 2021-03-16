@@ -76,10 +76,14 @@
 
   "quiz": {
     "check": "verificar",
-    "checked": "verificado",
     "solution": "mostrar solución",
-    "resolved": "resuelto",
-    "hint": "mostrar indicio"
+    "hint": "mostrar indicio",
+
+    "answer": {
+      "success": "Felicitaciones, esa fue la respuesta correcta",
+      "error": "Esa no es la respuesta correcta",
+      "resolved": "Respuesta resuelta"
+    }
   },
 
   "survey": {

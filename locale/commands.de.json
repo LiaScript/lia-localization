@@ -74,10 +74,14 @@
 
   "quiz": {
     "check": "Prüfen",
-    "checked": "Gelöst",
     "solution": "zeige Lösung",
-    "resolved": "Aufgelöst",
-    "hint": "zeige Hinweis"
+    "hint": "Hinweis anzeigen",
+
+    "answer": {
+      "success": "Herzlichen Glückwunsch, das war die richtige Antwort",
+      "error": "Das ist nicht die richtige Antwort",
+      "resolved": "Aufgelöste Antwort"
+    }
   },
 
   "survey": {

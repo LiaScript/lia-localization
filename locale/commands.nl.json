@@ -76,10 +76,14 @@
 
   "quiz": {
     "check": "bekijk",
-    "checked": "bekeken",
     "solution": "toon oplossing",
-    "resolved": "opgelost",
-    "hint": "toon hint"
+    "hint": "toon hint",
+
+    "answer": {
+      "success": "Gefeliciteerd, dat was het juiste antwoord",
+      "error": "Dat is niet het juiste antwoord",
+      "resolved": "Opgelost antwoord"
+    }
   },
 
   "survey": {

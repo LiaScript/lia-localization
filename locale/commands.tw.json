@@ -76,10 +76,14 @@
 
   "quiz": {
     "check": "選取",
-    "checked": "已選取",
     "solution": "顯示解答",
-    "resolved": "以解答",
-    "hint": "暗示"
+    "hint": "暗示",
+
+    "answer": {
+      "success": "恭喜，那是正确的答案",
+      "error": "那不是正确的答案",
+      "resolved": "解决的答案"
+    }
   },
 
   "survey": {
