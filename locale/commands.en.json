@@ -3,9 +3,10 @@
     "next": "next",
     "prev": "previous",
 
-    "font": "Font",
-    "dec": "decrease",
-    "inc": "increase",
+    "font": "font size: {{size}}",
+    "size1": "small",
+    "size2": "medium",
+    "size3": "large",
 
     "search": "Search",
     "delete": "clear search",

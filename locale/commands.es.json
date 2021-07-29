@@ -3,9 +3,10 @@
     "next": "siguente",
     "prev": "anterior",
 
-    "font": "fuente",
-    "dec": "reducir",
-    "inc": "aumentar",
+    "font": "Tamaño de fuente: {{size}}",
+    "size1": "pequeño",
+    "size2": "mediano",
+    "size3": "grande",
 
     "search": "buscar",
     "delete": "eliminar búsqueda",

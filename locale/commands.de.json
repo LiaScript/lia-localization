@@ -3,9 +3,10 @@
     "next": "weiter",
     "prev": "zurück",
 
-    "font": "Schrift",
-    "dec": "verkleinern",
-    "inc": "vergrößern",
+    "font": "Schriftgröße: {{size}}",
+    "size1": "klein",
+    "size2": "mittel",
+    "size3": "groß",
 
     "search": "Suche",
     "delete": "Suche löschen",

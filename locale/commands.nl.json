@@ -3,9 +3,10 @@
     "next": "verder",
     "prev": "terug",
 
-    "font": "font",
-    "dec": "verkleinen",
-    "inc": "vergroten",
+    "font": "Lettergrootte: {{size}}",
+    "size1": "klein",
+    "size2": "medium",
+    "size3": "groot",
 
     "search": "zoek",
     "delete": "Duidelijke zoek",
