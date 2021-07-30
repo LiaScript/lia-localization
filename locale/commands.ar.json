@@ -1,4 +1,4 @@
-
+{
   "base": {
     "next": "التالي",
     "prev": "السابق",
@@ -34,14 +34,14 @@
     "blue": "أزرق",
     "red": "أحمر",
     "yellow": "أصفر",
-    "turquoise": "فيروزي
+    "turquoise": "فيروزي"
   },
 
   "mode": {
     "mode": "وضع العرض",
-    "textbook": "المقرر
-     "presentation": "العرض
-    "slides": "الشرائح
+    "textbook": "المقرر",
+    "presentation": "العرض",
+    "slides": "الشرائح"
   },
 
   "sound": {
@@ -60,7 +60,7 @@
     "information": "معلومات",
     "settings": "اعدادات",
     "share": "مشاركة",
-    "translations": "ترجمة",
+    "translations": "ترجمة"
   },
 
   "code": {
@@ -89,13 +89,13 @@
   "survey": {
     "submit": "إرسال ",
     "submitted": "تم الإرسال",
-    "text": "أدخل نص...",
+    "text": "أدخل نص..."
   },
 
   "sort": {
     "asc": "ترتيب تصاعدي",
     "desc": "ترتيب تنازلي",
-    "not": "غير مرتب",
+    "not": "غير مرتب"
   },
 
   "chart": {
@@ -107,8 +107,6 @@
     "radar": "مخطط نسيجي",
     "tree": "الشجرة",
     "treemap": "خريطة الشجرة",
-    "boxplot": "Boxplot",
-    "candlestick": "Candlestick",
     "k": "مخطط خطي",
     "heatmap": "خريطة التمثيل اللوني",
     "map": "خريطة",
@@ -117,9 +115,6 @@
     "graph": "رسم بياني",
     "sankey": "مخطط سانكي",
     "funnel": "مخطط قمعي",
-    "gauge": "Guage",
-    "pictorialBar": "شريط مصور",
-    "themeRiver": "Theme River Map",
-    "sunburst": "Sunburst"
+    "pictorialBar": "شريط مصور"
   }
 }
