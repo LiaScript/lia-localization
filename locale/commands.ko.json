@@ -1,0 +1,125 @@
+{
+  "base": {
+    "next": "다음",
+    "prev": "이전",
+
+    "font": "글꼴 크기: {{size}}",
+    "size1": "작게",
+    "size2": "보통",
+    "size3": "크게",
+
+    "search": "찾기",
+    "delete": "입력 내용 지우기",
+    "results": "결과",
+    "oneResult": "단일 결과",
+    "noResult": "결과 없음",
+
+    "toc": "목차",
+    "show": "보이기",
+    "hide": "감추기",
+
+    "lang": "한국어"
+  },
+
+  "no_translation": "번역되지 않음",
+  "translateWithGoogle": "Google 번역을 사용한 번역 결과 (실험적 기능)",
+
+  "c": {
+    "color": "색상",
+    "schema": "색상 스키마",
+    "dark": "어두움",
+    "bright": "밝음",
+
+    "default": "기본",
+    "blue": "파랑",
+    "red": "빨강",
+    "yellow": "노랑",
+    "turquoise": "청록"
+  },
+
+  "mode": {
+    "mode": "프레젠테이션 모드",
+    "textbook": "텍스트 북",
+    "presentation": "프레젠테이션",
+    "slides": "슬라이드"
+  },
+
+  "sound": {
+    "on": "소리 켬",
+    "off": "소리 끔"
+  },
+
+  "info": {
+    "author": "저자: ",
+    "date": "날짜: ",
+    "email": "메일: ",
+    "version": "버전: "
+  },
+
+  "conf": {
+    "information": "정보",
+    "settings": "설정",
+    "share": "공유",
+    "translations": "번역"
+  },
+
+  "code": {
+    "execute": "실행",
+    "running": "실행 중",
+    "prev": "이전 버전",
+    "next": "다음 버전",
+    "first": "첫 버전",
+    "last": "최신 버전",
+    "minimize": "뷰 최소화",
+    "maximize": "뷰 최대화"
+  },
+
+  "quiz": {
+    "check": "확인",
+    "solution": "정답 보기",
+    "hint": "힌트 보기",
+
+    "answer": {
+      "success": "축하합니다. 올바른 답을 선택했습니다.",
+      "error": "선택한 답은 올바르지 않습니다.",
+      "resolved": "이미 푼 퀴즈입니다."
+    }
+  },
+
+  "survey": {
+    "submit": "제출",
+    "submitted": "감사합니다",
+    "text": "내용을 입력해주세요."
+  },
+
+  "sort": {
+    "asc": "오름차순 정렬",
+    "desc": "내림차순 정렬",
+    "not": "정렬 안 됨"
+  },
+
+  "chart": {
+    "pie": "파이 차트",
+    "bar": "바 차트",
+    "line": "라인 차트",
+    "scatter": "분포도",
+    "effectScatter": "리플 분포도",
+    "radar": "레이더 차트",
+    "tree": "트리",
+    "treemap": "트리맵",
+    "boxplot": "상자 그림",
+    "candlestick": "캔들스틱 차트",
+    "k": "K 라인 차트",
+    "heatmap": "히트 맵",
+    "map": "맵",
+    "parallel": "평행 좌표 맵",
+    "lines": "선 그래프",
+    "graph": "관계도",
+    "sankey": "생키 다이어그램",
+    "funnel": "퍼널 차트",
+    "gauge": "게이지",
+    "pictorialBar": "픽토리얼 바",
+    "themeRiver": "테마 리버 맵",
+    "sunburst": "선버스트 차트"
+  }
+}
