@@ -3,6 +3,9 @@
     "next": "verder",
     "prev": "terug",
 
+    "play": "afspelen",
+    "stop": "stoppen",
+
     "font": "Lettergrootte: {{size}}",
     "size1": "klein",
     "size2": "medium",

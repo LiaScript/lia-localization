@@ -3,6 +3,9 @@
     "next": "다음",
     "prev": "이전",
 
+    "play": "play",
+    "stop": "stop",
+
     "font": "글꼴 크기: {{size}}",
     "size1": "작게",
     "size2": "보통",

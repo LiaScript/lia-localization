@@ -3,6 +3,9 @@
     "next": "next",
     "prev": "previous",
 
+    "play": "play",
+    "stop": "stop",
+
     "font": "font size: {{size}}",
     "size1": "small",
     "size2": "medium",

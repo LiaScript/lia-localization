@@ -3,6 +3,9 @@
     "next": "weiter",
     "prev": "zurück",
 
+    "play": "Wiedergabe",
+    "stop": "Stopp",
+
     "font": "Schriftgröße: {{size}}",
     "size1": "klein",
     "size2": "mittel",
