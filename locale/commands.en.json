@@ -27,8 +27,8 @@
   "c": {
     "color": "Color",
     "schema": "Color scheme",
-    "dark": "Dark",
-    "bright": "Bright",
+    "dark": "Dark-Mode",
+    "bright": "Light-Mode",
 
     "default": "Default",
     "blue": "Blue",

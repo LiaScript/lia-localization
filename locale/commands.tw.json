@@ -28,8 +28,8 @@
   "c": {
     "color": "顏色",
     "schema": "配色方案",
-    "dark": "深",
-    "bright": "淺",
+    "dark": "暗模式",
+    "bright": "亮模式",
 
     "default": "預設",
     "blue": "藍色",

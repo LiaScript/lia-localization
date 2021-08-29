@@ -26,8 +26,8 @@
   "c": {
     "color": "Farbe",
     "schema": "Farbschema",
-    "dark": "Dunkel",
-    "bright": "Hell",
+    "dark": "Dunkelmodus",
+    "bright": "Hellmodus",
 
     "default": "Standard",
     "blue": "Blau",

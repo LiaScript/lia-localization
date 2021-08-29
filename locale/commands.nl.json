@@ -28,8 +28,8 @@
   "c": {
     "color": "kleur",
     "schema": "Kleurenschema",
-    "dark": "donker",
-    "bright": "licht",
+    "dark": "donkere modus",
+    "bright": "lichte modus",
 
     "default": "standaard",
     "blue": "blauw",
