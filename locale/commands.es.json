@@ -84,6 +84,7 @@
     "check": "verificar",
     "solution": "mostrar solución",
     "hint": "mostrar indicio",
+    "selection": "selección",
 
     "answer": {
       "success": "Felicitaciones, esa fue la respuesta correcta",

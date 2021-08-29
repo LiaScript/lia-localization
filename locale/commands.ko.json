@@ -83,6 +83,7 @@
     "check": "확인",
     "solution": "정답 보기",
     "hint": "힌트 보기",
+    "selection": "selection",
 
     "answer": {
       "success": "축하합니다. 올바른 답을 선택했습니다.",

@@ -83,6 +83,7 @@
     "check": "Prüfen",
     "solution": "zeige Lösung",
     "hint": "Hinweis anzeigen",
+    "selection": "Auswahl",
 
     "answer": {
       "success": "Herzlichen Glückwunsch, das war die richtige Antwort",

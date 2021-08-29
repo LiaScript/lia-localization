@@ -84,6 +84,7 @@
     "check": "選取",
     "solution": "顯示解答",
     "hint": "暗示",
+    "selection": "选择",
 
     "answer": {
       "success": "恭喜，那是正确的答案",

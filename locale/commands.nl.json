@@ -84,6 +84,7 @@
     "check": "bekijk",
     "solution": "toon oplossing",
     "hint": "toon hint",
+    "selection": "selectie",
 
     "answer": {
       "success": "Gefeliciteerd, dat was het juiste antwoord",

@@ -83,6 +83,7 @@
     "check": "Check",
     "solution": "show solution",
     "hint": "show hint",
+    "selection": "selection",
 
     "answer": {
       "success": "Congratiulations, that was the right answer",
