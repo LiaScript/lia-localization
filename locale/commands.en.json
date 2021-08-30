@@ -80,7 +80,8 @@
     "first": "first version",
     "last": "last version",
     "minimize": "minimize view",
-    "maximize": "maximize view"
+    "maximize": "maximize view",
+    "terminal": "terminal"
   },
 
   "quiz": {

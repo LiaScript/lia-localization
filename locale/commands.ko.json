@@ -78,7 +78,8 @@
     "first": "첫 버전",
     "last": "최신 버전",
     "minimize": "뷰 최소화",
-    "maximize": "뷰 최대화"
+    "maximize": "뷰 최대화",
+    "terminal": "terminal"
   },
 
   "quiz": {
