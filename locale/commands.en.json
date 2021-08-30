@@ -1,6 +1,7 @@
 {
   "home": "Home",
   
+  
   "base": {
     "next": "next",
     "prev": "previous",
@@ -8,6 +9,7 @@
     "play": "play",
     "stop": "stop",
 
+    "abc": "Aa",
     "font": "font size: {{size}}",
     "size1": "small",
     "size2": "medium",
