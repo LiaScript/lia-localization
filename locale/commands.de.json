@@ -129,5 +129,10 @@
     "pictorialBar": "Bildlicher Balken",
     "themeRiver": "Thematische Flusskarte",
     "sunburst": "Sonnenausbruch"
+  },
+
+  "qr": {
+    "code": "QR-Code für Webseite",
+    "err": "Fehler beim Codieren in QR-Code"
   }
 }

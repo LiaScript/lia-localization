@@ -1,4 +1,6 @@
 {
+  "home": "Home",
+
   "base": {
     "next": "다음",
     "prev": "이전",
@@ -127,5 +129,10 @@
     "pictorialBar": "픽토리얼 바",
     "themeRiver": "테마 리버 맵",
     "sunburst": "선버스트 차트"
+  },
+
+  "qr": {
+    "code": "QR code for website",
+    "err": "Error while encoding to QR code"
   }
 }

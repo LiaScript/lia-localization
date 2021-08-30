@@ -103,5 +103,10 @@
     "asc": "orden ascendente",
     "desc": "orden descendiente",
     "not": "no ordenado"
+  },
+
+  "qr": {
+    "code": "Código QR para sitio web",
+    "err": "Error al codificar en código QR"
   }
 }

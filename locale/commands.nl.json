@@ -103,5 +103,10 @@
     "asc": "oplopend sorteren",
     "desc": "sorteer aflopend",
     "not": "niet gesorteerd"
+  },
+
+  "qr": {
+    "code": "QR-code voor website",
+    "err": "Fout bij het coderen naar QR-code"
   }
 }

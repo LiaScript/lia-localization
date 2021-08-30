@@ -122,5 +122,10 @@
     "pictorialBar": "象形柱图",
     "themeRiver": "主题河流图",
     "sunburst": "旭日图"
+  },
+
+  "qr": {
+    "code": "网站二维码",
+    "err": "编码为二维码时出错"
   }
 }

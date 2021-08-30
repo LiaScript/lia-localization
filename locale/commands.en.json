@@ -129,5 +129,10 @@
     "pictorialBar": "Pictorial bar",
     "themeRiver": "Theme River Map",
     "sunburst": "Sunburst"
+  },
+
+  "qr": {
+    "code": "QR code for website",
+    "err": "Error while encoding to QR code"
   }
 }
