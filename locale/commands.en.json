@@ -1,4 +1,6 @@
 {
+  "home": "Home",
+  
   "base": {
     "next": "next",
     "prev": "previous",
