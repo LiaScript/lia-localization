@@ -87,6 +87,11 @@
     "hint": "toon hint",
     "selection": "selectie",
 
+    "label": {
+      "check": "Controleer het antwoord. Het antwoord wordt gemarkeerd als goed of fout.",
+      "solution": "Laat de oplossing zien. De quiz is gemarkeerd als opgelost."
+    },
+
     "answer": {
       "success": "Gefeliciteerd, dat was het juiste antwoord",
       "error": "Dat is niet het juiste antwoord",

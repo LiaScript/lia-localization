@@ -89,6 +89,11 @@
     "hint": "Hinweis anzeigen",
     "selection": "Auswahl",
 
+    "label": {
+      "check": "Überprüfe die Antwort. Die Antwort wird als richtig oder falsch markiert.",
+      "solution": "Zeige die Lösung. Das Quiz wird als aufgelöst markiert."
+    },
+
     "answer": {
       "success": "Herzlichen Glückwunsch, das war die richtige Antwort",
       "error": "Das ist nicht die richtige Antwort",

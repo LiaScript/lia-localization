@@ -87,6 +87,11 @@
     "hint": "mostrar indicio",
     "selection": "selección",
 
+    "label": {
+      "check": "Comprueba la respuesta. La respuesta está marcada como correcta o incorrecta.",
+      "solution": "Muestre la solución. El cuestionario se marca como resuelto."
+    },
+
     "answer": {
       "success": "Felicitaciones, esa fue la respuesta correcta",
       "error": "Esa no es la respuesta correcta",

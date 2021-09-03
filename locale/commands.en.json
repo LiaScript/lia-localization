@@ -91,6 +91,11 @@
     "hint": "show hint",
     "selection": "selection",
 
+    "label": {
+      "check": "Check the answer. The response will be marked as correct or incorrect.",
+      "solution": "Show the solution. The quiz will be marked as resolved."
+    },
+
     "answer": {
       "success": "Congratulations, that was the right answer",
       "error": "That's not the right answer",
