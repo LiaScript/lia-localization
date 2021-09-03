@@ -1,12 +1,12 @@
 {
-  "home": "Home",
+  "home": "집",
 
   "base": {
     "next": "다음",
     "prev": "이전",
 
-    "play": "play",
-    "stop": "stop",
+    "play": "플레이",
+    "stop": "멈추다",
 
     "font": "글꼴 크기: {{size}}",
     "size1": "작게",
@@ -23,7 +23,7 @@
     "show": "보이기",
     "hide": "감추기",
 
-    "editor": "Editor-Style",
+    "editor": "에디터 스타일",
 
     "lang": "한국어"
   },
@@ -34,8 +34,8 @@
   "c": {
     "color": "색상",
     "schema": "색상 스키마",
-    "dark": "어두움",
-    "bright": "밝음",
+    "dark": "다크 모드",
+    "bright": "라이트 모드",
 
     "default": "기본",
     "blue": "파랑",
@@ -67,7 +67,7 @@
     "information": "정보",
     "settings": "설정",
     "share": "공유",
-    "shareVia": "share via ...",
+    "shareVia": "통해 공유 ...",
     "translations": "번역"
   },
 
@@ -80,14 +80,19 @@
     "last": "최신 버전",
     "minimize": "뷰 최소화",
     "maximize": "뷰 최대화",
-    "terminal": "terminal"
+    "terminal": "단말기"
   },
 
   "quiz": {
     "check": "확인",
     "solution": "정답 보기",
     "hint": "힌트 보기",
-    "selection": "selection",
+    "selection": "선택",
+
+    "label": {
+      "check": "답을 확인하세요. 정답 또는 오답으로 표시됩니다.",
+      "solution": "솔루션을 보여주세요. 퀴즈가 해결된 것으로 표시됩니다."
+    },
 
     "answer": {
       "success": "축하합니다. 올바른 답을 선택했습니다.",
