@@ -5,8 +5,8 @@
     "next": "다음",
     "prev": "이전",
 
-    "play": "플레이",
-    "stop": "멈추다",
+    "play": "재생",
+    "stop": "정지",
 
     "abc": "가",
     "font": "글꼴 크기: {{size}}",
@@ -30,7 +30,7 @@
   },
 
   "no_translation": "번역되지 않음",
-  "translateWithGoogle": "Google 번역을 사용한 번역 결과 (실험적 기능)",
+  "translateWithGoogle": "Google Translate로 번역하기 (실험적 기능)",
 
   "c": {
     "color": "색상",
@@ -68,7 +68,7 @@
     "information": "정보",
     "settings": "설정",
     "share": "공유",
-    "shareVia": "통해 공유 ...",
+    "shareVia": "공유하기",
     "translations": "번역"
   },
 
@@ -140,7 +140,7 @@
   },
 
   "qr": {
-    "code": "QR code for website",
-    "err": "Error while encoding to QR code"
+    "code": "웹 사이트용 QR 코드",
+    "err": "QR 코드를 만드는 도중 오류가 발생했습니다."
   }
 }
