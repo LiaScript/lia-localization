@@ -70,6 +70,12 @@
     "translations": "traducciones"
   },
 
+  "tts": {
+    "preferBrowser": "Preferir TTS del navegador",
+    "usingBrowser": "Usando el motor interno de conversión de texto a voz del navegador.",
+    "unsupported": "Tu navegador no es compatible con Text-to-Speech, prueba con otro."
+  },
+
   "code": {
     "execute": "ejecutar",
     "running": "en funcionamiento",

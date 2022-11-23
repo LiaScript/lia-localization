@@ -74,6 +74,12 @@
     "tooltip": "Tooltips"
   },
 
+  "tts": {
+    "preferBrowser": "Prefer browser TTS",
+    "usingBrowser": "Using the browser's internal Text-to-Speech engine.",
+    "unsupported": "Your browser does not support Text-to-Speech, try another one."
+  },
+
   "code": {
     "execute": "Execute",
     "running": "is running",

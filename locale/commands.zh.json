@@ -70,6 +70,12 @@
     "translations": "翻譯"
   },
 
+  "tts": {
+    "preferBrowser": "首选浏览器 TTS",
+    "usingBrowser": "使用浏览器的内部文本转语音引擎。",
+    "unsupported": "您的浏览器不支持文本转语音，请换一个浏览器。"
+  },
+
   "code": {
     "execute": "開始執行",
     "running": "執行中",

@@ -70,6 +70,12 @@
     "translations": "Vertalingen"
   },
 
+  "tts": {
+    "preferBrowser": "Voorkeur browser TTS",
+    "usingBrowser": "De interne tekst-naar-spraak-engine van de browser gebruiken.",
+    "unsupported": "Uw browser ondersteunt tekst-naar-spraak niet, probeer een andere."
+  },
+
   "code": {
     "execute": "uitvoeren",
     "running": "wordt uitgevoerd",
