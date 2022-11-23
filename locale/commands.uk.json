@@ -67,7 +67,8 @@
     "settings": "налаштування",
     "share": "поділитися",
     "shareVia": "поділитися через ...",
-    "translations": "переклади"
+    "translations": "переклади",
+    "tooltip": "підказки"
   },
 
   "code": {

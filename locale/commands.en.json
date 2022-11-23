@@ -70,7 +70,8 @@
     "settings": "Settings",
     "share": "Share",
     "shareVia": "share via ...",
-    "translations": "Translations"
+    "translations": "Translations",
+    "tooltip": "Tooltips"
   },
 
   "code": {
