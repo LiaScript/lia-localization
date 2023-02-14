@@ -105,7 +105,7 @@
 
     "answer": {
       "success": "Congratulations, that was the right answer",
-      "error": "That's not the right answer",
+      "error": "The correct answer has not yet been given",
       "resolved": "Resolved answer"
     }
   },

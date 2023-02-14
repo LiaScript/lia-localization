@@ -103,7 +103,7 @@
 
     "answer": {
       "success": "Herzlichen Glückwunsch, das war die richtige Antwort",
-      "error": "Das ist nicht die richtige Antwort",
+      "error": "Die richtige Antwort wurde noch nicht gegeben",
       "resolved": "Aufgelöste Antwort"
     }
   },

@@ -100,7 +100,7 @@
 
     "answer": {
       "success": "Gefeliciteerd, dat was het juiste antwoord",
-      "error": "Dat is niet het juiste antwoord",
+      "error": "Het juiste antwoord is nog niet gegeven",
       "resolved": "Opgelost antwoord"
     }
   },

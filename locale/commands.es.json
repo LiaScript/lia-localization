@@ -100,7 +100,7 @@
 
     "answer": {
       "success": "Felicitaciones, esa fue la respuesta correcta",
-      "error": "Esa no es la respuesta correcta",
+      "error": "La respuesta correcta aún no ha sido dada",
       "resolved": "Respuesta resuelta"
     }
   },
