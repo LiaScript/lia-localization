@@ -1,0 +1,130 @@
+# Japanese - Translated by ChatGpt
+home: ホーム
+
+base:
+  next: 次へ
+  prev: 前へ
+  play: 再生
+  stop: 停止
+  abc: Aa
+  font: 'フォントサイズ: {{size}}'
+  size1: 小
+  size2: 中
+  size3: 大
+  search: 検索
+  delete: 検索をクリア
+  results: 結果
+  oneResult: 1件の結果
+  noResult: 結果なし
+  toc: 目次
+  show: 表示
+  hide: 非表示
+  editor: エディター・スタイル
+  lang: 日本語
+
+no_translation: まだ翻訳されていません
+translateWithGoogle: Google翻訳で翻訳する（実験的）
+
+c:
+  color: 色
+  schema: カラースキーム
+  dark: ダークモード
+  bright: ライトモード
+  default: デフォルト
+  blue: 青
+  red: 赤
+  yellow: 黄色
+  turquoise: ターコイズ
+
+mode:
+  mode: プレゼンテーションモード
+  textbook: 教科書
+  presentation: プレゼンテーション
+  slides: スライド
+
+sound:
+  'on': 音声オン
+  'off': 音声オフ
+
+info:
+  author: '著者：'
+  date: '日付：'
+  email: 'メール：'
+  version: 'バージョン：'
+
+conf:
+  information: 情報
+  settings: 設定
+  share: 共有
+  shareVia: 共有方法...
+  translations: 翻訳
+  tooltip: ツールチップ
+
+tts:
+  preferBrowser: ブラウザのTTSを優先する
+  usingBrowser: ブラウザの内蔵テキスト読み上げエンジンを使用中
+  unsupported: このブラウザはテキスト読み上げに対応していません。他のブラウザをお試しください。
+
+code:
+  execute: 実行
+  running: 実行中
+  prev: 前のバージョン
+  next: 次のバージョン
+  first: 最初のバージョン
+  last: 最新のバージョン
+  minimize: 最小化
+  maximize: 最大化
+  terminal: ターミナル
+
+quiz:
+  check: 確認
+  solution: 解答を表示
+  hint: ヒントを表示
+  selection: 選択
+
+  label:
+    check: 答えを確認してください。回答は正解または不正解でマークされます。
+    solution: 解答を表示します。クイズは解決済みとマークされます。
+
+  answer:
+    success: おめでとうございます、正解です
+    error: 正解がまだ与えられていません
+    resolved: 解決済みの回答
+
+survey:
+  submit: 送信
+  submitted: ありがとうございます
+  text: テキストを入力してください...
+
+sort:
+  asc: 昇順に並べ替え
+  desc: 降順に並べ替え
+  not: 未並べ替え
+
+chart:
+  pie: 円グラフ
+  bar: 棒グラフ
+  line: 折れ線グラフ
+  scatter: 散布図
+  effectScatter: 波紋散布図
+  radar: レーダーチャート
+  tree: ツリー
+  treemap: トレーマップ
+  boxplot: ボックスプロット
+  candlestick: ローソク足チャート
+  k: K 線チャート
+  heatmap: ヒートマップ
+  map: 地図
+  parallel: パラレル座標マップ
+  lines: 折れ線グラフ
+  graph: 関係グラフ
+  sankey: サンキーダイアグラム
+  funnel: ファネルチャート
+  gauge: ゲージ
+  pictorialBar: ピクトリアル棒グラフ
+  themeRiver: 主題河マップ
+  sunburst: サンバースト
+
+qr:
+  code: ウェブサイト用 QR コード
+  err: QR コードのエンコード中にエラーが発生しました

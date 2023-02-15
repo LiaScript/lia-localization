@@ -1,0 +1,129 @@
+home: Início
+
+base:
+  next: próximo
+  prev: anterior
+  play: reproduzir
+  stop: parar
+  abc: Aa
+  font: 'tamanho da fonte: {{size}}'
+  size1: pequeno
+  size2: médio
+  size3: grande
+  search: Buscar
+  delete: limpar busca
+  results: resultados
+  oneResult: um resultado
+  noResult: sem resultados
+  toc: Sumário
+  show: mostrar
+  hide: esconder
+  editor: Estilo do editor
+  lang: Português
+
+no_translation: ainda não traduzido
+translateWithGoogle: Traduzir com Google (experimental)
+
+c:
+  color: Cor
+  schema: Esquema de cores
+  dark: Modo escuro
+  bright: Modo claro
+  default: Padrão
+  blue: Azul
+  red: Vermelho
+  yellow: Amarelo
+  turquoise: Turquesa
+
+mode:
+  mode: Modo apresentação
+  textbook: Livro-texto
+  presentation: Apresentação
+  slides: Slides
+
+sound:
+  'on': Som ligado
+  'off': Som desligado
+
+info:
+  author: 'Autor: '
+  date: 'Data: '
+  email: 'e-mail: '
+  version: 'Versão: '
+
+conf:
+  information: Informação
+  settings: Configurações
+  share: Compartilhar
+  shareVia: compartilhar via ...
+  translations: Traduções
+  tooltip: Dicas de ferramentas
+
+tts:
+  preferBrowser: Preferir TTS do navegador
+  usingBrowser: Usando o motor interno de Texto-para-Fala do navegador.
+  unsupported: Seu navegador não suporta Texto-para-Fala, tente outro.
+
+code:
+  execute: Executar
+  running: está sendo executado
+  prev: versão anterior
+  next: próxima versão
+  first: primeira versão
+  last: última versão
+  minimize: minimizar visualização
+  maximize: maximizar visualização
+  terminal: terminal
+
+quiz:
+  check: Verificar
+  solution: mostrar solução
+  hint: mostrar dica
+  selection: seleção
+
+  label:
+    check: Verifique a resposta. A resposta será marcada como correta ou incorreta.
+    solution: Mostrar a solução. O quiz será marcado como resolvido.
+
+  answer:
+    success: Parabéns, essa foi a resposta certa.
+    error: A resposta correta ainda não foi dada.
+    resolved: Resposta resolvida.
+
+survey:
+  submit: Enviar
+  submitted: Obrigado
+  text: Digite algum texto...
+
+sort:
+  asc: ordenar em ordem crescente
+  desc: ordenar em ordem decrescente
+  not: não ordenado
+
+chart:
+  pie: Gráfico de pizza
+  bar: Gráfico de barras
+  line: Gráfico de linhas
+  scatter: Gráfico de dispersão
+  effectScatter: Gráfico de dispersão de ondulação
+  radar: Gráfico de radar
+  tree: Árvore
+  treemap: Mapa de árvore
+  boxplot: Diagrama de caixa
+  candlestick: Gráfico de candlestick
+  k: Gráfico de linhas K
+  heatmap: Mapa de calor
+  map: Mapa
+  parallel: Mapa de coordenadas paralelas
+  lines: Gráfico de linhas
+  graph: Gráfico de relacionamento
+  sankey: Diagrama de Sankey
+  funnel: Gráfico de funil
+  gauge: Medidor
+  pictorialBar: Gráfico pictórico de barras
+  themeRiver: Mapa de fluxo temático
+  sunburst: Sunburst
+
+qr:
+  code: Código QR para site
+  err: Erro durante a codificação para o código QR

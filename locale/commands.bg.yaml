@@ -1,0 +1,96 @@
+base:
+  next: Следващ
+  prev: Предишен
+  play: играйте
+  stop: спрете
+  font: 'Размер на шрифта: {{size}}'
+  size1: малък
+  size2: среден
+  size3: голям
+  search: Търсене
+  delete: търсене изтриване
+  results: Резултати
+  oneResult: един резултат
+  noResult: няма резултати
+  toc: Съдържание
+  show: показване
+  hide: скриване
+  editor: редакторски стил
+  lang: български
+
+no_translation: Без превод
+translateWithGoogle: Превод с Google (експериментално)
+
+c:
+  color: Цвят
+  schema: Цветова схема
+  dark: тъмен режим
+  bright: светъл режим
+  default: Подразбиране
+  blue: Синьо
+  red: червен
+  yellow: жълт
+  turquoise: тюркоаз
+
+mode:
+  mode: Режим на презентация
+  textbook: Текст
+  presentation: Презентация
+  slides: Слайдове
+
+sound:
+  'on': Звук изкл.
+  'off': Звук вкл.
+
+info:
+  author: 'Автор: '
+  date: 'Дата: '
+  email: 'eMail: '
+  version: 'Версия: '
+
+conf:
+  information: Информация
+  settings: Настройки
+  share: Споделяне
+  shareVia: споделете чрез ...
+  translations: Транслации
+
+tts:
+  preferBrowser: Предпочитам TTS на браузъра
+  usingBrowser: Използване на вътрешната машина за синтезиран говор на браузъра.
+  unsupported: Вашият браузър не поддържа Text-to-Speech, опитайте друг.
+
+code:
+  execute: Изпълни
+  running: Работещ
+  prev: Предишна версия
+  next: следваща версия
+  first: Първа версия
+  last: Последна версия
+  minimize: Минимизиране
+  maximize: Максимизиране
+  terminal: терминал
+
+quiz:
+  check: Проверка
+  solution: Отговор
+  hint: Подсказване
+  selection: избор
+
+  label:
+    check: Проверете отговора. Отговорът е маркиран като правилен или неправилен.
+    solution: Покажете решението. Тестът е означен като решен.
+
+  answer:
+    success: Поздравления, това беше правилният отговор
+    error: Все още не е даден правилният отговор
+    resolved: Решен отговор
+
+survey:
+  submit: Изпрати
+  submitted: Благодаря
+  text: Въведете текст...
+
+qr:
+  code: QR код за уебсайт
+  err: Грешка при кодирането към QR код

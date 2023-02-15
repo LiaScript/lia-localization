@@ -1,0 +1,131 @@
+# Bengali - Translated by ChatGpt
+
+home: হোম
+
+base:
+  next: পরবর্তী
+  prev: পূর্ববর্তী
+  play: প্লে
+  stop: স্টপ
+  abc: এবিসি
+  font: 'ফন্ট সাইজ: {{size}}'
+  size1: ছোট
+  size2: মাঝারি
+  size3: বড়
+  search: অনুসন্ধান
+  delete: অনুসন্ধান মুছে ফেলুন
+  results: ফলাফল
+  oneResult: একটি ফলাফল
+  noResult: কোন ফলাফল নেই
+  toc: সূচী
+  show: দেখান
+  hide: লুকান
+  editor: সম্পাদক-স্টাইল
+  lang: ইংরেজি
+
+no_translation: এখনও অনুবাদ নেই
+translateWithGoogle: Google দিয়ে অনুবাদ করুন (প্রায়োগিক)
+
+c:
+  color: রঙ
+  schema: রঙের স্কিম
+  dark: ডার্ক মোড
+  bright: লাইট মোড
+  default: ডিফল্ট
+  blue: নীল
+  red: লাল
+  yellow: হলুদ
+  turquoise: টার্কোয়াজ
+
+mode:
+  mode: প্রস্তুতির মোড
+  textbook: টেক্সটবুক
+  presentation: প্রেজেন্টেশন
+  slides: স্লাইড
+
+sound:
+  'on': শব্দ চালু
+  'off': শব্দ বন্ধ
+
+info:
+  author: 'লেখক: '
+  date: 'তারিখ: '
+  email: 'ইমেল: '
+  version: 'সংস্করণ: '
+
+conf:
+  information: তথ্য
+  settings: সেটিংস
+  share: ভাগ করুন
+  shareVia: এর মাধ্যমে ভাগ করুন ...
+  translations: অনুবাদ
+  tooltip: টুল
+
+tts:
+  preferBrowser: ব্রাউজার TTS পছন্দ করুন
+  usingBrowser: ব্রাউজারের অভ্যন্তরীণ পাঠকন ইঞ্জিন ব্যবহার করা হচ্ছে।
+  unsupported: আপনার ব্রাউজার টেক্সট-টু-স্পিচ সমর্থন করে না, অন্য কোন ব্রাউজার চেষ্টা করুন।
+
+code:
+  execute: সম্পাদনা করুন
+  running: চলছে
+  prev: পূর্ববর্তী সংস্করণ
+  next: পরবর্তী সংস্করণ
+  first: প্রথম সংস্করণ
+  last: শেষ সংস্করণ
+  minimize: সামঞ্জস্য কমান
+  maximize: সামঞ্জস্য বাড়ান
+  terminal: টার্মিনাল
+
+quiz:
+  check: পরীক্ষা করুন
+  solution: সমাধান প্রদর্শন করুন
+  hint: হিন্ট দেখান
+  selection: নির্বাচন
+
+  label:
+    check: উত্তরটি পরীক্ষা করুন। প্রতিক্রিয়াটি সঠিক বা ভুল হিসাবে চিহ্নিত করা হবে।
+    solution: সমাধান প্রদর্শন করুন। কুইজটি সমাধানিত হিসাবে চিহ্নিত করা হবে।
+
+  answer:
+    success: অভিনন্দন, সেটা সঠিক উত্তর ছিল
+    error: সঠিক উত্তরটি এখনও দেওয়া হয়নি
+    resolved: সমাধানিত উত্তর
+
+survey:
+  submit: জমা দিন
+  submitted: ধন্যবাদ
+  text: কিছু লিখুন...
+
+sort:
+  asc: আরোহী ক্রমানুসারে সাজান
+  desc: অবরোহী ক্রমানুসারে সাজান
+  not: বিন্যাসযোগ্য নয়
+
+chart:
+  pie: পাই চার্ট
+  bar: বার চার্ট
+  line: লাইন চার্ট
+  scatter: স্ক্যাটার প্লট
+  effectScatter: প্রভাব স্ক্যাটার প্লট
+  radar: রেডার চার্ট
+  tree: ট্রি
+  treemap: ট্রি ম্যাপ
+  boxplot: বক্স প্লট
+  candlestick: ক্যান্ডেলস্টিক চার্ট
+  k: কে লাইন চার্ট
+  heatmap: হিটম্যাপ
+  map: ম্যাপ
+  parallel: প্যারালেল কো঑র্ডিনেট ম্যাপ
+  lines: লাইন গ্রাফ
+  graph: সম্পর্ক গ্রাফ
+  sankey: স্যাঙ্কি ডায়াগ্রাম
+  funnel: ফানেল চার্ট
+  gauge: গেজ
+  pictorialBar: চিত্রসম্পন্ন বার
+  themeRiver: থিম রিভার ম্যাপ
+  sunburst: সানবার্স্ট চার্ট
+
+qr:
+  code: ওয়েবসাইটের জন্য QR কোড
+  err: QR কোডে এনকোডিং সমস্যা হয়েছে

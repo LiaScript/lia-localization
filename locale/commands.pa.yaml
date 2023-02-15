@@ -1,0 +1,121 @@
+# Panjabi - translated by ChatGpt
+home: ਘਰ
+
+base:
+  next: ਅੱਗੇ
+  prev: ਪਿੱਛੇ
+  play: ਚਲਾਓ
+  stop: ਬੰਦ ਕਰੋ
+  abc: ਏਬੀਸੀ
+  font: 'ਫੋਂਟ ਆਕਾਰ: {{size}}'
+  size1: ਛੋਟਾ
+  size2: ਦਰਮਿਆਨਾ
+  size3: ਵੱਡਾ
+  search: ਖੋਜ
+  delete: ਖੋਜ ਹਟਾਓ
+  results: ਨਤੀਜੇ
+  oneResult: ਇੱਕ ਨਤੀਜਾ
+  noResult: ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ
+  toc: ਸਮੱਗਰੀ ਦੇ ਨਾਲ-ਨਾਲ
+  show: ਵੇਖਾਓ
+  hide: ਓਹਲੇ
+  editor: ਸੰਪਾਦਕ ਸਟਾਈਲ
+  lang: ਪੰਜਾਬੀ
+
+no_translation: ਅਜੇ ਅਨੁਵਾਦ ਨਹੀਂ ਹੈ
+translateWithGoogle: ਗੂਗਲ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ (ਪ੍ਰਯੋਗਾਤਮਕ)
+
+c:
+  color: ਰੰਗ
+  schema: ਰੰਗ ਸਕੀਮ
+  dark: ਡਾਰਕ ਮੋਡ
+  bright: ਚਮਕੀਲਾ ਮੋਡ
+  default: ਮੂਲ
+  blue: ਨੀਲਾ
+  red: ਲਾਲ
+  yellow: ਪੀਲਾ
+  turquoise: ਫੀਰੋਜ਼ੀ
+
+mode:
+  mode: ਪ੍ਰਸਤੁਤੀ ਮੋਡ
+  textbook: ਟੈਕਸਟਬੁੱਕ
+  presentation: ਪ੍ਰਸਤੁਤੀ
+  slides: ਸਲਾਈਡ
+
+sound:
+  'on': ਸਾਊਂਡ ਚਾਲੂ
+  'off': ਸਾਊਂਡ ਬੰਦ
+
+info:
+  author: 'ਲੇਖਕ: '
+  date: 'ਮਿਤੀ: '
+  email: 'ਈਮੇਲ: '
+  version: ਵਰਜਨ
+
+conf:
+  information: ਜਾਣਕਾਰੀ
+  settings: ਸੈਟਿੰਗ
+  share: ਸਾਂਝਾ ਕਰੋ
+  shareVia: ਸਾਂਝਾ ਕਰੋ ਵਿਆ ...
+  translations: ਅਨੁਵਾਦ
+  tooltip: ਉਪਸਮਾਨ
+
+tts:
+  preferBrowser: ਬਰਾਊਜ਼ਰ TTS ਦਾ ਪਸੰਦ ਦਿਓ
+  usingBrowser: ਬਰਾਊਜ਼ਰ ਦੇ ਅੰਦਰੂਨੀ ਟੈਕਸਟ-ਟੁ-ਸਪੀਚ ਇੰਜਨ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ।
+  unsupported: ਤੁਸੀਂ ਟੈਕਸਟ-ਟੁ-ਸਪੀਚ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦੇ, ਕੋਈ ਹੋਰ ਸਫ਼ਾਰੀ ਵਰਤੋ।
+
+code:
+  execute: ਚਲਾਓ
+  running: ਚੱਲ ਰਿਹਾ ਹੈ
+  prev: ਪਿਛਲਾ ਵਰਜਨ
+  next: ਅਗਲਾ ਵਰਜਨ
+  first: ਪਹਿਲਾਂ ਦਾ ਵਰਜਨ
+  last: ਆਖੀਰੀ ਵਰਜਨ
+  minimize: ਨਿੱਚੇ ਕਰੋ ਝਲਕ
+  maximize: ਵੱਧ ਕਰੋ ਝਲਕ
+  terminal: ਟਰਮੀਨਲ
+
+quiz:
+  check: ਜਾਂਚ ਕਰੋ
+  solution: ਹੱਲ ਦਿਖਾਓ
+  hint: ਇੱਕ ਇੰਗਿਤ ਦਿਖਾਓ
+  selection: ਚੋਣ
+
+  label:
+    check: ਜਵਾਬ ਦੀ ਜਾਂਚ ਕਰੋ। ਜਵਾਬ ਸਹੀ ਜਾਂ ਗਲਤ ਨਿਸ਼ਾਨਾ ਲਗਾਇਆ ਜਾਵੇਗਾ।
+    solution: ਹੱਲ ਦਿਖਾਓ। ਕਵਿਜ਼ ਹੱਲ ਕੀਤਾ ਜਾਵੇਗਾ।
+
+  answer:
+    success: ਬਧਾਈ ਹੋ, ਜਿਹਨਾਂ ਜਵਾਬ ਸਹੀ ਸੀ।
+    error: ਸਹੀ ਜਵਾਬ ਹਾਲੇ ਨਹੀਂ ਦਿੱਤਾ ਗਿਆ ਹੈ।
+    resolved: ਹੱਲ ਕੀਤਾ ਗਿਆ ਜਵਾਬ
+
+survey:
+  submit: ਜਮਾ ਕਰੋ
+  submitted: ਧੰਨਵਾਦ
+  text: ਕੁਝ ਟੈਕਸਟ ਦਿਓ...
+
+sort:
+  asc: ਚੜਦੀ ਕ੍ਰਮ ਵਿੱਚ
+  desc: ਡਿਸਕੰਡਿੰਗ ਕ੍ਰਮ ਵਿੱਚ
+  not: ਨਾ ਸੋਰਟ
+
+chart:
+  pie: ਪਾਈ ਚਾਰਟ
+  bar: ਬਾਰ ਚਾਰਟ
+  line: ਰੇਖਾ ਚਾਰਟ
+  scatter: ਸਿਆਨਾ ਚਿੰਨ੍ਹ ਚਾਰਟ
+  effectScatter: ਰਿਪਲ ਸਿਆਨਾ ਚਿੰਨ੍ਹ ਚਾਰਟ
+  radar: ਰਾਡਾਰ ਚਾਰਟ
+  tree: ਟਰੀ
+  treemap: ਟ੍ਰੀਮੈਪ
+  boxplot: ਬਾਕਸਪਲਾਟ
+  candlestick: ਕੈਂਡਲਸਟਿਕ
+  k: ਕੇ-ਲਾਈਨ ਚਾਰਟ
+  heatmap: ਹੀਟਮੈਪ
+  map: ਨਕਸ਼ਾ
+
+qr:
+  code: ਵੈੱਬਸਾਈਟ ਲਈ ਕੁਆਰ ਕੋਡ
+  err: ਕੁਆਰ ਕੋਡ ਨੂੰ ਏਨਕੋਡ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ

@@ -1,0 +1,129 @@
+home: Home
+
+base:
+  next: next
+  prev: previous
+  play: play
+  stop: stop
+  abc: Aa
+  font: 'font size: {{size}}'
+  size1: small
+  size2: medium
+  size3: large
+  search: Search
+  delete: clear search
+  results: results
+  oneResult: one result
+  noResult: no results
+  toc: Table of Contents
+  show: show
+  hide: hide
+  editor: Editor-Style
+  lang: English
+
+no_translation: no translation yet
+translateWithGoogle: Translate with Google (experimental)
+
+c:
+  color: Color
+  schema: Color scheme
+  dark: Dark-Mode
+  bright: Light-Mode
+  default: Default
+  blue: Blue
+  red: Red
+  yellow: Yellow
+  turquoise: Turquoise
+
+mode:
+  mode: Presentation mode
+  textbook: Textbook
+  presentation: Presentation
+  slides: Slides
+
+sound:
+  'on': Sound on
+  'off': Sound off
+
+info:
+  author: 'Author: '
+  date: 'Date: '
+  email: 'eMail: '
+  version: 'Version: '
+
+conf:
+  information: Information
+  settings: Settings
+  share: Share
+  shareVia: share via ...
+  translations: Translations
+  tooltip: Tooltips
+
+tts:
+  preferBrowser: Prefer browser TTS
+  usingBrowser: Using the browser's internal Text-to-Speech engine.
+  unsupported: Your browser does not support Text-to-Speech, try another one.
+
+code:
+  execute: Execute
+  running: is running
+  prev: previous version
+  next: next version
+  first: first version
+  last: last version
+  minimize: minimize view
+  maximize: maximize view
+  terminal: terminal
+
+quiz:
+  check: Check
+  solution: show solution
+  hint: show hint
+  selection: selection
+
+  label:
+    check: Check the answer. The response will be marked as correct or incorrect.
+    solution: Show the solution. The quiz will be marked as resolved.
+
+  answer:
+    success: Congratulations, that was the right answer
+    error: The correct answer has not yet been given
+    resolved: Resolved answer
+
+survey:
+  submit: Submit
+  submitted: Thanks
+  text: Enter some text...
+
+sort:
+  asc: sort ascending
+  desc: sort descending
+  not: not sorted
+
+chart:
+  pie: Pie chart
+  bar: Bar chart
+  line: Line chart
+  scatter: Scatter plot
+  effectScatter: Ripple scatter plot
+  radar: Radar chart
+  tree: Tree
+  treemap: Treemap
+  boxplot: Boxplot
+  candlestick: Candlestick
+  k: K line chart
+  heatmap: Heat map
+  map: Map
+  parallel: Parallel coordinate map
+  lines: Line graph
+  graph: Relationship graph
+  sankey: Sankey diagram
+  funnel: Funnel chart
+  gauge: Guage
+  pictorialBar: Pictorial bar
+  themeRiver: Theme River Map
+  sunburst: Sunburst
+
+qr:
+  code: QR code for website
+  err: Error while encoding to QR code

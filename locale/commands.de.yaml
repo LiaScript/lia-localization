@@ -1,0 +1,129 @@
+home: Übersicht
+
+base:
+  next: weiter
+  prev: zurück
+  play: Wiedergabe
+  stop: Stopp
+  font: 'Schriftgröße: {{size}}'
+  size1: klein
+  size2: mittel
+  size3: groß
+  search: Suche
+  delete: Suche löschen
+  results: Ergebnisse
+  oneResult: ein Ergebnis
+  noResult: kein Ergebnis
+  toc: Inhaltsverzeichnis
+  show: zeigen
+  hide: verberghen
+  editor: Editor-Stil
+  lang: Deutsch
+
+no_translation: noch keine Übersetzungen vorhanden
+
+translateWithGoogle: Mit Google übersetzen (experimentell)
+
+c:
+  color: Farbe
+  schema: Farbschema
+  dark: Dunkelmodus
+  bright: Hellmodus
+  default: Standard
+  blue: Blau
+  red: Rot
+  yellow: Gelb
+  turquoise: Türkis
+
+mode:
+  mode: Präsentationsmodus
+  textbook: Lehrbuch
+  presentation: Präsentation
+  slides: Folien
+
+sound:
+  'on': Sprecher an
+  'off': Sprecher aus
+
+info:
+  author: 'Autor: '
+  date: 'Datum: '
+  email: 'e-Mail: '
+  version: 'Version: '
+
+conf:
+  information: Informationen
+  settings: Einstellungen
+  share: Teilen
+  shareVia: Teilen per ...
+  translations: Übersetzungen
+  tooltip: Tooltipps
+
+tts:
+  preferBrowser: Browser-TTS bevorzugen
+  usingBrowser: Verwendung der internen Text-zu-Speech-Engine des Browsers.
+  unsupported: Ihr Browser unterstützt kein Text-to-Speech, versuchen Sie es mit einem anderen.
+
+code:
+  execute: Ausführen
+  running: wird ausgeführt
+  prev: eine Version zurück
+  next: eine Version vor
+  first: erste Version
+  last: letzte Version
+  minimize: Darstellung minimieren
+  maximize: Darstellung maximieren
+  terminal: Terminal
+
+quiz:
+  check: Prüfen
+  solution: zeige Lösung
+  hint: Hinweis anzeigen
+  selection: Auswahl
+
+  label:
+    check: Überprüfe die Antwort. Die Antwort wird als richtig oder falsch markiert.
+    solution: Zeige die Lösung. Das Quiz wird als aufgelöst markiert.
+
+  answer:
+    success: Herzlichen Glückwunsch, das war die richtige Antwort
+    error: Die richtige Antwort wurde noch nicht gegeben
+    resolved: Aufgelöste Antwort
+
+survey:
+  submit: Abschicken
+  submitted: Dankeschön
+  text: Texteingabe ...
+
+sort:
+  asc: aufsteigend sortieren
+  desc: absteigend sortieren
+  not: nicht sortiert
+
+chart:
+  pie: Tortendiagramm
+  bar: Balkendiagramm
+  line: Liniendiagramm
+  scatter: Streudiagramm
+  effectScatter: Welligkeits-Streudiagramm
+  radar: Radar-Karte
+  tree: Baum
+  treemap: Baumkarte
+  boxplot: Boxplot
+  candlestick: Kerzenständer
+  k: K Liniendiagramm
+  heatmap: Heatmap
+  map: Karte
+  parallel: Parallele Koordinatenkarte
+  lines: Liniendiagramm
+  graph: Beziehungsgrafik
+  sankey: Sankey-Diagramm
+  funnel: Trichterdiagramm
+  gauge: Meßanzeige
+  pictorialBar: Bildlicher Balken
+  themeRiver: Thematische Flusskarte
+  sunburst: Sonnenausbruch
+
+qr:
+  code: QR-Code für Webseite
+  err: Fehler beim Codieren in QR-Code
