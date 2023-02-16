@@ -1,3 +1,5 @@
+# German
+
 home: Übersicht
 
 base:
@@ -105,13 +107,13 @@ chart:
   bar: Balkendiagramm
   line: Liniendiagramm
   scatter: Streudiagramm
-  effectScatter: Welligkeits-Streudiagramm
+#  effectScatter: Welligkeits-Streudiagramm
   radar: Radar-Karte
-  tree: Baum
-  treemap: Baumkarte
+#  tree: Baum
+#  treemap: Baumkarte
   boxplot: Boxplot
-  candlestick: Kerzenständer
-  k: K Liniendiagramm
+#  candlestick: Kerzenständer
+#  k: K Liniendiagramm
   heatmap: Heatmap
   map: Karte
   parallel: Parallele Koordinatenkarte
@@ -119,10 +121,10 @@ chart:
   graph: Beziehungsgrafik
   sankey: Sankey-Diagramm
   funnel: Trichterdiagramm
-  gauge: Meßanzeige
-  pictorialBar: Bildlicher Balken
-  themeRiver: Thematische Flusskarte
-  sunburst: Sonnenausbruch
+#  gauge: Meßanzeige
+#  pictorialBar: Bildlicher Balken
+#  themeRiver: Thematische Flusskarte
+#  sunburst: Sonnenausbruch
 
 qr:
   code: QR-Code für Webseite

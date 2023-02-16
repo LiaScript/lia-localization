@@ -105,13 +105,13 @@ chart:
   bar: Gráfico de barras
   line: Gráfico de linhas
   scatter: Gráfico de dispersão
-  effectScatter: Gráfico de dispersão de ondulação
+#  effectScatter: Gráfico de dispersão de ondulação
   radar: Gráfico de radar
-  tree: Árvore
-  treemap: Mapa de árvore
+#  tree: Árvore
+#  treemap: Mapa de árvore
   boxplot: Diagrama de caixa
-  candlestick: Gráfico de candlestick
-  k: Gráfico de linhas K
+#  candlestick: Gráfico de candlestick
+#  k: Gráfico de linhas K
   heatmap: Mapa de calor
   map: Mapa
   parallel: Mapa de coordenadas paralelas
@@ -119,10 +119,10 @@ chart:
   graph: Gráfico de relacionamento
   sankey: Diagrama de Sankey
   funnel: Gráfico de funil
-  gauge: Medidor
-  pictorialBar: Gráfico pictórico de barras
-  themeRiver: Mapa de fluxo temático
-  sunburst: Sunburst
+#  gauge: Medidor
+#  pictorialBar: Gráfico pictórico de barras
+#  themeRiver: Mapa de fluxo temático
+#  sunburst: Sunburst
 
 qr:
   code: Código QR para site

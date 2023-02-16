@@ -1,0 +1,131 @@
+# Hindi
+
+home: सिंहावलोकन
+
+base:
+  next: जारी रखें
+  prev: वापस
+  play: प्लेबैक
+  stop: बंद करो
+  font: 'फ़ॉन्ट आकार: {{आकार}}'
+  size1: छोटा
+  size2: मध्यम
+  size3: बड़ा
+  search: खोजें
+  delete: खोज हटाएं
+  results: परिणाम
+  oneResult: एक परिणाम
+  noResult: कोई परिणाम नहीं
+  toc: सामग्री की तालिका
+  show: दिखाएँ
+  hide: छुपाएं
+  editor: संपादक शैली
+  lang: जर्मन
+
+no_translation: अभी तक कोई अनुवाद उपलब्ध नहीं है
+
+translateWithGoogle: Google के साथ अनुवाद करें (प्रायोगिक)
+
+c:
+  color: रंग
+  schema: रंग योजना
+  dark: डार्क मोड
+  bright: लाइट मोड
+  default: डिफ़ॉल्ट
+  blue: नीला
+  red: लाल
+  yellow: पीला
+  turquoise: फ़िरोज़ा
+
+mode:
+  mode: प्रेजेंटेशन मोड
+  textbook: पाठ्यपुस्तक
+  presentation: प्रस्तुति
+  slides: स्लाइड्स
+
+sound:
+  'on': स्पीकर ऑन
+  'off': स्पीकर बंद
+
+info:
+  author: 'लेखक:'
+  date: 'तारीख:'
+  email: 'ईमेल:'
+  version: 'संस्करण:'
+
+conf:
+  information: सूचना
+  settings: सेटिंग्स
+  share: शेयर करें
+  shareVia: के माध्यम से साझा करें ...
+  translations: अनुवाद
+  tooltip: टूलटिप्स
+
+tts:
+  preferBrowser: ब्राउज़र TTS को प्राथमिकता दें
+  usingBrowser: ब्राउज़र के आंतरिक टेक्स्ट-टू-स्पीच इंजन का उपयोग करना।
+  unsupported: आपका ब्राउज़र टेक्स्ट-टू-स्पीच का समर्थन नहीं करता है, एक अलग प्रयास करें।
+
+code:
+  execute: भागो
+  running: चल रहा है
+  prev: एक संस्करण वापस
+  next: एक संस्करण पहले
+  first: पहली रिलीज
+  last: अंतिम संस्करण
+  minimize: प्रदर्शन को छोटा करें
+  maximize: प्रदर्शन को अधिकतम करें
+  terminal: टर्मिनल
+
+quiz:
+  check: चेक करें
+  solution: समाधान दिखाएं
+  hint: संकेत दिखाएं
+  selection: चयन
+
+  label:
+    check: उत्तर की जाँच करें। उत्तर को सही या गलत के रूप में चिह्नित किया गया है।
+    solution: समाधान दिखाएं। प्रश्नोत्तरी को समाधान के रूप में चिह्नित किया जाएगा।
+
+  answer:
+    success: बधाई हो, यह सही उत्तर था
+    error: अभी तक सही उत्तर नहीं दिया गया है
+    resolved: हल की गई प्रतिक्रिया
+
+survey:
+  submit: सबमिट करें
+  submitted: धन्यवाद
+  text: टेक्स्ट इनपुट ...
+
+sort:
+  asc: आरोही क्रमबद्ध करें
+  desc: अवरोही क्रमबद्ध करें
+  not: क्रमबद्ध नहीं
+
+chart:
+  pie: पाई चार्ट
+  bar: बार चार्ट
+  line: लाइन चार्ट
+  scatter: स्कैटरप्लॉट
+#  effectScatter: रिपल स्कैटर प्लॉट
+  radar: रडार मैप
+#  tree: पेड़
+#  treemap: ट्रीमैप
+  boxplot: बॉक्सप्लॉट
+#  candlestick: कैंडलस्टिक
+#  k: K लाइन चार्ट
+  heatmap: हीटमैप
+  map: मैप
+  parallel: समानांतर समन्वय मानचित्र
+  lines: लाइन चार्ट
+  graph: रिलेशनशिप ग्राफ
+  sankey: सैंके आरेख
+  funnel: फ़नल चार्ट
+#  gauge: माप प्रदर्शन
+#  pictorialBar: सचित्र बार
+#  themeRiver: विषयगत नदी मानचित्र
+#  sunburst: सनबर्स्ट
+
+qr:
+  code: वेबसाइट के लिए क्यूआर कोड
+  err: क्यूआर कोड को एनकोड करने में त्रुटि

@@ -1,3 +1,5 @@
+# Arabic
+
 base:
   next: التالي
   prev: السابق
@@ -96,11 +98,11 @@ chart:
   bar: مخطط شريطي
   line: مخطط خطي
   scatter: مخطط مبعثر
-  effectScatter: مخطط تبعثر تموج
+#  effectScatter: مخطط تبعثر تموج
   radar: مخطط نسيجي
-  tree: الشجرة
-  treemap: خريطة الشجرة
-  k: مخطط خطي
+#  tree: الشجرة
+#  treemap: خريطة الشجرة
+#  k: مخطط خطي
   heatmap: خريطة التمثيل اللوني
   map: خريطة
   parallel: متوازي
@@ -108,7 +110,7 @@ chart:
   graph: رسم بياني
   sankey: مخطط سانكي
   funnel: مخطط قمعي
-  pictorialBar: شريط مصور
+#  pictorialBar: شريط مصور
 
 qr:
   code: رمز الاستجابة السريعة للموقع

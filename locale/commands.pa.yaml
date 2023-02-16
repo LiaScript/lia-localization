@@ -1,4 +1,5 @@
 # Panjabi - translated by ChatGpt
+
 home: ਘਰ
 
 base:
@@ -106,13 +107,13 @@ chart:
   bar: ਬਾਰ ਚਾਰਟ
   line: ਰੇਖਾ ਚਾਰਟ
   scatter: ਸਿਆਨਾ ਚਿੰਨ੍ਹ ਚਾਰਟ
-  effectScatter: ਰਿਪਲ ਸਿਆਨਾ ਚਿੰਨ੍ਹ ਚਾਰਟ
+#  effectScatter: ਰਿਪਲ ਸਿਆਨਾ ਚਿੰਨ੍ਹ ਚਾਰਟ
   radar: ਰਾਡਾਰ ਚਾਰਟ
-  tree: ਟਰੀ
-  treemap: ਟ੍ਰੀਮੈਪ
+#  tree: ਟਰੀ
+#  treemap: ਟ੍ਰੀਮੈਪ
   boxplot: ਬਾਕਸਪਲਾਟ
-  candlestick: ਕੈਂਡਲਸਟਿਕ
-  k: ਕੇ-ਲਾਈਨ ਚਾਰਟ
+#  candlestick: ਕੈਂਡਲਸਟਿਕ
+#  k: ਕੇ-ਲਾਈਨ ਚਾਰਟ
   heatmap: ਹੀਟਮੈਪ
   map: ਨਕਸ਼ਾ
 

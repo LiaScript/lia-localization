@@ -1,3 +1,5 @@
+# English
+
 home: Home
 
 base:
@@ -105,13 +107,13 @@ chart:
   bar: Bar chart
   line: Line chart
   scatter: Scatter plot
-  effectScatter: Ripple scatter plot
+#  effectScatter: Ripple scatter plot
   radar: Radar chart
-  tree: Tree
-  treemap: Treemap
+#  tree: Tree
+#  treemap: Treemap
   boxplot: Boxplot
-  candlestick: Candlestick
-  k: K line chart
+#  candlestick: Candlestick
+#  k: K line chart
   heatmap: Heat map
   map: Map
   parallel: Parallel coordinate map
@@ -119,10 +121,10 @@ chart:
   graph: Relationship graph
   sankey: Sankey diagram
   funnel: Funnel chart
-  gauge: Guage
-  pictorialBar: Pictorial bar
-  themeRiver: Theme River Map
-  sunburst: Sunburst
+#  gauge: Guage
+#  pictorialBar: Pictorial bar
+#  themeRiver: Theme River Map
+#  sunburst: Sunburst
 
 qr:
   code: QR code for website

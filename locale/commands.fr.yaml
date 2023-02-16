@@ -1,0 +1,129 @@
+# French - Translated by ChatGpt
+
+home: Vue d'ensemble
+
+base:
+  next: suivant
+  prev: précédent
+  play: Lecture
+  stop: Arrêt
+  font: 'Taille de police : {{size}}'
+  size1: petit
+  size2: moyen
+  size3: grand
+  search: Recherche
+  delete: Effacer la recherche
+  results: Résultats
+  oneResult: un résultat
+  noResult: aucun résultat
+  toc: Table des matières
+  show: montrer
+  hide: cacher
+  editor: Style de l'éditeur
+  lang: Français
+
+no_translation: traductions non disponibles
+translateWithGoogle: Traduire avec Google (expérimental)
+
+c:
+  color: Couleur
+  schema: Schéma de couleurs
+  dark: Mode sombre
+  bright: Mode clair
+  default: Standard
+  blue: Bleu
+  red: Rouge
+  yellow: Jaune
+  turquoise: Turquoise
+
+mode:
+  mode: Mode de présentation
+  textbook: Manuel
+  presentation: Présentation
+  slides: Diapositives
+
+sound:
+  'on': Haut-parleur activé
+  'off': Haut-parleur désactivé
+
+info:
+  author: 'Auteur : '
+  date: 'Date : '
+  email: 'E-mail : '
+  version: 'Version : '
+
+conf:
+  information: Informations
+  settings: Paramètres
+  share: Partager
+  shareVia: Partager via ...
+  translations: Traductions
+  tooltip: Infobulles
+
+tts:
+  preferBrowser: Préférer le TTS du navigateur
+  usingBrowser: Utilisation du moteur de synthèse vocale intégré du navigateur.
+  unsupported: Votre navigateur ne prend pas en charge le texte en discours, essayez-en
+    un autre.
+
+code:
+  execute: Exécuter
+  running: en cours d'exécution
+  prev: version précédente
+  next: version suivante
+  first: première version
+  last: dernière version
+  minimize: Réduire l'affichage
+  maximize: Maximiser l'affichage
+  terminal: Terminal
+
+quiz:
+  check: Vérifier
+  solution: Afficher la solution
+  hint: Afficher l'indice
+  selection: Sélection
+  label:
+    check: Vérifiez la réponse. La réponse sera marquée comme correcte ou incorrecte.
+    solution: Affichez la solution. Le quiz sera marqué comme résolu.
+  answer:
+    success: Félicitations, c'était la bonne réponse
+    error: La réponse correcte n'a pas encore été donnée
+    resolved: Réponse résolue
+
+survey:
+  submit: Soumettre
+  submitted: Merci
+  text: Saisie de texte ...
+
+sort:
+  asc: trier par ordre croissant
+  desc: trier par ordre décroissant
+  not: non trié
+
+chart:
+  pie: Diagramme en secteurs
+  bar: Diagramme en bâtons
+  line: Graphique linéaire
+  scatter: Nuage de points
+#  effectScatter: Nuage de points ondulé
+  radar: Graphique en radar
+#  tree: Arbre
+#  treemap: Carte arborescente
+  boxplot: Boîte à moustaches
+#  candlestick: Chandelier
+#  k: Graphique en K
+  heatmap: Carte de chaleur
+  map: Carte
+  parallel: Carte de coordonnées parallèles
+  lines: Graphe linéaire
+  graph: Graphe de relations
+  sankey: Diagramme de Sankey
+  funnel: Entonnoir
+#  gauge: Jauge
+#  pictorialBar: Barre picturale
+#  themeRiver: Carte à flux thématique
+#  sunburst: Sunburst
+
+qr:
+  code: Code QR pour site web
+  err: Erreur lors de l'encodage en code QR

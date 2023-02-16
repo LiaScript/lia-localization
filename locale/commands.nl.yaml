@@ -1,0 +1,102 @@
+# Dutch
+
+base:
+  next: verder
+  prev: terug
+  play: afspelen
+  stop: stoppen
+  font: 'Lettergrootte: {{size}}'
+  size1: klein
+  size2: medium
+  size3: groot
+  search: zoek
+  delete: Duidelijke zoek
+  results: Resultaten
+  oneResult: een resultaat
+  noResult: Geen resultaten
+  toc: Inhoudsopgave
+  show: tonen
+  hide: verbergen
+  editor: editor-stijl
+  lang: Nederlands
+
+no_translation: noch geen vertaling aanwezig
+translateWithGoogle: Vertalen met Google (experimenteel)
+
+c:
+  color: kleur
+  schema: Kleurenschema
+  dark: donkere modus
+  bright: lichte modus
+  default: standaard
+  blue: blauw
+  red: rood
+  yellow: geel
+  turquoise: turkoois
+
+mode:
+  mode: Presentatiemodus
+  textbook: Studieboek
+  presentation: Presentatie
+  slides: Folies
+
+sound:
+  'on': Luidspreker aan
+  'off': Luidspreker uit
+
+info:
+  author: 'Auteur: '
+  date: 'Datum: '
+  email: 'e-email: '
+  version: 'Versie: '
+
+conf:
+  information: Informatie
+  settings: Instellingen
+  share: Delen
+  shareVia: deel via ...
+  translations: Vertalingen
+
+tts:
+  preferBrowser: Voorkeur browser TTS
+  usingBrowser: De interne tekst-naar-spraak-engine van de browser gebruiken.
+  unsupported: Uw browser ondersteunt tekst-naar-spraak niet, probeer een andere.
+
+code:
+  execute: uitvoeren
+  running: wordt uitgevoerd
+  prev: een versie terug
+  next: een versie vooruit
+  first: eerste versie
+  last: laatste versie
+  minimize: weergave verkleinen
+  maximize: weergave maximaliseren
+
+quiz:
+  check: bekijk
+  solution: toon oplossing
+  hint: toon hint
+  selection: selectie
+
+  label:
+    check: Controleer het antwoord. Het antwoord wordt gemarkeerd als goed of fout.
+    solution: Laat de oplossing zien. De quiz is gemarkeerd als opgelost.
+
+  answer:
+    success: Gefeliciteerd, dat was het juiste antwoord
+    error: Het juiste antwoord is nog niet gegeven
+    resolved: Opgelost antwoord
+
+survey:
+  submit: Verzenden
+  submitted: Vriendelijk bedankt
+  text: Tekstinvoer ...
+
+sort:
+  asc: oplopend sorteren
+  desc: sorteer aflopend
+  not: niet gesorteerd
+
+qr:
+  code: QR-code voor website
+  err: Fout bij het coderen naar QR-code

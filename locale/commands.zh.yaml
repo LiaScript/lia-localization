@@ -1,0 +1,122 @@
+# Taiwanese
+
+base:
+  next: 繼續
+  prev: 返回
+  play: 播放
+  stop: 停止
+  font: 字体大小： {{size}}
+  size1: 小
+  size2: 中
+  size3: 大
+  search: 搜尋
+  delete: 删除搜寻
+  results: 结果
+  oneResult: 一个结果
+  noResult: 没有结果
+  toc: 目錄
+  show: 顯示
+  hide: 隱藏
+  editor: 编辑风格
+  lang: 中国人
+
+no_translation: 尚未翻譯
+translateWithGoogle: 与Google进行翻译（实验性）
+
+c:
+  color: 顏色
+  schema: 配色方案
+  dark: 暗模式
+  bright: 亮模式
+  default: 預設
+  blue: 藍色
+  red: 红色的
+  yellow: 黄色的
+  turquoise: 绿松石
+
+mode:
+  mode: 简报模式
+  textbook: 教科書
+  presentation: 報告
+  slides: 幻燈片
+
+sound:
+  'on': 聲音開啟
+  'off': 聲音關閉
+
+info:
+  author: '作者: '
+  date: '日期: '
+  email: '電郵: '
+  version: '版本: '
+
+conf:
+  information: 關於
+  settings: 設定
+  share: 分享
+  shareVia: 通过...分享
+  translations: 翻譯
+
+tts:
+  preferBrowser: 首选浏览器 TTS
+  usingBrowser: 使用浏览器的内部文本转语音引擎。
+  unsupported: 您的浏览器不支持文本转语音，请换一个浏览器。
+
+code:
+  execute: 開始執行
+  running: 執行中
+  prev: 上一版
+  next: 下一版
+  first: 最初版
+  last: 最終版
+  minimize: 極小視窗
+  maximize: 極大視窗
+  terminal: 终端
+
+quiz:
+  check: 選取
+  solution: 顯示解答
+  hint: 暗示
+  selection: 选择
+
+  label:
+    check: 检查答案。答案被标记为正确或不正确。
+    solution: 显示解决方案。测验被标记为已解决。
+
+  answer:
+    success: 恭喜，那是正确的答案
+    error: 正确的答案尚未给出
+    resolved: 解决的答案
+
+survey:
+  submit: 遞交
+  submitted: 感謝
+  text: 輸入文字...
+
+chart:
+  pie: 饼图
+  bar: 柱状图
+  line: 折线图
+  scatter: 散点图
+#  effectScatter: 涟漪散点图
+  radar: 雷达图
+#  tree: 树图
+#  treemap: 矩形树图
+  boxplot: 箱型图
+#  candlestick: K线图
+#  k: K线图
+  heatmap: 热力图
+  map: 地图
+  parallel: 平行坐标图
+  lines: 线图
+  graph: 关系图
+  sankey: 桑基图
+  funnel: 漏斗图
+#  gauge: 仪表盘图
+#  pictorialBar: 象形柱图
+#  themeRiver: 主题河流图
+#  sunburst: 旭日图
+
+qr:
+  code: 网站二维码
+  err: 编码为二维码时出错

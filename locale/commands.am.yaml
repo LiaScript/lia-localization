@@ -1,0 +1,131 @@
+# Amharic
+
+home: ዋና ገጽ
+
+base:
+  next: ቀጣይ
+  prev: ተመለስ
+  play: ጨርሰን
+  stop: አቆጣጠር
+  abc: አማ
+  font: 'ፎንት መጠን: {{size}}'
+  size1: ትንሽ
+  size2: መልካም
+  size3: በጣም ስምንት
+  search: ፈልግ
+  delete: ፈልግ ያድገት
+  results: ውጤቶች
+  oneResult: አንድ ውጤት
+  noResult: ምንም ውጤት የሉም
+  toc: የዋጋ ዓረብ
+  show: አሳይ
+  hide: ደብቅ
+  editor: ኤዲተር-ዘዴ
+  lang: አማርኛ
+
+no_translation: በመሆን ላይ ምንም ተስተካክል የለም
+translateWithGoogle: በ Google ትርጉም (ምርጥ) ተመርጧል
+
+c:
+  color: ቀለም
+  schema: ቀለም ሥነጽሑፍ
+  dark: እንቅስቃሴ
+  bright: እንደዛሬ
+  default: ነባሪ
+  blue: ሰማያዊ
+  red: ቀይ
+  yellow: ቢጫ
+  turquoise: ዓሣደኝ
+
+mode:
+  mode: ዘመን ተዘጋጅ
+  textbook: ተማሪ መስመር
+  presentation: እንቅስቃሴ
+  slides: ስላይድስ
+
+sound:
+  'on': ድምጽ አብራ
+  'off': ድምጽ ያልተጫኑ
+
+info:
+  author: 'ሰላም ያለፈ: '
+  date: 'ቀን: '
+  email: 'ኢሜል: '
+  version: 'ቅድሚያ: '
+
+conf:
+  information: መረጃ
+  settings: ማስተካከያዎች
+  share: አገልግሎት
+  shareVia: ከተጨማሪ ያግኙ ...
+  translations: ትርጉም
+  tooltip: የማጣሪያ ጥቅል
+
+tts:
+  preferBrowser: የብሮውን ቴክስት-ተምረው መቀመጥ
+  usingBrowser: በብሮው ቴክስት-ተምረው መጫን ነው።
+  unsupported: የምንጠቀመው ብሮዎች ሊያውቅ አይችልም፣ በሌላ ቦታ ያሳያል።
+
+code:
+  execute: ተጠቃሚ ስጥ
+  running: ተጠቃሚ ላይ ነው
+  prev: የመጀመሪያ ክፍሎች
+  next: የቀጣይ ክፍሎች
+  first: የመጀመሪያ ክፍል
+  last: የመጨረሻ ክፍል
+  minimize: ማሳወቅ ያድርጉ
+  maximize: ማግኘት ያድርጉ
+  terminal: ቴርማው
+
+quiz:
+  check: መለየት
+  solution: አስገሳት አሳይ
+  hint: አስታዋሽ
+  selection: ምረጡ
+
+  label:
+    check: መረጃው ተመርጧል ወይም ቆይተው ይቀጥሉ
+    solution: የይለፍ መረጃ ይሰራል
+
+  answer:
+    success: እንኳን ደስ አለዎት! ይህ ማሳወቅ ተመልከቱ
+    error: የሚነካ መለያ መገለጫ በድጋሚ ነው
+    resolved: ተመርጧል
+
+survey:
+  submit: አመድ
+  submitted: እናመሰግናለን
+  text: ግል ጽሑፍ ያስገቡ...
+
+sort:
+  asc: ቅደም አስቀድሞ
+  desc: ታሪክ አስቀድሞ
+  not: ተመርጧል
+
+chart:
+  pie: ፒ ሾስትን ጫን ቦታ
+  bar: ባር ሾስትን ጫን ቦታ
+  line: ስብስብ ሾስትን ጫን ቦታ
+  scatter: መስመር ግርግር ስቀር ቦታ
+#  effectScatter: መስመር ግርግር ዝርዝሩን ቦታ
+  radar: ራዳር ሾስት
+#  tree: ክፍል
+#  treemap: ትሪማፕ
+  boxplot: ቦክስ ፕሎት
+#  candlestick: ካንዲል ስታክ
+#  k: K ስብስብ ሾስት
+  heatmap: ሜይፕ ሾስት
+  map: ካርታ
+  parallel: ፓራለል ኮይላርድን ቦታ
+  lines: ስብስቦች ሾስት
+  graph: ባህሪዎች ሾስት
+  sankey: ሳንኪ ዲዚግም
+  funnel: ፋንኤል ጫን ቦታ
+#  gauge: ጋይግ
+#  pictorialBar: ፒክቶሪያል ባር
+#  themeRiver: ምሁራን እቃዎች ሾስት
+#  sunburst: ሰንበት ዝርዝር
+
+qr:
+  code: QR ኮድ ለድረ ገጽ
+  err: ስህተት ያለባቸው በ QR ኮድ ወይም ትክክል አልተመለከተም

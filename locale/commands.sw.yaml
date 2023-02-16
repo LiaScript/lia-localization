@@ -1,0 +1,131 @@
+# Suaheli - Translated by Google
+
+home: Nyumbani
+
+base:
+  next: ijayo
+  prev: iliyopita
+  play: kucheza
+  stop: kuacha
+  abc: Aa
+  font: 'saizi ya fonti: {{size}}'
+  size1: ndogo
+  size2: kati
+  size3: kubwa
+  search: Tafuta
+  delete: tafuta wazi
+  results: matokeo
+  oneResult: matokeo moja
+  noResult: hakuna matokeo
+  toc: Yaliyomo
+  show: show
+  hide: kujificha
+  editor: Mtindo wa Mhariri
+  lang: Suaheli
+
+no_translation: hakuna tafsiri bado
+translateWithGoogle: Tafsiri na Google (majaribio)
+
+c:
+  color: Rangi
+  schema: Mpango wa rangi
+  dark: Hali ya Giza
+  bright: Modi-Nuru
+  default: Chaguomsingi
+  blue: Bluu
+  red: nyekundu
+  yellow: Njano
+  turquoise: Turquoise
+
+mode:
+  mode: Hali ya uwasilishaji
+  textbook: Kitabu cha maandishi
+  presentation: Uwasilishaji
+  slides: Slaidi
+
+sound:
+  'on': Sauti imewashwa
+  'off': Sauti imezimwa
+
+info:
+  author: 'Mwandishi: '
+  date: 'Tarehe: '
+  email: 'eMail: '
+  version: 'Toleo: '
+
+conf:
+  information: Taarifa
+  settings: Mipangilio
+  share: Shiriki
+  shareVia: shiriki kupitia ...
+  translations: Tafsiri
+  tooltip: Vidokezo vya zana
+
+tts:
+  preferBrowser: Pendelea kivinjari TTS
+  usingBrowser: Kwa kutumia injini ya ndani ya kivinjari ya Maandishi-hadi-Hotuba.
+  unsupported: Kivinjari chako hakitumii Maandishi-hadi-Hotuba, jaribu nyingine.
+
+code:
+  execute: Tekeleza
+  running: inakimbia
+  prev: toleo la awali
+  next: toleo linalofuata
+  first: toleo la kwanza
+  last: toleo la mwisho
+  minimize: punguza mtazamo
+  maximize: kuongeza mtazamo
+  terminal: terminal
+
+quiz:
+  check: Angalia
+  solution: onyesha suluhisho
+  hint: onyesha kidokezo
+  selection: uteuzi
+
+  label:
+    check: Angalia jibu. Jibu litawekwa alama kuwa sahihi au si sahihi.
+    solution: Onyesha suluhisho. Maswali yatatiwa alama kuwa yametatuliwa.
+
+  answer:
+    success: Hongera, hilo lilikuwa jibu sahihi
+    error: Jibu sahihi bado halijatolewa
+    resolved: Jibu lililotatuliwa
+
+survey:
+  submit: Wasilisha
+  submitted: Asante
+  text: Weka maandishi...
+
+sort:
+  asc: kupanga kupanda
+  desc: panga kushuka
+  not: haijapangwa
+
+chart:
+  pie: chati ya pai
+  bar: Chati ya paa
+  line: Chati ya mstari
+  scatter: Kutawanya njama
+#  effectScatter: Ripple njama ya kutawanya
+  radar: Chati ya rada
+#  tree: mti
+#  treemap: ramani ya miti
+  boxplot: Boxplot
+#  candlestick: Kinara
+#  k: Chati ya mstari wa K
+  heatmap: Ramani ya joto
+  map: ramani
+  parallel: Ramani ya kuratibu sambamba
+  lines: Grafu ya mstari
+  graph: Grafu ya uhusiano
+  sankey: mchoro wa Sankey
+  funnel: Chati ya faneli
+#  gauge: Guage
+#  pictorialBar: Upau wa picha
+#  themeRiver: Ramani ya Mto Mandhari
+#  sunburst: Kupasuka kwa jua
+
+qr:
+  code: Msimbo wa QR wa tovuti
+  err: Hitilafu wakati wa kusimba msimbo wa QR

@@ -106,13 +106,13 @@ chart:
   bar: 棒グラフ
   line: 折れ線グラフ
   scatter: 散布図
-  effectScatter: 波紋散布図
+#  effectScatter: 波紋散布図
   radar: レーダーチャート
-  tree: ツリー
-  treemap: トレーマップ
+#  tree: ツリー
+#  treemap: トレーマップ
   boxplot: ボックスプロット
-  candlestick: ローソク足チャート
-  k: K 線チャート
+#  candlestick: ローソク足チャート
+#  k: K 線チャート
   heatmap: ヒートマップ
   map: 地図
   parallel: パラレル座標マップ
@@ -120,10 +120,10 @@ chart:
   graph: 関係グラフ
   sankey: サンキーダイアグラム
   funnel: ファネルチャート
-  gauge: ゲージ
-  pictorialBar: ピクトリアル棒グラフ
-  themeRiver: 主題河マップ
-  sunburst: サンバースト
+#  gauge: ゲージ
+#  pictorialBar: ピクトリアル棒グラフ
+#  themeRiver: 主題河マップ
+#  sunburst: サンバースト
 
 qr:
   code: ウェブサイト用 QR コード
