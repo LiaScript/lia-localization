@@ -129,3 +129,9 @@ chart:
 qr:
   code: QR code for website
   err: Error while encoding to QR code
+
+chat:
+  open: Open chat
+  close: Close chat
+  new: You have unread chat messages
+  send: Send message

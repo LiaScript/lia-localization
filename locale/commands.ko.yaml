@@ -128,3 +128,9 @@ chart:
 qr:
   code: 웹 사이트용 QR 코드
   err: QR 코드를 만드는 도중 오류가 발생했습니다.
+
+chat:
+  open: 채팅 열기
+  close: 채팅 닫기
+  new: 읽지 않은 채팅 메시지가 있습니다
+  send: 메시지 보내기

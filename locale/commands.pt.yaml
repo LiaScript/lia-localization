@@ -127,3 +127,9 @@ chart:
 qr:
   code: Código QR para site
   err: Erro durante a codificação para o código QR
+
+chat:
+  open: Abrir chat
+  close: Fechar chat
+  new: Você tem mensagens de chat não lidas
+  send: Enviar mensagem

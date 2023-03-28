@@ -129,3 +129,9 @@ chart:
 qr:
   code: QR-Code für Webseite
   err: Fehler beim Codieren in QR-Code
+
+chat:
+  open: Chat öffnen
+  close: Chat schließen
+  new: Du hast ungelesene Chat-Nachrichten
+  send: Nachricht senden

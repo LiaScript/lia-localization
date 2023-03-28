@@ -120,3 +120,9 @@ chart:
 qr:
   code: 网站二维码
   err: 编码为二维码时出错
+
+chat:
+  open: 打开聊天
+  close: 关闭聊天
+  new: 你有未读的聊天消息
+  send: 发送消息

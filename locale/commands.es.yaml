@@ -100,3 +100,9 @@ sort:
 qr:
   code: Código QR para sitio web
   err: Error al codificar en código QR
+
+chat:
+  open: Abrir chat
+  close: Cerrar chat
+  new: Tienes mensajes de chat no leídos
+  send: Enviar mensaje

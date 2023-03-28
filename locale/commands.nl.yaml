@@ -100,3 +100,9 @@ sort:
 qr:
   code: QR-code voor website
   err: Fout bij het coderen naar QR-code
+
+chat:
+  open: Chat openen
+  close: Chat sluiten
+  new: Je hebt ongelezen chatberichten
+  send: Bericht versturen
