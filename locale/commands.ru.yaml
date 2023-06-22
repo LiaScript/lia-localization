@@ -46,6 +46,7 @@ sound:
 
 info:
   author: 'автор: '
+  authors: 'авторы: '
   date: 'дата: '
   email: 'эл. почта: '
   version: 'версия: '

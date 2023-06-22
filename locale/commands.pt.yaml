@@ -47,6 +47,7 @@ sound:
 
 info:
   author: 'Autor: '
+  authors: 'Autores: '
   date: 'Data: '
   email: 'e-mail: '
   version: 'Versão: '

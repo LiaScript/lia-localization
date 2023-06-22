@@ -49,6 +49,7 @@ sound:
 
 info:
   author: 'Author: '
+  authors: 'Authors: '
   date: 'Date: '
   email: 'eMail: '
   version: 'Version: '

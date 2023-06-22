@@ -46,6 +46,7 @@ sound:
 
 info:
   author: Autor
+  authors: Autores
   date: fecha
   email: email
   version: versión

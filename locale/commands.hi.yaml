@@ -49,6 +49,7 @@ sound:
 
 info:
   author: 'लेखक:'
+  authors: 'लेखकों:'
   date: 'तारीख:'
   email: 'ईमेल:'
   version: 'संस्करण:'

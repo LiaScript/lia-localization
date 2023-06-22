@@ -48,6 +48,7 @@ sound:
 
 info:
   author: '著者：'
+  authors: '著者：'
   date: '日付：'
   email: 'メール：'
   version: 'バージョン：'
