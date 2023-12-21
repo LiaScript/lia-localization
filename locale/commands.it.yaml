@@ -1,0 +1,137 @@
+# Italian
+
+home: Home
+
+base:
+  next: prossimo
+  prev: precedente
+  play: avvia
+  stop: ferma
+  abc: Aa
+  font: 'Dimensione carattere: {{size}}'
+  size1: piccolo
+  size2: medio
+  size3: grande
+  search: Cerca
+  delete: cancella ricerca
+  results: risultati
+  oneResult: un risultato
+  noResult: non ci sono risultati
+  toc: indice
+  show: mostrare
+  hide: nascondere
+  editor: stile editor
+  lang: Italiano
+
+no_translation: ancora non tradotto
+translateWithGoogle: Tradurre con Google (sperimentale)
+
+c:
+  color: colore
+  schema: Schema di colori
+  dark: modo scuro
+  bright: modo chiaro
+  default: predefinito
+  blue: blu
+  red: rosso
+  yellow: giallo
+  turquoise: turchese
+
+mode:
+  mode: Modo presentazione
+  textbook: Manuale
+  presentation: Presentazione
+  slides: Diapositive
+
+sound:
+  'on': Suono attivo
+  'off': Suono disattivato
+
+info:
+  author: 'Autore: '
+  authors: 'Autori: '
+  date: 'Data: '
+  email: 'Email: '
+  version: 'Versione:  '
+
+conf:
+  information: Informazioni
+  settings: Impostazioni
+  share: Condividi
+  shareVia: Condividi via ...
+  translations: Traduzioni
+  tooltip: Tooltip 
+
+tts:
+  preferBrowser: Preferir TTS del navegador
+  usingBrowser: Sto utilizzando il motore interno di conversione del testo a voce del browser.
+  unsupported: Il tuo browser non è compatibile con Text-to-Speech, provane un altro.
+
+code:
+  execute: Esegui
+  running: in funzione
+  prev: versione precedente
+  next: versione seguente
+  first: prima versione
+  last: ultima versione
+  minimize: minimizare la vista
+  maximize: massimizzare la vista
+
+quiz:
+  check: verifica
+  solution: mostra la soluzione
+  hint: mosta un indizio
+  selection: seleziona
+
+  label:
+    check: Controlla la risposta. La risposta è indicata come corretta o errata.
+    solution: Mostra la soluzione. Il questionario si registra come risolto.
+
+  answer:
+    success: Congratulazioni, questa era la risposta corretta
+    error: La risposta corretta non è stata ancora fornita
+    resolved: Risposta decisiva
+
+survey:
+  submit: Invia
+  submitted: Inviato
+  text: Immetti del testo
+
+sort:
+  asc: ordine crescente
+  desc: ordine discendente
+  not: non ordinato
+
+chart:
+  pie: Diagramma a torta
+  bar: Diagramma a barre
+  line: Diagramma a linee
+  scatter: Diagramma a dispersione
+#  effectScatter: Ripple scatter plot
+  radar: Diagramma Radar
+#  tree: Tree
+#  treemap: Treemap
+  boxplot: Boxplot
+#  candlestick: Candlestick
+#  k: K line chart
+  heatmap: Heat map
+  map: Map
+  parallel: Parallel coordinate map
+  lines: Line graph
+  graph: Relationship graph
+  sankey: Sankey diagram
+  funnel: Funnel chart
+#  gauge: Guage
+#  pictorialBar: Pictorial bar
+#  themeRiver: Theme River Map
+#  sunburst: Sunburst
+
+qr:
+  code: Codice QR del sito web
+  err: Errore nel codificare come codice QR
+
+chat:
+  open: Aprire la chat
+  close: Chiudere la chat
+  new: Ci sono messaggi di chat non letti
+  send: Invia messaggio
