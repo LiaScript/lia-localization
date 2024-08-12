@@ -23,6 +23,7 @@ base:
 comment:
   rate: تنظیم سرعت پخش
   pitch: تنظیم تغییر صدا
+  hide: مخفی کردن نظرات ویدیو
 
 no_translation: در دست ترجمه
 translateWithGoogle: ترجمه با Google (آزمایشی)

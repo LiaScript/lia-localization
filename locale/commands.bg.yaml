@@ -23,6 +23,7 @@ base:
 comment:
   rate: Промяна на скоростта на възпроизвеждане
   pitch: Промяна на тон
+  hide: Скриване на видео коментари
 
 no_translation: Без превод
 translateWithGoogle: Превод с Google (експериментално)

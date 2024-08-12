@@ -26,6 +26,7 @@ base:
 comment:
   rate: Regola la velocità di riproduzione
   pitch: Regola l'altezza del tono
+  hide: Nascondi i commenti video
 
 no_translation: ancora non tradotto
 translateWithGoogle: Tradurre con Google (sperimentale)

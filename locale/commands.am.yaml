@@ -26,6 +26,7 @@ base:
 comment:
   rate: የድምጽ ፍጥነት ቀይር
   pitch: የድምጽ አንድ ቀይር
+  hide: የቪዲዮ አስተካክል ደብቅ
 
 no_translation: በመሆን ላይ ምንም ተስተካክል የለም
 translateWithGoogle: በ Google ትርጉም (ምርጥ) ተመርጧል

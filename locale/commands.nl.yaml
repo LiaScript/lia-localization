@@ -23,6 +23,7 @@ base:
 comment:
   rate: Afspeelsnelheid aanpassen
   pitch: Toonhoogte aanpassen
+  hide: Hide video comments
 
 no_translation: noch geen vertaling aanwezig
 translateWithGoogle: Vertalen met Google (experimenteel)

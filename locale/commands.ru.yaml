@@ -23,6 +23,7 @@ base:
 comment:
   rate: настройка скорости воспроизведения
   pitch: настройка высоты тона
+  hide: Скрыть комментарии к видео
 
 no_translation: перевода пока нет
 translateWithGoogle: Перевести с Google (экспериментально)

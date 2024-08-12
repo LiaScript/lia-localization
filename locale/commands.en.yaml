@@ -26,6 +26,7 @@ base:
 comment:
   rate: Adjust playback speed
   pitch: Adjust pitch
+  hide: Hide video comments
 
 no_translation: no translation yet
 translateWithGoogle: Translate with Google (experimental)

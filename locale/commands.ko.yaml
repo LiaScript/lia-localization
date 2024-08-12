@@ -26,6 +26,7 @@ base:
 comment:
   rate: 재생 속도 조절
   pitch: 음높이 조절
+  hide: 비디오 댓글 숨기기
 
 no_translation: 번역되지 않음
 translateWithGoogle: Google Translate로 번역하기 (실험적 기능)

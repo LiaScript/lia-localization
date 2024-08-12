@@ -25,6 +25,7 @@ base:
 comment:
   rate: Anpassung der Abspielgeschwindigkeit
   pitch: Anpassung der Tonhöhe
+  hide: Videokommentare ausblenden
 
 no_translation: noch keine Übersetzungen vorhanden
 
