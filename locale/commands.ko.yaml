@@ -23,7 +23,7 @@ base:
   editor: 에디터 스타일
   lang: 한국어
 
-audio:
+comment:
   rate: 재생 속도 조절
   pitch: 음높이 조절
 

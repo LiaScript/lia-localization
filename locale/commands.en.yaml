@@ -23,7 +23,7 @@ base:
   editor: Editor-Style
   lang: English
 
-audio:
+comment:
   rate: Adjust playback speed
   pitch: Adjust pitch
 

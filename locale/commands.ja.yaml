@@ -22,7 +22,7 @@ base:
   editor: エディター・スタイル
   lang: 日本語
 
-audio:
+comment:
   rate: 再生速度を変更
   pitch: 音程を変更
 

@@ -20,7 +20,7 @@ base:
   editor: estilo editor
   lang: Español
 
-audio:
+comment:
   rate: ajustar velocidad de reproducción
   pitch: ajustar tono
 

@@ -23,7 +23,7 @@ base:
   editor: ኤዲተር-ዘዴ
   lang: አማርኛ
 
-audio:
+comment:
   rate: የድምጽ ፍጥነት ቀይር
   pitch: የድምጽ አንድ ቀይር
 

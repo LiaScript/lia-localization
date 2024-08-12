@@ -23,7 +23,7 @@ base:
   editor: stile editor
   lang: Italiano
 
-audio:
+comment:
   rate: Regola la velocità di riproduzione
   pitch: Regola l'altezza del tono
 

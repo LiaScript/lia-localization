@@ -20,7 +20,7 @@ base:
   editor: به سبک ویرایشگر
   lang: فارسی
 
-audio:
+comment:
   rate: تنظیم سرعت پخش
   pitch: تنظیم تغییر صدا
 

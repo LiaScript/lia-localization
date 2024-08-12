@@ -20,7 +20,7 @@ base:
   editor: على غرار المحرر
   lang: العربية
 
-audio:
+comment:
   rate: تعديل سرعة التشغيل
   pitch: تعديل الارتفاع
 

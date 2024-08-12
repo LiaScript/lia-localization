@@ -21,7 +21,7 @@ base:
   editor: Estilo do editor
   lang: Português
 
-audio:
+comment:
   rate: Ajustar velocidade de reprodução
   pitch: Ajustar tom
 

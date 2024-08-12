@@ -22,7 +22,7 @@ base:
   editor: Editor-Stil
   lang: Deutsch
 
-audio:
+comment:
   rate: Anpassung der Abspielgeschwindigkeit
   pitch: Anpassung der Tonhöhe
 

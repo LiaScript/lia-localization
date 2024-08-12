@@ -22,7 +22,7 @@ base:
   editor: Style de l'éditeur
   lang: Français
 
-audio:
+comment:
   rate: Ajuster la vitesse de lecture
   pitch: Ajuster la hauteur du son
 

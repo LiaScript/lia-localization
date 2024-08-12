@@ -23,7 +23,7 @@ base:
   editor: সম্পাদক-স্টাইল
   lang: ইংরেজি
 
-audio:
+comment:
   rate: প্লেব্যাক গতি সংশোধন করুন
   pitch: টোন সংশোধন করুন
 

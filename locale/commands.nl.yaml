@@ -20,7 +20,7 @@ base:
   editor: editor-stijl
   lang: Nederlands
 
-audio:
+comment:
   rate: Afspeelsnelheid aanpassen
   pitch: Toonhoogte aanpassen
 

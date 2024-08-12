@@ -20,7 +20,7 @@ base:
   editor: 编辑风格
   lang: 中国人
 
-audio:
+comment:
   rate: 调整播放速度
   pitch: 调整音高
 
