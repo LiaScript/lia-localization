@@ -23,6 +23,10 @@ base:
   editor: ኤዲተር-ዘዴ
   lang: አማርኛ
 
+audio:
+  rate: የድምጽ ፍጥነት ቀይር
+  pitch: የድምጽ አንድ ቀይር
+
 no_translation: በመሆን ላይ ምንም ተስተካክል የለም
 translateWithGoogle: በ Google ትርጉም (ምርጥ) ተመርጧል
 

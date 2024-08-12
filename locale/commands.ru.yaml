@@ -20,6 +20,10 @@ base:
   editor: стиль редактора
   lang: русский
 
+audio:
+  rate: настройка скорости воспроизведения
+  pitch: настройка высоты тона
+
 no_translation: перевода пока нет
 translateWithGoogle: Перевести с Google (экспериментально)
 

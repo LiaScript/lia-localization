@@ -20,6 +20,10 @@ base:
   editor: խմբագիր ոճով
   lang: հայերեն
 
+audio:
+  rate: ձայնագիրը կարգավորել
+  pitch: ձայնահատկությունը կարգավորել
+
 no_translation: դեռ թագմանություն չկա
 translateWithGoogle: Թարգմանեք Google- ի միջոցով (փորձնական)
 

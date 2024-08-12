@@ -20,6 +20,10 @@ base:
   editor: editor-stijl
   lang: Nederlands
 
+audio:
+  rate: Afspeelsnelheid aanpassen
+  pitch: Toonhoogte aanpassen
+
 no_translation: noch geen vertaling aanwezig
 translateWithGoogle: Vertalen met Google (experimenteel)
 

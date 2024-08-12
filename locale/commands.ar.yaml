@@ -20,6 +20,10 @@ base:
   editor: على غرار المحرر
   lang: العربية
 
+audio:
+  rate: تعديل سرعة التشغيل
+  pitch: تعديل الارتفاع
+
 no_translation: لا يوجد ترجمة حتى الآن
 translateWithGoogle: ترجمة من جوجل (تجريبي)
 

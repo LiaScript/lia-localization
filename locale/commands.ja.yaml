@@ -22,6 +22,10 @@ base:
   editor: エディター・スタイル
   lang: 日本語
 
+audio:
+  rate: 再生速度を変更
+  pitch: 音程を変更
+
 no_translation: まだ翻訳されていません
 translateWithGoogle: Google翻訳で翻訳する（実験的）
 

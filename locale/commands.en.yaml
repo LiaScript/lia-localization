@@ -23,6 +23,10 @@ base:
   editor: Editor-Style
   lang: English
 
+audio:
+  rate: Adjust playback speed
+  pitch: Adjust pitch
+
 no_translation: no translation yet
 translateWithGoogle: Translate with Google (experimental)
 

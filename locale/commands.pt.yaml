@@ -21,6 +21,10 @@ base:
   editor: Estilo do editor
   lang: Português
 
+audio:
+  rate: Ajustar velocidade de reprodução
+  pitch: Ajustar tom
+
 no_translation: ainda não traduzido
 translateWithGoogle: Traduzir com Google (experimental)
 

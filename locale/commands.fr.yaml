@@ -22,6 +22,10 @@ base:
   editor: Style de l'éditeur
   lang: Français
 
+audio:
+  rate: Ajuster la vitesse de lecture
+  pitch: Ajuster la hauteur du son
+
 no_translation: traductions non disponibles
 translateWithGoogle: Traduire avec Google (expérimental)
 

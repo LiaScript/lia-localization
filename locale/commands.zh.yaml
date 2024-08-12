@@ -20,6 +20,10 @@ base:
   editor: 编辑风格
   lang: 中国人
 
+audio:
+  rate: 调整播放速度
+  pitch: 调整音高
+
 no_translation: 尚未翻譯
 translateWithGoogle: 与Google进行翻译（实验性）
 

@@ -23,6 +23,10 @@ base:
   editor: stile editor
   lang: Italiano
 
+audio:
+  rate: Regola la velocità di riproduzione
+  pitch: Regola l'altezza del tono
+
 no_translation: ancora non tradotto
 translateWithGoogle: Tradurre con Google (sperimentale)
 

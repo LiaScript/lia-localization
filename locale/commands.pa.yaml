@@ -23,6 +23,10 @@ base:
   editor: ਸੰਪਾਦਕ ਸਟਾਈਲ
   lang: ਪੰਜਾਬੀ
 
+audio:
+  rate: ਪਲੇਬੈਕ ਗਤੀ ਸੰਰਚਨਾ
+  pitch: ਧੁਨ ਸੰਰਚਨਾ
+
 no_translation: ਅਜੇ ਅਨੁਵਾਦ ਨਹੀਂ ਹੈ
 translateWithGoogle: ਗੂਗਲ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ (ਪ੍ਰਯੋਗਾਤਮਕ)
 

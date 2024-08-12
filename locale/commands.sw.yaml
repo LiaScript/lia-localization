@@ -23,6 +23,10 @@ base:
   editor: Mtindo wa Mhariri
   lang: Suaheli
 
+audio:
+  rate: Badilisha kasi ya kucheza
+  pitch: Badilisha sauti
+
 no_translation: hakuna tafsiri bado
 translateWithGoogle: Tafsiri na Google (majaribio)
 

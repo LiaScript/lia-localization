@@ -22,6 +22,10 @@ base:
   editor: संपादक शैली
   lang: जर्मन
 
+audio:
+  rate: प्लेबैक गति सेट करें
+  pitch: ध्वनि सेट करें
+
 no_translation: अभी तक कोई अनुवाद उपलब्ध नहीं है
 
 translateWithGoogle: Google के साथ अनुवाद करें (प्रायोगिक)

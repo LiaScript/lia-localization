@@ -22,6 +22,10 @@ base:
   editor: Editor-Stil
   lang: Deutsch
 
+audio:
+  rate: Anpassung der Abspielgeschwindigkeit
+  pitch: Anpassung der Tonhöhe
+
 no_translation: noch keine Übersetzungen vorhanden
 
 translateWithGoogle: Mit Google übersetzen (experimentell)

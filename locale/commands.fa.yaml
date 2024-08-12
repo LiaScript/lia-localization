@@ -20,6 +20,10 @@ base:
   editor: به سبک ویرایشگر
   lang: فارسی
 
+audio:
+  rate: تنظیم سرعت پخش
+  pitch: تنظیم تغییر صدا
+
 no_translation: در دست ترجمه
 translateWithGoogle: ترجمه با Google (آزمایشی)
 

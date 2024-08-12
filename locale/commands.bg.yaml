@@ -20,6 +20,10 @@ base:
   editor: редакторски стил
   lang: български
 
+audio:
+  rate: Промяна на скоростта на възпроизвеждане
+  pitch: Промяна на тон
+
 no_translation: Без превод
 translateWithGoogle: Превод с Google (експериментално)
 

@@ -23,6 +23,10 @@ base:
   editor: সম্পাদক-স্টাইল
   lang: ইংরেজি
 
+audio:
+  rate: প্লেব্যাক গতি সংশোধন করুন
+  pitch: টোন সংশোধন করুন
+
 no_translation: এখনও অনুবাদ নেই
 translateWithGoogle: Google দিয়ে অনুবাদ করুন (প্রায়োগিক)
 
