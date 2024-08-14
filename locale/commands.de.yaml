@@ -82,6 +82,7 @@ code:
   minimize: Darstellung minimieren
   maximize: Darstellung maximieren
   terminal: Terminal
+  copy: in die Zwischenablage kopieren
 
 quiz:
   check: Prüfen

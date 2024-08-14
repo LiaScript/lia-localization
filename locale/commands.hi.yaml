@@ -82,6 +82,7 @@ code:
   minimize: प्रदर्शन को छोटा करें
   maximize: प्रदर्शन को अधिकतम करें
   terminal: टर्मिनल
+  copy: क्लिपबोर्ड पर कॉपी करें
 
 quiz:
   check: चेक करें

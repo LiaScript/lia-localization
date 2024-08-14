@@ -78,6 +78,7 @@ code:
   minimize: 極小視窗
   maximize: 極大視窗
   terminal: 终端
+  copy: 复制到剪贴板
 
 quiz:
   check: 選取

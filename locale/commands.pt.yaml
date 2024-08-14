@@ -80,6 +80,7 @@ code:
   minimize: minimizar visualização
   maximize: maximizar visualização
   terminal: terminal
+  copy: copiar para a área de transferência
 
 quiz:
   check: Verificar

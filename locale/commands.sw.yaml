@@ -82,6 +82,7 @@ code:
   minimize: punguza mtazamo
   maximize: kuongeza mtazamo
   terminal: terminal
+  copy: nakili kwenye ubao wa kunakili
 
 quiz:
   check: Angalia

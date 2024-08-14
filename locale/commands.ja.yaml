@@ -81,6 +81,7 @@ code:
   minimize: 最小化
   maximize: 最大化
   terminal: ターミナル
+  copy: クリップボードにコピー
 
 quiz:
   check: 確認

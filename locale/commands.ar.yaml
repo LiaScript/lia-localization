@@ -73,6 +73,7 @@ code:
   minimize: تصغير
   maximize: إظهار بالكامل
   terminal: طرفية
+  copy: نسخ إلى الحافظة
 
 quiz:
   check: تحقق

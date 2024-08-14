@@ -82,6 +82,7 @@ code:
   minimize: Réduire l'affichage
   maximize: Maximiser l'affichage
   terminal: Terminal
+  copy: Copier dans le presse-papiers
 
 quiz:
   check: Vérifier

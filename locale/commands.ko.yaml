@@ -81,6 +81,7 @@ code:
   minimize: 뷰 최소화
   maximize: 뷰 최대화
   terminal: 단말기
+  copy: 클립보드에 복사
 
 quiz:
   check: 확인

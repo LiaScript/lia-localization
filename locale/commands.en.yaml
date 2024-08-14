@@ -82,6 +82,7 @@ code:
   minimize: minimize view
   maximize: maximize view
   terminal: terminal
+  copy: copy to clipboard
 
 quiz:
   check: Check

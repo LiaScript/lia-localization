@@ -78,6 +78,7 @@ code:
   minimize: Минимизиране
   maximize: Максимизиране
   terminal: терминал
+  copy: Копирай в клипборда
 
 quiz:
   check: Проверка

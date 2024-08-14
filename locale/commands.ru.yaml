@@ -79,6 +79,7 @@ code:
   minimize: свернуть
   maximize: показать полностью
   terminal: термина́л
+  copy: скопировать в буфер обмена
 
 quiz:
   check: проверить
