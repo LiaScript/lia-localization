@@ -65,10 +65,10 @@ conf:
   share: Condividi
   shareVia: Condividi via ...
   translations: Traduzioni
-  tooltip: Tooltip 
+  tooltip: Suggerimento
 
 tts:
-  preferBrowser: Preferir TTS del navegador
+  preferBrowser: Preferisci la sintesi vocale del browser
   usingBrowser: Sto utilizzando il motore interno di conversione del testo a voce del browser.
   unsupported: Il tuo browser non è compatibile con Text-to-Speech, provane un altro.
 
@@ -79,14 +79,14 @@ code:
   next: versione seguente
   first: prima versione
   last: ultima versione
-  minimize: minimizare la vista
+  minimize: minimizzare la vista
   maximize: massimizzare la vista
   copy: copia negli appunti
 
 quiz:
   check: verifica
   solution: mostra la soluzione
-  hint: mosta un indizio
+  hint: mostra un indizio
   selection: seleziona
 
   label:
@@ -113,24 +113,24 @@ chart:
   bar: Diagramma a barre
   line: Diagramma a linee
   scatter: Diagramma a dispersione
-#  effectScatter: Ripple scatter plot
+#  effectScatter: Diagramma di dispersione a increspature
   radar: Diagramma Radar
-#  tree: Tree
-#  treemap: Treemap
-  boxplot: Boxplot
-#  candlestick: Candlestick
-#  k: K line chart
-  heatmap: Heat map
-  map: Map
-  parallel: Parallel coordinate map
-  lines: Line graph
-  graph: Relationship graph
-  sankey: Sankey diagram
-  funnel: Funnel chart
-#  gauge: Guage
-#  pictorialBar: Pictorial bar
-#  themeRiver: Theme River Map
-#  sunburst: Sunburst
+#  tree: Albero
+#  treemap: Mappa ad albero
+  boxplot: Diagramma a scatola
+#  candlestick: Candeliere
+#  k: Grafico a linee K
+  heatmap: Mappa termica
+  map: Mappa
+  parallel: Mappa a coordinate parallele
+  lines: Grafico a linee
+  graph: Grafico delle relazioni
+  sankey: Diagramma di Sankey
+  funnel: Grafico a imbuto
+#  gauge: Misura
+#  pictorialBar: Barra pittorica
+#  themeRiver: Mappa tematica del fiume
+#  sunburst: Raggio di sole
 
 qr:
   code: Codice QR del sito web
