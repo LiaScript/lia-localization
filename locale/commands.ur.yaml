@@ -1,0 +1,135 @@
+# Urdu
+
+home: ہوم
+
+base:
+  next: اگلا
+  prev: پچھلا
+  play: چلائیں
+  stop: روکیں
+  abc: Aa
+  font: 'فونٹ کا سائز: {{size}}'
+  size1: چھوٹا
+  size2: درمیانہ
+  size3: بڑا
+  search: تلاش
+  delete: تلاش صاف کریں
+  results: نتائج
+  oneResult: ایک نتیجہ
+  noResult: کوئی نتیجہ نہیں
+  toc: فہرست مشمولات
+  show: دکھائیں
+  hide: چھپائیں
+  editor: ایڈیٹر اسٹائل
+  lang: انگریزی
+
+comment:
+  rate: پلے بیک کی رفتار ایڈجسٹ کریں
+  pitch: آواز کی پچ ایڈجسٹ کریں
+  hide: ویڈیو تبصرے چھپائیں
+
+no_translation: ابھی تک کوئی ترجمہ نہیں
+translateWithGoogle: گوگل کے ساتھ ترجمہ کریں (تجربی)
+
+c:
+  color: رنگ
+  schema: رنگ سکیم
+  dark: تاریک موڈ
+  bright: روشن موڈ
+  default: پہلے سے طے شدہ
+  blue: نیلا
+  red: سرخ
+  yellow: پیلا
+  turquoise: فیروزی
+
+mode:
+  mode: پریزنٹیشن موڈ
+  textbook: ٹیکسٹ بک
+  presentation: پریزنٹیشن
+  slides: سلائیڈز
+
+sound:
+  'on': آواز آن
+  'off': آواز بند
+
+info:
+  author: 'مصنف: '
+  authors: 'مصنفین: '
+  date: 'تاریخ: '
+  email: 'ای میل: '
+  version: 'ورژن: '
+
+conf:
+  information: معلومات
+  settings: ترتیبات
+  share: شیئر کریں
+  shareVia: ذریعے شیئر کریں ...
+  translations: ترجمے
+  tooltip: ٹول ٹپس
+
+tts:
+  preferBrowser: براؤزر TTS کو ترجیح دیں
+  usingBrowser: براؤزر کے اندرونی ٹیکسٹ ٹو اسپیچ انجن کا استعمال ہو رہا ہے۔
+  unsupported: آپ کا براؤزر ٹیکسٹ ٹو اسپیچ کی حمایت نہیں کرتا، کوئی دوسرا آزمائیں۔
+
+code:
+  execute: عملدرآمد کریں
+  running: چل رہا ہے
+  prev: پچھلا ورژن
+  next: اگلا ورژن
+  first: پہلا ورژن
+  last: آخری ورژن
+  minimize: منظر کو کم کریں
+  maximize: منظر کو زیادہ کریں
+  terminal: ٹرمینل
+  copy: کلپ بورڈ پر کاپی کریں
+
+quiz:
+  check: چیک کریں
+  solution: حل دکھائیں
+  hint: اشارہ دکھائیں
+  selection: انتخاب
+
+  label:
+    check: جواب چیک کریں۔ جواب کو درست یا غلط کے طور پر نشان زد کیا جائے گا۔
+    solution: حل دکھائیں۔ کوئز کو حل شدہ کے طور پر نشان زد کیا جائے گا۔
+
+  answer:
+    success: مبارک ہو، یہ درست جواب تھا
+    error: صحیح جواب ابھی تک نہیں دیا گیا
+    resolved: حل شدہ جواب
+
+survey:
+  submit: جمع کریں
+  submitted: شکریہ
+  text: کچھ متن درج کریں...
+
+sort:
+  asc: صعودی ترتیب
+  desc: نزولی ترتیب
+  not: ترتیب نہیں دی گئی
+
+chart:
+  pie: پائی چارٹ
+  bar: بار چارٹ
+  line: لائن چارٹ
+  scatter: اسکیٹر پلاٹ
+  radar: ریڈار چارٹ
+  boxplot: باکس پلاٹ
+  heatmap: ہیٹ میپ
+  map: نقشہ
+  parallel: متوازی کوآرڈینیٹ نقشہ
+  lines: لائن گراف
+  graph: رابطہ گراف
+  sankey: سنکی ڈایاگرام
+  funnel: فنل چارٹ
+
+qr:
+  code: ویب سائٹ کے لیے QR کوڈ
+  err: QR کوڈ میں انکوڈ کرتے وقت خرابی
+
+chat:
+  open: چیٹ کھولیں
+  close: چیٹ بند کریں
+  new: آپ کے پاس ان پڑھی چیٹ پیغامات ہیں
+  send: پیغام بھیجیں
