@@ -41,6 +41,10 @@ c:
   yellow: 黄色
   turquoise: ターコイズ
 
+fullscreen:
+  enter: フルスクリーンに入る
+  exit: フルスクリーンを終了する
+
 mode:
   mode: プレゼンテーションモード
   textbook: 教科書

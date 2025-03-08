@@ -42,6 +42,10 @@ c:
   yellow: ਪੀਲਾ
   turquoise: ਫੀਰੋਜ਼ੀ
 
+fullscreen:
+  enter: ਪੂਰੀ ਸਕ੍ਰੀਨ
+  exit: ਪੂਰੀ ਸਕ੍ਰੀਨ ਤੋਂ ਬਾਹਰ
+
 mode:
   mode: ਪ੍ਰਸਤੁਤੀ ਮੋਡ
   textbook: ਟੈਕਸਟਬੁੱਕ

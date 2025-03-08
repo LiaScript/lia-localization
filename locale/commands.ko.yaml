@@ -42,6 +42,10 @@ c:
   yellow: 노랑
   turquoise: 청록
 
+fullscreen:
+  enter: 전체 화면으로
+  exit: 전체 화면에서 나가기
+
 mode:
   mode: 프레젠테이션 모드
   textbook: 텍스트 북

@@ -39,6 +39,10 @@ c:
   yellow: 黄色的
   turquoise: 绿松石
 
+fullscreen:
+  enter: 進入全屏模式
+  exit: 退出全屏模式
+
 mode:
   mode: 简报模式
   textbook: 教科書

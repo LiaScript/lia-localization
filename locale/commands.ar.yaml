@@ -39,6 +39,10 @@ c:
   yellow: أصفر
   turquoise: فيروزي
 
+fullscreen:
+  enter: الدخول إلى وضع العرض الكامل
+  exit: الخروج من وضع العرض الكامل
+
 mode:
   mode: وضع العرض
   textbook: المقرر

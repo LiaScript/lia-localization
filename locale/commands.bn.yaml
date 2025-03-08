@@ -42,6 +42,10 @@ c:
   yellow: হলুদ
   turquoise: টার্কোয়াজ
 
+fullscreen:
+  enter: ফুলস্ক্রিনে ঢুকুন
+  exit: ফুলস্ক্রিন থেকে বের হোন
+
 mode:
   mode: প্রস্তুতির মোড
   textbook: টেক্সটবুক

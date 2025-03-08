@@ -42,6 +42,10 @@ c:
   yellow: giallo
   turquoise: turchese
 
+fullscreen:
+  enter: Entra a schermo intero
+  exit: Esci da schermo intero
+
 mode:
   mode: Modo presentazione
   textbook: Manuale

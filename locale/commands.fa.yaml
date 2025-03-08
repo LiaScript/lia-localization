@@ -39,6 +39,10 @@ c:
   yellow: رنگ زرد
   turquoise: فیروزه
 
+fullscreen:
+  enter: ورود به حالت تمام صفحه
+  exit: خروج از حالت تمام صفحه
+
 mode:
   mode: حالت ارائه
   textbook: کتاب

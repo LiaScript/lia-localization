@@ -39,6 +39,10 @@ c:
   yellow: жълт
   turquoise: тюркоаз
 
+fullscreen:
+  enter: Влезте в цял екран
+  exit: Излезте от цял екран
+
 mode:
   mode: Режим на презентация
   textbook: Текст

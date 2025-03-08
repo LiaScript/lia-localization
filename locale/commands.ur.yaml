@@ -42,6 +42,10 @@ c:
   yellow: پیلا
   turquoise: فیروزی
 
+fullscreen:
+  enter: پوری سکرین
+  exit: پوری سکرین سے باہر
+
 mode:
   mode: پریزنٹیشن موڈ
   textbook: ٹیکسٹ بک

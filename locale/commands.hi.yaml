@@ -42,6 +42,10 @@ c:
   yellow: पीला
   turquoise: फ़िरोज़ा
 
+fullscreen:
+  enter: पूर्ण स्क्रीन में जाएं
+  exit: पूर्ण स्क्रीन से बाहर निकलें
+
 mode:
   mode: प्रेजेंटेशन मोड
   textbook: पाठ्यपुस्तक

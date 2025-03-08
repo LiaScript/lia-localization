@@ -42,6 +42,10 @@ c:
   yellow: Njano
   turquoise: Turquoise
 
+fullscreen:
+  enter: Ingia kwenye skrini kamili
+  exit: Toka kwenye skrini kamili
+
 mode:
   mode: Hali ya uwasilishaji
   textbook: Kitabu cha maandishi

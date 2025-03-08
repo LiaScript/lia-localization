@@ -42,6 +42,10 @@ c:
   yellow: Gelb
   turquoise: Türkis
 
+fullscreen:
+  enter: Vollbildmodus aktivieren
+  exit: Vollbildmodus beenden
+
 mode:
   mode: Präsentationsmodus
   textbook: Lehrbuch

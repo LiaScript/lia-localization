@@ -41,6 +41,10 @@ c:
   yellow: Jaune
   turquoise: Turquoise
 
+fullscreen:
+  enter: Passer en plein écran
+  exit: Quitter le plein écran
+
 mode:
   mode: Mode de présentation
   textbook: Manuel

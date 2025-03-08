@@ -40,6 +40,10 @@ c:
   yellow: Amarelo
   turquoise: Turquesa
 
+fullscreen:
+  enter: Entrar em tela cheia
+  exit: Sair da tela cheia
+
 mode:
   mode: Modo apresentação
   textbook: Livro-texto

@@ -42,6 +42,10 @@ c:
   yellow: ყვითელი
   turquoise: თურქიზი
 
+fullscreen:
+  enter: სრულეკრანი
+  exit: გამოსვლა
+
 mode:
   mode: პრეზენტაციის რეჟიმი
   textbook: ტექსტური

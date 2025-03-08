@@ -48,6 +48,10 @@ mode:
   presentation: Presentation
   slides: Slides
 
+fullscreen:
+  enter: Enter Fullscreen
+  exit: Exit Fullscreen
+
 sound:
   'on': Sound on
   'off': Sound off

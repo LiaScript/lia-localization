@@ -39,6 +39,10 @@ c:
   yellow: geel
   turquoise: turkoois
 
+fullscreen:
+  enter: Volledig scherm
+  exit: Volledig scherm verlaten
+
 mode:
   mode: Presentatiemodus
   textbook: Studieboek
