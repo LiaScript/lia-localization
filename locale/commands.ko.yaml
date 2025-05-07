@@ -69,6 +69,8 @@ conf:
   share: 공유
   shareVia: 공유하기
   translations: 번역
+  tooltip: 도구 설명
+  edit: 편집기 열기
 
 tts:
   preferBrowser: 브라우저 TTS 선호

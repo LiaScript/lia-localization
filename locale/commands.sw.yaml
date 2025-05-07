@@ -70,6 +70,7 @@ conf:
   shareVia: shiriki kupitia ...
   translations: Tafsiri
   tooltip: Vidokezo vya zana
+  edit: Fungua Kihariri
 
 tts:
   preferBrowser: Pendelea kivinjari TTS

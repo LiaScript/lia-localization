@@ -66,6 +66,8 @@ conf:
   share: 分享
   shareVia: 通过...分享
   translations: 翻譯
+  tooltip: 工具提示
+  edit: 打開編輯器
 
 tts:
   preferBrowser: 首选浏览器 TTS

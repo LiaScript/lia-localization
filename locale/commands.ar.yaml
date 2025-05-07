@@ -66,6 +66,8 @@ conf:
   share: مشاركة
   shareVia: شارك عبر ...
   translations: ترجمة
+  tooltip: تلميحات
+  edit: فتح المحرر
 
 code:
   execute: تنفيذ

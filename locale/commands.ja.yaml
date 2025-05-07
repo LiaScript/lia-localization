@@ -69,6 +69,7 @@ conf:
   shareVia: 共有方法...
   translations: 翻訳
   tooltip: ツールチップ
+  edit: エディターを開く
 
 tts:
   preferBrowser: ブラウザのTTSを優先する

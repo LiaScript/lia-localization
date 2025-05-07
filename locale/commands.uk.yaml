@@ -67,6 +67,7 @@ conf:
   shareVia: поділитися через ...
   translations: переклади
   tooltip: підказки
+  edit: відкрити редактор
 
 tts:
   preferBrowser: Надаю перевагу браузеру TTS

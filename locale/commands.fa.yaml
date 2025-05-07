@@ -66,6 +66,8 @@ conf:
   share: اشتراک
   shareVia: اشتراک گذاری از طریق ...
   translations: ترجمه ها
+  tooltip: راهنمای ابزار
+  edit: باز کردن ویرایشگر
 
 code:
   execute: اجرا

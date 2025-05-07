@@ -70,6 +70,7 @@ conf:
   shareVia: გაზიარება მეშვეობით ...
   translations: თარგმნები
   tooltip: ინსტრუქციები
+  edit: რედაქტორის გახსნა
 
 tts:
   preferBrowser: აირჩიეთ ბრაუზერის TTS

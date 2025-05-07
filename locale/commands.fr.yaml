@@ -69,6 +69,7 @@ conf:
   shareVia: Partager via ...
   translations: Traductions
   tooltip: Infobulles
+  edit: Ouvrir l'éditeur
 
 tts:
   preferBrowser: Préférer le TTS du navigateur

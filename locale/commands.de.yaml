@@ -70,6 +70,7 @@ conf:
   shareVia: Teilen per ...
   translations: Übersetzungen
   tooltip: Tooltipps
+  edit: Editor öffnen
 
 tts:
   preferBrowser: Browser-TTS bevorzugen

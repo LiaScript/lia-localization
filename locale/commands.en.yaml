@@ -70,6 +70,7 @@ conf:
   shareVia: share via ...
   translations: Translations
   tooltip: Tooltips
+  edit: Open editor
 
 tts:
   preferBrowser: Prefer browser TTS

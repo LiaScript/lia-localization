@@ -66,6 +66,8 @@ conf:
   share: Споделяне
   shareVia: споделете чрез ...
   translations: Транслации
+  tooltip: Подсказки
+  edit: Отвори редактор
 
 tts:
   preferBrowser: Предпочитам TTS на браузъра

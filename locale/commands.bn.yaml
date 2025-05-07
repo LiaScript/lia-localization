@@ -70,6 +70,7 @@ conf:
   shareVia: এর মাধ্যমে ভাগ করুন ...
   translations: অনুবাদ
   tooltip: টুল
+  edit: সম্পাদক খুলুন
 
 tts:
   preferBrowser: ব্রাউজার TTS পছন্দ করুন

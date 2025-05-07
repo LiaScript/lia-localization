@@ -66,6 +66,7 @@ conf:
   share: Delen
   shareVia: deel via ...
   translations: Vertalingen
+  edit: Editor openen
 
 tts:
   preferBrowser: Voorkeur browser TTS

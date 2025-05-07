@@ -70,6 +70,7 @@ conf:
   shareVia: Condividi via ...
   translations: Traduzioni
   tooltip: Suggerimento
+  edit: Apri l'editor
 
 tts:
   preferBrowser: Preferisci la sintesi vocale del browser
