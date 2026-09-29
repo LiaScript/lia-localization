@@ -1,0 +1,152 @@
+# Estonian
+
+home: Avaleht
+
+base:
+  next: järgmine
+  prev: eelmine
+  play: esita
+  stop: peata
+  abc: Aa
+  font: 'kirjasuurus: {{size}}'
+  size1: väike
+  size2: keskmine
+  size3: suur
+  search: Otsi
+  delete: tühjenda otsing
+  results: tulemused
+  oneResult: üks tulemus
+  noResult: tulemusi pole
+  toc: Sisukord
+  show: näita
+  hide: peida
+  editor: Redaktori stiil
+  lang: Eesti
+
+comment:
+  rate: Muuda taasesituse kiirust
+  pitch: Muuda hääle kõrgust
+  hide: Peida videokommentaarid
+
+no_translation: tõlge pole veel saadaval
+translateWithGoogle: Tõlgi Google'iga (eksperimentaalne)
+
+c:
+  color: Värv
+  schema: Värviskeem
+  dark: Tume režiim
+  bright: Hele režiim
+  default: Vaikimisi
+  blue: Sinine
+  red: Punane
+  yellow: Kollane
+  turquoise: Türkiissinine
+
+mode:
+  mode: Esitusrežiim
+  textbook: Õpik
+  presentation: Esitlus
+  slides: Slaidid
+
+fullscreen:
+  enter: Ava täisekraan
+  exit: Välju täisekraanist
+
+sound:
+  'on': Heli sisse
+  'off': Heli välja
+
+info:
+  author: 'Autor: '
+  authors: 'Autorid: '
+  date: 'Kuupäev: '
+  email: 'E-post: '
+  version: 'Versioon: '
+
+conf:
+  information: Teave
+  settings: Seaded
+  share: Jaga
+  shareVia: jaga ... kaudu
+  translations: Tõlked
+  tooltip: Kohtspikrid
+  edit: Ava redaktor
+
+tts:
+  preferBrowser: Eelista brauseri kõnesünteesi
+  usingBrowser: Kasutatakse brauseri sisseehitatud kõnesünteesi.
+  unsupported: Sinu brauser ei toeta kõnesünteesi. Proovi mõnda teist brauserit.
+
+code:
+  execute: Käivita
+  running: töötab
+  prev: eelmine versioon
+  next: järgmine versioon
+  first: esimene versioon
+  last: viimane versioon
+  minimize: minimeeri vaade
+  maximize: maksimeeri vaade
+  terminal: terminal
+  copy: kopeeri lõikelauale
+
+quiz:
+  check: Kontrolli
+  solution: näita lahendust
+  hint: näita vihjet
+  selection: valik
+
+  label:
+    check: Kontrolli vastust. Vastus märgitakse õigeks või valeks.
+    solution: Näita lahendust. Ülesanne märgitakse lahendatuks.
+
+  answer:
+    success: Palju õnne, see oli õige vastus
+    error: Õiget vastust pole veel antud
+    resolved: Lahendatud vastus
+
+survey:
+  submit: Saada
+  submitted: Täname tagasiside eest!
+  error: Enne saatmist tuleb küsimusele vastata.
+  errorMatrix: Enne saatmist tuleb vastata igale reale.
+  text: Sisesta tekst...
+  update: Uuenda
+
+sort:
+  asc: sorteeri kasvavalt
+  desc: sorteeri kahanevalt
+  not: sortimata
+
+chart:
+  pie: Sektordiagramm
+  bar: Tulpdiagramm
+  line: Joondiagramm
+  scatter: Hajuvusdiagramm
+#  effectScatter: Laineefektiga hajuvusdiagramm
+  radar: Radardiagramm
+#  tree: Puu
+#  treemap: Puukaart
+  boxplot: Karpdiagramm
+#  candlestick: Küünaldiagramm
+#  k: K-joondiagramm
+  heatmap: Soojuskaart
+  map: Kaart
+  parallel: Paralleelkoordinaatide diagramm
+  lines: Joongraafik
+  graph: Seoste graaf
+  sankey: Sankey diagramm
+  funnel: Lehterdiagramm
+#  gauge: Mõõdik
+#  pictorialBar: Piktogrammidega tulpdiagramm
+#  themeRiver: Teemajõekaart
+#  sunburst: Päikesekiirte diagramm
+
+qr:
+  code: Veebisaidi QR-kood
+  err: Viga QR-koodi loomisel
+
+chat:
+  open: Ava vestlus
+  close: Sulge vestlus
+  new: Sul on lugemata vestlussõnumeid
+  send: Saada sõnum

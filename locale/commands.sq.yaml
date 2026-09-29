@@ -1,0 +1,142 @@
+# Albanian
+
+home: Kreu
+
+base:
+  next: tjetri
+  prev: i mëparshmi
+  play: luaj
+  stop: ndalo
+  abc: Aa
+  font: 'madhësia e shkronjave: {{size}}'
+  size1: e vogël
+  size2: mesatare
+  size3: e madhe
+  search: Kërko
+  delete: pastro kërkimin
+  results: rezultate
+  oneResult: një rezultat
+  noResult: asnjë rezultat
+  toc: Pasqyra e lëndës
+  show: shfaq
+  hide: fshih
+  editor: Stili i redaktuesit
+  lang: Shqip
+
+comment:
+  rate: Rregullo shpejtësinë e riprodhimit
+  pitch: Rregullo lartësinë e zërit
+  hide: Fshih komentet me video
+
+no_translation: ende nuk ka përkthim
+
+translateWithGoogle: Përkthe me Google (eksperimentale)
+
+c:
+  color: Ngjyra
+  schema: Skema e ngjyrave
+  dark: Modaliteti i errët
+  bright: Modaliteti i çelët
+  default: Parazgjedhja
+  blue: Blu
+  red: E kuqe
+  yellow: E verdhë
+  turquoise: Bruz
+
+mode:
+  mode: Modaliteti i prezantimit
+  textbook: Libër mësimor
+  presentation: Prezantim
+  slides: Diapozitiva
+
+fullscreen:
+  enter: Hap ekranin e plotë
+  exit: Dil nga ekrani i plotë
+
+sound:
+  'on': Aktivizo zërin
+  'off': Çaktivizo zërin
+
+info:
+  author: 'Autori: '
+  authors: 'Autorët: '
+  date: 'Data: '
+  email: 'Email: '
+  version: 'Versioni: '
+
+conf:
+  information: Informacion
+  settings: Cilësimet
+  share: Ndaj
+  shareVia: ndaj nëpërmjet ...
+  translations: Përkthime
+  tooltip: Këshilla për mjetet
+  edit: Hap redaktuesin
+
+tts:
+  preferBrowser: Prefero sintezën e të folurit të shfletuesit
+  usingBrowser: Po përdoret motori i integruar i sintezës së të folurit të shfletuesit.
+  unsupported: Shfletuesi yt nuk e mbështet sintezën e të folurit. Provo një tjetër.
+
+code:
+  execute: Ekzekuto
+  running: po ekzekutohet
+  prev: versioni i mëparshëm
+  next: versioni tjetër
+  first: versioni i parë
+  last: versioni i fundit
+  minimize: minimizo pamjen
+  maximize: maksimizo pamjen
+  terminal: terminal
+  copy: kopjo në kujtesën e përkohshme
+
+quiz:
+  check: Kontrollo
+  solution: shfaq zgjidhjen
+  hint: shfaq ndihmën
+  selection: përzgjedhje
+  label:
+    check: Kontrollo përgjigjen. Përgjigjja do të shënohet si e saktë ose e pasaktë.
+    solution: Shfaq zgjidhjen. Ushtrimi do të shënohet si i zgjidhur.
+  answer:
+    success: Urime, kjo ishte përgjigjja e saktë
+    error: Përgjigjja e saktë nuk është dhënë ende
+    resolved: Përgjigjja e zbuluar
+
+survey:
+  submit: Dërgo
+  submitted: Faleminderit për mendimin tënd!
+  error: Para dërgimit duhet t'i jepet përgjigje pyetjes.
+  errorMatrix: Para dërgimit duhet t'i jepet përgjigje çdo rreshti.
+  text: Shkruaj një tekst...
+  update: Përditëso
+
+sort:
+  asc: rendit në rritje
+  desc: rendit në zbritje
+  not: pa renditje
+
+chart:
+  pie: Diagram rrethor
+  bar: Diagram me shtylla
+  line: Diagram vijor
+  scatter: Diagram shpërndarjeje
+  radar: Diagram radar
+  boxplot: Diagram kuti
+  heatmap: Hartë nxehtësie
+  map: Hartë
+  parallel: Diagram me koordinata paralele
+  lines: Grafik vijor
+  graph: Graf marrëdhëniesh
+  sankey: Diagram Sankey
+  funnel: Diagram hinkë
+
+qr:
+  code: Kodi QR për faqen e internetit
+  err: Gabim gjatë krijimit të kodit QR
+
+chat:
+  open: Hap bisedën
+  close: Mbyll bisedën
+  new: Ke mesazhe të palexuara në bisedë
+  send: Dërgo mesazh

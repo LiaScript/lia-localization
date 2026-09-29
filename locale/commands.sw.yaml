@@ -106,8 +106,11 @@ quiz:
 
 survey:
   submit: Wasilisha
-  submitted: Asante
+  submitted: Asante kwa maoni yako!
+  error: Swali linapaswa kujibiwa kabla ya kuwasilisha.
+  errorMatrix: Kila safu inapaswa kujibiwa kabla ya kuwasilisha.
   text: Weka maandishi...
+  update: Sasisha
 
 sort:
   asc: kupanga kupanda

@@ -1,0 +1,142 @@
+# Croatian
+
+home: Početna
+
+base:
+  next: sljedeće
+  prev: prethodno
+  play: reproduciraj
+  stop: zaustavi
+  abc: Aa
+  font: 'veličina fonta: {{size}}'
+  size1: mala
+  size2: srednja
+  size3: velika
+  search: Traži
+  delete: očisti pretragu
+  results: rezultati
+  oneResult: jedan rezultat
+  noResult: nema rezultata
+  toc: Sadržaj
+  show: prikaži
+  hide: sakrij
+  editor: Stil uređivača
+  lang: Hrvatski
+
+comment:
+  rate: Prilagodi brzinu reprodukcije
+  pitch: Prilagodi visinu glasa
+  hide: Sakrij videokomentare
+
+no_translation: prijevod još nije dostupan
+
+translateWithGoogle: Prevedi pomoću Googlea (eksperimentalno)
+
+c:
+  color: Boja
+  schema: Shema boja
+  dark: Tamni način
+  bright: Svijetli način
+  default: Zadano
+  blue: Plava
+  red: Crvena
+  yellow: Žuta
+  turquoise: Tirkizna
+
+mode:
+  mode: Način prezentacije
+  textbook: Udžbenik
+  presentation: Prezentacija
+  slides: Slajdovi
+
+fullscreen:
+  enter: Uključi prikaz preko cijelog zaslona
+  exit: Izađi iz prikaza preko cijelog zaslona
+
+sound:
+  'on': Uključi zvuk
+  'off': Isključi zvuk
+
+info:
+  author: 'Autor: '
+  authors: 'Autori: '
+  date: 'Datum: '
+  email: 'E-pošta: '
+  version: 'Verzija: '
+
+conf:
+  information: Informacije
+  settings: Postavke
+  share: Podijeli
+  shareVia: podijeli putem ...
+  translations: Prijevodi
+  tooltip: Opisi alata
+  edit: Otvori uređivač
+
+tts:
+  preferBrowser: Daj prednost sintezi govora preglednika
+  usingBrowser: Koristi se ugrađena sinteza govora preglednika.
+  unsupported: Tvoj preglednik ne podržava sintezu govora. Isprobaj drugi.
+
+code:
+  execute: Pokreni
+  running: izvodi se
+  prev: prethodna verzija
+  next: sljedeća verzija
+  first: prva verzija
+  last: posljednja verzija
+  minimize: minimiziraj prikaz
+  maximize: maksimiziraj prikaz
+  terminal: terminal
+  copy: kopiraj u međuspremnik
+
+quiz:
+  check: Provjeri
+  solution: prikaži rješenje
+  hint: prikaži savjet
+  selection: odabir
+  label:
+    check: Provjeri odgovor. Odgovor će biti označen kao točan ili netočan.
+    solution: Prikaži rješenje. Zadatak će biti označen kao riješen.
+  answer:
+    success: Čestitamo, to je bio točan odgovor
+    error: Točan odgovor još nije dan
+    resolved: Otkriveni odgovor
+
+survey:
+  submit: Pošalji
+  submitted: Hvala na povratnim informacijama!
+  error: Prije slanja potrebno je odgovoriti na pitanje.
+  errorMatrix: Prije slanja potrebno je odgovoriti na svaki redak.
+  text: Unesi tekst...
+  update: Ažuriraj
+
+sort:
+  asc: sortiraj uzlazno
+  desc: sortiraj silazno
+  not: nije sortirano
+
+chart:
+  pie: Tortni grafikon
+  bar: Stupčasti grafikon
+  line: Linijski grafikon
+  scatter: Raspršeni grafikon
+  radar: Radarski grafikon
+  boxplot: Kutijasti dijagram
+  heatmap: Toplinska karta
+  map: Karta
+  parallel: Dijagram paralelnih koordinata
+  lines: Linijski graf
+  graph: Graf odnosa
+  sankey: Sankeyjev dijagram
+  funnel: Ljevkasti grafikon
+
+qr:
+  code: QR kod za web-stranicu
+  err: Pogreška pri izradi QR koda
+
+chat:
+  open: Otvori razgovor
+  close: Zatvori razgovor
+  new: Imaš nepročitane poruke u razgovoru
+  send: Pošalji poruku

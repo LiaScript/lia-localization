@@ -103,8 +103,11 @@ quiz:
 
 survey:
   submit: 遞交
-  submitted: 感謝
+  submitted: 感谢您的反馈！
+  error: 提交前必须回答此问题。
+  errorMatrix: 提交前必须回答每一行。
   text: 輸入文字...
+  update: 更新
 
 chart:
   pie: 饼图

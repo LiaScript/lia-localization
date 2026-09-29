@@ -1,0 +1,142 @@
+# Hungarian
+
+home: Kezdőlap
+
+base:
+  next: következő
+  prev: előző
+  play: lejátszás
+  stop: leállítás
+  abc: Aa
+  font: 'betűméret: {{size}}'
+  size1: kicsi
+  size2: közepes
+  size3: nagy
+  search: Keresés
+  delete: keresés törlése
+  results: találatok
+  oneResult: egy találat
+  noResult: nincs találat
+  toc: Tartalomjegyzék
+  show: megjelenítés
+  hide: elrejtés
+  editor: Szerkesztő stílusa
+  lang: Magyar
+
+comment:
+  rate: Lejátszási sebesség beállítása
+  pitch: Hangmagasság beállítása
+  hide: Videós megjegyzések elrejtése
+
+no_translation: még nincs fordítás
+
+translateWithGoogle: Fordítás a Google segítségével (kísérleti)
+
+c:
+  color: Szín
+  schema: Színséma
+  dark: Sötét mód
+  bright: Világos mód
+  default: Alapértelmezett
+  blue: Kék
+  red: Piros
+  yellow: Sárga
+  turquoise: Türkiz
+
+mode:
+  mode: Bemutató mód
+  textbook: Tankönyv
+  presentation: Bemutató
+  slides: Diák
+
+fullscreen:
+  enter: Teljes képernyő megnyitása
+  exit: Kilépés a teljes képernyőből
+
+sound:
+  'on': Hang bekapcsolása
+  'off': Hang kikapcsolása
+
+info:
+  author: 'Szerző: '
+  authors: 'Szerzők: '
+  date: 'Dátum: '
+  email: 'E-mail: '
+  version: 'Verzió: '
+
+conf:
+  information: Információk
+  settings: Beállítások
+  share: Megosztás
+  shareVia: 'megosztás ezen keresztül: ...'
+  translations: Fordítások
+  tooltip: Eszköztippek
+  edit: Szerkesztő megnyitása
+
+tts:
+  preferBrowser: A böngésző beszédszintézisének előnyben részesítése
+  usingBrowser: A böngésző beépített beszédszintetizátora van használatban.
+  unsupported: A böngésződ nem támogatja a beszédszintézist. Próbálj ki egy másikat.
+
+code:
+  execute: Futtatás
+  running: fut
+  prev: előző verzió
+  next: következő verzió
+  first: első verzió
+  last: utolsó verzió
+  minimize: nézet kicsinyítése
+  maximize: nézet nagyítása
+  terminal: terminál
+  copy: másolás a vágólapra
+
+quiz:
+  check: Ellenőrzés
+  solution: megoldás megjelenítése
+  hint: tipp megjelenítése
+  selection: kiválasztás
+  label:
+    check: A válasz ellenőrzése. A válasz helyesnek vagy helytelennek lesz jelölve.
+    solution: A megoldás megjelenítése. A feladat megoldottként lesz jelölve.
+  answer:
+    success: Gratulálunk, ez volt a helyes válasz
+    error: Még nem adtad meg a helyes választ
+    resolved: Felfedett válasz
+
+survey:
+  submit: Küldés
+  submitted: Köszönjük a visszajelzésedet!
+  error: Küldés előtt meg kell válaszolni a kérdést.
+  errorMatrix: Küldés előtt minden sort meg kell válaszolni.
+  text: Írj be szöveget...
+  update: Frissítés
+
+sort:
+  asc: növekvő rendezés
+  desc: csökkenő rendezés
+  not: rendezetlen
+
+chart:
+  pie: Kördiagram
+  bar: Oszlopdiagram
+  line: Vonaldiagram
+  scatter: Szórásdiagram
+  radar: Sugárdiagram
+  boxplot: Dobozdiagram
+  heatmap: Hőtérkép
+  map: Térkép
+  parallel: Párhuzamos koordinátadiagram
+  lines: Vonalgrafikon
+  graph: Kapcsolati gráf
+  sankey: Sankey-diagram
+  funnel: Tölcsérdiagram
+
+qr:
+  code: A weboldal QR-kódja
+  err: Hiba a QR-kód létrehozásakor
+
+chat:
+  open: Csevegés megnyitása
+  close: Csevegés bezárása
+  new: Olvasatlan csevegőüzeneteid vannak
+  send: Üzenet küldése

@@ -1,0 +1,142 @@
+# Romanian
+
+home: Acasă
+
+base:
+  next: următorul
+  prev: anteriorul
+  play: redă
+  stop: oprește
+  abc: Aa
+  font: 'dimensiunea fontului: {{size}}'
+  size1: mică
+  size2: medie
+  size3: mare
+  search: Caută
+  delete: șterge căutarea
+  results: rezultate
+  oneResult: un rezultat
+  noResult: niciun rezultat
+  toc: Cuprins
+  show: afișează
+  hide: ascunde
+  editor: Stilul editorului
+  lang: Română
+
+comment:
+  rate: Ajustează viteza de redare
+  pitch: Ajustează înălțimea vocii
+  hide: Ascunde comentariile video
+
+no_translation: nu există încă o traducere
+
+translateWithGoogle: Tradu cu Google (experimental)
+
+c:
+  color: Culoare
+  schema: Schemă de culori
+  dark: Mod întunecat
+  bright: Mod luminos
+  default: Implicit
+  blue: Albastru
+  red: Roșu
+  yellow: Galben
+  turquoise: Turcoaz
+
+mode:
+  mode: Mod de prezentare
+  textbook: Manual
+  presentation: Prezentare
+  slides: Diapozitive
+
+fullscreen:
+  enter: Intră în modul ecran complet
+  exit: Ieși din modul ecran complet
+
+sound:
+  'on': Activează sunetul
+  'off': Dezactivează sunetul
+
+info:
+  author: 'Autor: '
+  authors: 'Autori: '
+  date: 'Data: '
+  email: 'E-mail: '
+  version: 'Versiune: '
+
+conf:
+  information: Informații
+  settings: Setări
+  share: Distribuie
+  shareVia: distribuie prin ...
+  translations: Traduceri
+  tooltip: Indicații
+  edit: Deschide editorul
+
+tts:
+  preferBrowser: Preferă sinteza vocală a browserului
+  usingBrowser: Se utilizează motorul de sinteză vocală integrat în browser.
+  unsupported: Browserul tău nu acceptă sinteza vocală. Încearcă alt browser.
+
+code:
+  execute: Execută
+  running: se execută
+  prev: versiunea anterioară
+  next: versiunea următoare
+  first: prima versiune
+  last: ultima versiune
+  minimize: minimizează vizualizarea
+  maximize: maximizează vizualizarea
+  terminal: terminal
+  copy: copiază în clipboard
+
+quiz:
+  check: Verifică
+  solution: arată soluția
+  hint: arată indiciul
+  selection: selecție
+  label:
+    check: Verifică răspunsul. Răspunsul va fi marcat drept corect sau incorect.
+    solution: Arată soluția. Exercițiul va fi marcat ca rezolvat.
+  answer:
+    success: Felicitări, acesta a fost răspunsul corect
+    error: Răspunsul corect nu a fost încă dat
+    resolved: Răspuns dezvăluit
+
+survey:
+  submit: Trimite
+  submitted: Îți mulțumim pentru feedback!
+  error: Înainte de trimitere trebuie să se răspundă la întrebare.
+  errorMatrix: Înainte de trimitere trebuie să se răspundă pe fiecare rând.
+  text: Introdu un text...
+  update: Actualizează
+
+sort:
+  asc: sortează crescător
+  desc: sortează descrescător
+  not: nesortat
+
+chart:
+  pie: Diagramă circulară
+  bar: Diagramă cu bare
+  line: Diagramă liniară
+  scatter: Diagramă de dispersie
+  radar: Diagramă radar
+  boxplot: Diagramă cutie
+  heatmap: Hartă termică
+  map: Hartă
+  parallel: Diagramă cu coordonate paralele
+  lines: Grafic liniar
+  graph: Graf de relații
+  sankey: Diagramă Sankey
+  funnel: Diagramă pâlnie
+
+qr:
+  code: Cod QR pentru site
+  err: Eroare la generarea codului QR
+
+chat:
+  open: Deschide conversația
+  close: Închide conversația
+  new: Ai mesaje necitite în conversație
+  send: Trimite mesajul

@@ -1,0 +1,142 @@
+# Swedish
+
+home: Hem
+
+base:
+  next: nästa
+  prev: föregående
+  play: spela upp
+  stop: stoppa
+  abc: Aa
+  font: 'teckenstorlek: {{size}}'
+  size1: liten
+  size2: medelstor
+  size3: stor
+  search: Sök
+  delete: rensa sökning
+  results: resultat
+  oneResult: ett resultat
+  noResult: inga resultat
+  toc: Innehållsförteckning
+  show: visa
+  hide: dölj
+  editor: Redigerarstil
+  lang: Svenska
+
+comment:
+  rate: Justera uppspelningshastighet
+  pitch: Justera tonhöjd
+  hide: Dölj videokommentarer
+
+no_translation: ingen översättning ännu
+
+translateWithGoogle: Översätt med Google (experimentellt)
+
+c:
+  color: Färg
+  schema: Färgschema
+  dark: Mörkt läge
+  bright: Ljust läge
+  default: Standard
+  blue: Blå
+  red: Röd
+  yellow: Gul
+  turquoise: Turkos
+
+mode:
+  mode: Presentationsläge
+  textbook: Lärobok
+  presentation: Presentation
+  slides: Bilder
+
+fullscreen:
+  enter: Aktivera helskärm
+  exit: Avsluta helskärm
+
+sound:
+  'on': Ljud på
+  'off': Ljud av
+
+info:
+  author: 'Författare: '
+  authors: 'Författare: '
+  date: 'Datum: '
+  email: 'E-post: '
+  version: 'Version: '
+
+conf:
+  information: Information
+  settings: Inställningar
+  share: Dela
+  shareVia: dela via ...
+  translations: Översättningar
+  tooltip: Verktygstips
+  edit: Öppna redigeraren
+
+tts:
+  preferBrowser: Föredra webbläsarens talsyntes
+  usingBrowser: Webbläsarens inbyggda talsyntes används.
+  unsupported: Din webbläsare stöder inte talsyntes. Prova en annan.
+
+code:
+  execute: Kör
+  running: körs
+  prev: föregående version
+  next: nästa version
+  first: första versionen
+  last: senaste versionen
+  minimize: minimera vyn
+  maximize: maximera vyn
+  terminal: terminal
+  copy: kopiera till urklipp
+
+quiz:
+  check: Kontrollera
+  solution: visa lösning
+  hint: visa ledtråd
+  selection: val
+  label:
+    check: Kontrollera svaret. Svaret markeras som rätt eller fel.
+    solution: Visa lösningen. Uppgiften markeras som löst.
+  answer:
+    success: Grattis, det var rätt svar
+    error: Rätt svar har ännu inte angetts
+    resolved: Avslöjat svar
+
+survey:
+  submit: Skicka
+  submitted: Tack för din feedback!
+  error: Frågan måste besvaras före inskickning.
+  errorMatrix: Alla rader måste besvaras före inskickning.
+  text: Skriv en text...
+  update: Uppdatera
+
+sort:
+  asc: sortera stigande
+  desc: sortera fallande
+  not: osorterat
+
+chart:
+  pie: Cirkeldiagram
+  bar: Stapeldiagram
+  line: Linjediagram
+  scatter: Spridningsdiagram
+  radar: Radardiagram
+  boxplot: Lådagram
+  heatmap: Värmekarta
+  map: Karta
+  parallel: Diagram med parallella koordinater
+  lines: Linjegraf
+  graph: Relationsgraf
+  sankey: Sankeydiagram
+  funnel: Trattdiagram
+
+qr:
+  code: QR-kod för webbplatsen
+  err: Fel när QR-koden skapades
+
+chat:
+  open: Öppna chatten
+  close: Stäng chatten
+  new: Du har olästa chattmeddelanden
+  send: Skicka meddelande

@@ -1,0 +1,142 @@
+# Lithuanian
+
+home: Pradžia
+
+base:
+  next: kitas
+  prev: ankstesnis
+  play: leisti
+  stop: sustabdyti
+  abc: Aa
+  font: 'šrifto dydis: {{size}}'
+  size1: mažas
+  size2: vidutinis
+  size3: didelis
+  search: Ieškoti
+  delete: išvalyti paiešką
+  results: rezultatai
+  oneResult: vienas rezultatas
+  noResult: rezultatų nėra
+  toc: Turinys
+  show: rodyti
+  hide: slėpti
+  editor: Rengyklės stilius
+  lang: Lietuvių
+
+comment:
+  rate: Keisti atkūrimo greitį
+  pitch: Keisti balso aukštį
+  hide: Slėpti vaizdo komentarus
+
+no_translation: vertimo dar nėra
+
+translateWithGoogle: Versti su „Google“ (eksperimentinė funkcija)
+
+c:
+  color: Spalva
+  schema: Spalvų schema
+  dark: Tamsus režimas
+  bright: Šviesus režimas
+  default: Numatytoji
+  blue: Mėlyna
+  red: Raudona
+  yellow: Geltona
+  turquoise: Turkio
+
+mode:
+  mode: Pateikimo režimas
+  textbook: Vadovėlis
+  presentation: Pristatymas
+  slides: Skaidrės
+
+fullscreen:
+  enter: Įjungti viso ekrano režimą
+  exit: Išjungti viso ekrano režimą
+
+sound:
+  'on': Įjungti garsą
+  'off': Išjungti garsą
+
+info:
+  author: 'Autorius: '
+  authors: 'Autoriai: '
+  date: 'Data: '
+  email: 'El. paštas: '
+  version: 'Versija: '
+
+conf:
+  information: Informacija
+  settings: Nustatymai
+  share: Bendrinti
+  shareVia: bendrinti per ...
+  translations: Vertimai
+  tooltip: Paaiškinimai
+  edit: Atverti rengyklę
+
+tts:
+  preferBrowser: Teikti pirmenybę naršyklės kalbos sintezei
+  usingBrowser: Naudojama naršyklėje integruota kalbos sintezė.
+  unsupported: Tavo naršyklė nepalaiko kalbos sintezės. Išbandyk kitą.
+
+code:
+  execute: Vykdyti
+  running: vykdoma
+  prev: ankstesnė versija
+  next: kita versija
+  first: pirmoji versija
+  last: paskutinė versija
+  minimize: sumažinti rodinį
+  maximize: padidinti rodinį
+  terminal: terminalas
+  copy: kopijuoti į iškarpinę
+
+quiz:
+  check: Tikrinti
+  solution: rodyti sprendimą
+  hint: rodyti užuominą
+  selection: pasirinkimas
+  label:
+    check: Patikrinti atsakymą. Atsakymas bus pažymėtas kaip teisingas arba neteisingas.
+    solution: Parodyti sprendimą. Užduotis bus pažymėta kaip išspręsta.
+  answer:
+    success: Sveikiname, tai buvo teisingas atsakymas
+    error: Teisingas atsakymas dar nepateiktas
+    resolved: Atskleistas atsakymas
+
+survey:
+  submit: Pateikti
+  submitted: Dėkojame už atsiliepimą!
+  error: Prieš pateikiant būtina atsakyti į klausimą.
+  errorMatrix: Prieš pateikiant būtina atsakyti į kiekvieną eilutę.
+  text: Įvesk tekstą...
+  update: Atnaujinti
+
+sort:
+  asc: rikiuoti didėjančiai
+  desc: rikiuoti mažėjančiai
+  not: nesurikiuota
+
+chart:
+  pie: Skritulinė diagrama
+  bar: Stulpelinė diagrama
+  line: Linijinė diagrama
+  scatter: Sklaidos diagrama
+  radar: Radarinė diagrama
+  boxplot: Stačiakampė diagrama
+  heatmap: Šilumos žemėlapis
+  map: Žemėlapis
+  parallel: Lygiagrečių koordinačių diagrama
+  lines: Linijinis grafikas
+  graph: Ryšių grafas
+  sankey: Sankey diagrama
+  funnel: Piltuvėlio diagrama
+
+qr:
+  code: Svetainės QR kodas
+  err: Klaida kuriant QR kodą
+
+chat:
+  open: Atverti pokalbį
+  close: Užverti pokalbį
+  new: Turi neskaitytų pokalbio žinučių
+  send: Siųsti žinutę

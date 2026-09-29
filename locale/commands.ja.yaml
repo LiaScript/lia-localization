@@ -105,8 +105,11 @@ quiz:
 
 survey:
   submit: 送信
-  submitted: ありがとうございます
+  submitted: ご意見をお寄せいただきありがとうございます！
+  error: 送信する前に質問に回答する必要があります。
+  errorMatrix: 送信する前にすべての行に回答する必要があります。
   text: テキストを入力してください...
+  update: 更新
 
 sort:
   asc: 昇順に並べ替え

@@ -106,8 +106,11 @@ quiz:
 
 survey:
   submit: 제출
-  submitted: 감사합니다
+  submitted: 의견을 보내 주셔서 감사합니다!
+  error: 제출하기 전에 질문에 답해야 합니다.
+  errorMatrix: 제출하기 전에 모든 행에 답해야 합니다.
   text: 내용을 입력해주세요.
+  update: 업데이트
 
 sort:
   asc: 오름차순 정렬

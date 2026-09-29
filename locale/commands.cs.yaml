@@ -1,0 +1,142 @@
+# Czech
+
+home: Domů
+
+base:
+  next: další
+  prev: předchozí
+  play: přehrát
+  stop: zastavit
+  abc: Aa
+  font: 'velikost písma: {{size}}'
+  size1: malá
+  size2: střední
+  size3: velká
+  search: Hledat
+  delete: vymazat hledání
+  results: výsledky
+  oneResult: jeden výsledek
+  noResult: žádné výsledky
+  toc: Obsah
+  show: zobrazit
+  hide: skrýt
+  editor: Styl editoru
+  lang: Čeština
+
+comment:
+  rate: Upravit rychlost přehrávání
+  pitch: Upravit výšku hlasu
+  hide: Skrýt videokomentáře
+
+no_translation: překlad zatím není k dispozici
+
+translateWithGoogle: Přeložit pomocí Googlu (experimentální)
+
+c:
+  color: Barva
+  schema: Barevné schéma
+  dark: Tmavý režim
+  bright: Světlý režim
+  default: Výchozí
+  blue: Modrá
+  red: Červená
+  yellow: Žlutá
+  turquoise: Tyrkysová
+
+mode:
+  mode: Režim prezentace
+  textbook: Učebnice
+  presentation: Prezentace
+  slides: Snímky
+
+fullscreen:
+  enter: Přejít na celou obrazovku
+  exit: Ukončit režim celé obrazovky
+
+sound:
+  'on': Zapnout zvuk
+  'off': Vypnout zvuk
+
+info:
+  author: 'Autor: '
+  authors: 'Autoři: '
+  date: 'Datum: '
+  email: 'E-mail: '
+  version: 'Verze: '
+
+conf:
+  information: Informace
+  settings: Nastavení
+  share: Sdílet
+  shareVia: sdílet přes ...
+  translations: Překlady
+  tooltip: Popisky
+  edit: Otevřít editor
+
+tts:
+  preferBrowser: Upřednostnit syntézu řeči prohlížeče
+  usingBrowser: Používá se vestavěná syntéza řeči prohlížeče.
+  unsupported: Tvůj prohlížeč nepodporuje syntézu řeči. Zkus jiný.
+
+code:
+  execute: Spustit
+  running: běží
+  prev: předchozí verze
+  next: další verze
+  first: první verze
+  last: poslední verze
+  minimize: minimalizovat zobrazení
+  maximize: maximalizovat zobrazení
+  terminal: terminál
+  copy: zkopírovat do schránky
+
+quiz:
+  check: Zkontrolovat
+  solution: zobrazit řešení
+  hint: zobrazit nápovědu
+  selection: výběr
+  label:
+    check: Zkontrolovat odpověď. Odpověď bude označena jako správná nebo nesprávná.
+    solution: Zobrazit řešení. Úloha bude označena jako vyřešená.
+  answer:
+    success: Gratulujeme, to byla správná odpověď
+    error: Správná odpověď ještě nebyla zadána
+    resolved: Odhalená odpověď
+
+survey:
+  submit: Odeslat
+  submitted: Děkujeme za zpětnou vazbu!
+  error: Před odesláním je nutné odpovědět na otázku.
+  errorMatrix: Před odesláním je nutné odpovědět v každém řádku.
+  text: Zadej text...
+  update: Aktualizovat
+
+sort:
+  asc: řadit vzestupně
+  desc: řadit sestupně
+  not: neseřazeno
+
+chart:
+  pie: Výsečový graf
+  bar: Sloupcový graf
+  line: Spojnicový graf
+  scatter: Bodový graf
+  radar: Paprskový graf
+  boxplot: Krabicový graf
+  heatmap: Teplotní mapa
+  map: Mapa
+  parallel: Graf paralelních souřadnic
+  lines: Čárový graf
+  graph: Graf vztahů
+  sankey: Sankeyův diagram
+  funnel: Trychtýřový graf
+
+qr:
+  code: QR kód webové stránky
+  err: Chyba při vytváření QR kódu
+
+chat:
+  open: Otevřít chat
+  close: Zavřít chat
+  new: Máš nepřečtené zprávy v chatu
+  send: Odeslat zprávu

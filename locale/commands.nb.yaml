@@ -1,0 +1,142 @@
+# Norwegian Bokmål
+
+home: Hjem
+
+base:
+  next: neste
+  prev: forrige
+  play: spill av
+  stop: stopp
+  abc: Aa
+  font: 'skriftstørrelse: {{size}}'
+  size1: liten
+  size2: middels
+  size3: stor
+  search: Søk
+  delete: tøm søk
+  results: resultater
+  oneResult: ett resultat
+  noResult: ingen resultater
+  toc: Innholdsfortegnelse
+  show: vis
+  hide: skjul
+  editor: Editorstil
+  lang: Norsk bokmål
+
+comment:
+  rate: Juster avspillingshastighet
+  pitch: Juster tonehøyde
+  hide: Skjul videokommentarer
+
+no_translation: ingen oversettelse ennå
+
+translateWithGoogle: Oversett med Google (eksperimentelt)
+
+c:
+  color: Farge
+  schema: Fargevalg
+  dark: Mørk modus
+  bright: Lys modus
+  default: Standard
+  blue: Blå
+  red: Rød
+  yellow: Gul
+  turquoise: Turkis
+
+mode:
+  mode: Presentasjonsmodus
+  textbook: Lærebok
+  presentation: Presentasjon
+  slides: Lysbilder
+
+fullscreen:
+  enter: Åpne fullskjerm
+  exit: Avslutt fullskjerm
+
+sound:
+  'on': Lyd på
+  'off': Lyd av
+
+info:
+  author: 'Forfatter: '
+  authors: 'Forfattere: '
+  date: 'Dato: '
+  email: 'E-post: '
+  version: 'Versjon: '
+
+conf:
+  information: Informasjon
+  settings: Innstillinger
+  share: Del
+  shareVia: del via ...
+  translations: Oversettelser
+  tooltip: Verktøytips
+  edit: Åpne editoren
+
+tts:
+  preferBrowser: Foretrekk nettleserens talesyntese
+  usingBrowser: Nettleserens innebygde talesyntese brukes.
+  unsupported: Nettleseren din støtter ikke talesyntese. Prøv en annen.
+
+code:
+  execute: Kjør
+  running: kjører
+  prev: forrige versjon
+  next: neste versjon
+  first: første versjon
+  last: siste versjon
+  minimize: minimer visning
+  maximize: maksimer visning
+  terminal: terminal
+  copy: kopier til utklippstavlen
+
+quiz:
+  check: Kontroller
+  solution: vis løsning
+  hint: vis hint
+  selection: valg
+  label:
+    check: Kontroller svaret. Svaret markeres som riktig eller feil.
+    solution: Vis løsningen. Oppgaven markeres som løst.
+  answer:
+    success: Gratulerer, det var riktig svar
+    error: Riktig svar er ikke gitt ennå
+    resolved: Avslørt svar
+
+survey:
+  submit: Send
+  submitted: Takk for tilbakemeldingen din!
+  error: Spørsmålet må besvares før innsending.
+  errorMatrix: Alle radene må besvares før innsending.
+  text: Skriv inn tekst...
+  update: Oppdater
+
+sort:
+  asc: sorter stigende
+  desc: sorter synkende
+  not: ikke sortert
+
+chart:
+  pie: Sektordiagram
+  bar: Stolpediagram
+  line: Linjediagram
+  scatter: Spredningsdiagram
+  radar: Radardiagram
+  boxplot: Boksplott
+  heatmap: Varmekart
+  map: Kart
+  parallel: Diagram med parallelle koordinater
+  lines: Linjegraf
+  graph: Relasjonsgraf
+  sankey: Sankey-diagram
+  funnel: Traktdiagram
+
+qr:
+  code: QR-kode for nettstedet
+  err: Feil ved oppretting av QR-kode
+
+chat:
+  open: Åpne chatten
+  close: Lukk chatten
+  new: Du har uleste chatmeldinger
+  send: Send melding

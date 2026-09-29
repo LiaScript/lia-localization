@@ -98,8 +98,11 @@ quiz:
 
 survey:
   submit: 'إرسال '
-  submitted: تم الإرسال
+  submitted: شكرًا على ملاحظاتك!
+  error: يجب الإجابة عن السؤال قبل الإرسال.
+  errorMatrix: يجب الإجابة عن كل صف قبل الإرسال.
   text: أدخل نص...
+  update: تحديث
 
 sort:
   asc: ترتيب تصاعدي

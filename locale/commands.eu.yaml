@@ -1,0 +1,142 @@
+# Basque
+
+home: Hasiera
+
+base:
+  next: hurrengoa
+  prev: aurrekoa
+  play: erreproduzitu
+  stop: gelditu
+  abc: Aa
+  font: 'letra-tamaina: {{size}}'
+  size1: txikia
+  size2: ertaina
+  size3: handia
+  search: Bilatu
+  delete: garbitu bilaketa
+  results: emaitzak
+  oneResult: emaitza bat
+  noResult: emaitzarik ez
+  toc: Aurkibidea
+  show: erakutsi
+  hide: ezkutatu
+  editor: Editorearen estiloa
+  lang: Euskara
+
+comment:
+  rate: Doitu erreprodukzio-abiadura
+  pitch: Doitu ahotsaren tonua
+  hide: Ezkutatu bideo-iruzkinak
+
+no_translation: oraindik ez dago itzulpenik
+
+translateWithGoogle: Itzuli Google-rekin (esperimentala)
+
+c:
+  color: Kolorea
+  schema: Kolore-eskema
+  dark: Modu iluna
+  bright: Modu argia
+  default: Lehenetsia
+  blue: Urdina
+  red: Gorria
+  yellow: Horia
+  turquoise: Turkesa
+
+mode:
+  mode: Aurkezpen-modua
+  textbook: Testuliburua
+  presentation: Aurkezpena
+  slides: Diapositibak
+
+fullscreen:
+  enter: Sartu pantaila osoko moduan
+  exit: Irten pantaila osoko modutik
+
+sound:
+  'on': Aktibatu soinua
+  'off': Desaktibatu soinua
+
+info:
+  author: 'Egilea: '
+  authors: 'Egileak: '
+  date: 'Data: '
+  email: 'Posta elektronikoa: '
+  version: 'Bertsioa: '
+
+conf:
+  information: Informazioa
+  settings: Ezarpenak
+  share: Partekatu
+  shareVia: partekatu ... bidez
+  translations: Itzulpenak
+  tooltip: Tresna-aholkuak
+  edit: Ireki editorea
+
+tts:
+  preferBrowser: Lehenetsi nabigatzailearen hizketa-sintesia
+  usingBrowser: Nabigatzailearen hizketa-sintesi integratua erabiltzen ari da.
+  unsupported: Zure nabigatzaileak ez du hizketa-sintesia onartzen. Probatu beste bat.
+
+code:
+  execute: Exekutatu
+  running: exekutatzen ari da
+  prev: aurreko bertsioa
+  next: hurrengo bertsioa
+  first: lehen bertsioa
+  last: azken bertsioa
+  minimize: minimizatu ikuspegia
+  maximize: maximizatu ikuspegia
+  terminal: terminala
+  copy: kopiatu arbelean
+
+quiz:
+  check: Egiaztatu
+  solution: erakutsi ebazpena
+  hint: erakutsi pista
+  selection: hautaketa
+  label:
+    check: Egiaztatu erantzuna. Erantzuna zuzen edo oker gisa markatuko da.
+    solution: Erakutsi ebazpena. Ariketa ebatzita dagoela markatuko da.
+  answer:
+    success: Zorionak, hori zen erantzun zuzena
+    error: Oraindik ez da erantzun zuzena eman
+    resolved: Agerian jarritako erantzuna
+
+survey:
+  submit: Bidali
+  submitted: Eskerrik asko zure iritziagatik!
+  error: Galderari erantzun behar zaio bidali aurretik.
+  errorMatrix: Errenkada guztiei erantzun behar zaie bidali aurretik.
+  text: Idatzi testua...
+  update: Eguneratu
+
+sort:
+  asc: ordenatu gorantz
+  desc: ordenatu beherantz
+  not: ordenatu gabe
+
+chart:
+  pie: Sektore-diagrama
+  bar: Barra-diagrama
+  line: Lerro-diagrama
+  scatter: Sakabanatze-diagrama
+  radar: Radar-diagrama
+  boxplot: Kutxa-diagrama
+  heatmap: Bero-mapa
+  map: Mapa
+  parallel: Koordenatu paraleloen diagrama
+  lines: Lerro-grafikoa
+  graph: Erlazio-grafoa
+  sankey: Sankey diagrama
+  funnel: Inbutu-diagrama
+
+qr:
+  code: Webgunearen QR kodea
+  err: Errorea QR kodea sortzean
+
+chat:
+  open: Ireki txata
+  close: Itxi txata
+  new: Irakurri gabeko txat-mezuak dituzu
+  send: Bidali mezua

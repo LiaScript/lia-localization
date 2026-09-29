@@ -101,8 +101,11 @@ quiz:
 
 survey:
   submit: Verzenden
-  submitted: Vriendelijk bedankt
+  submitted: Bedankt voor je feedback!
+  error: De vraag moet vóór het verzenden worden beantwoord.
+  errorMatrix: Elke rij moet vóór het verzenden worden beantwoord.
   text: Tekstinvoer ...
+  update: Bijwerken
 
 sort:
   asc: oplopend sorteren

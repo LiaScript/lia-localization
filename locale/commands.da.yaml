@@ -1,0 +1,142 @@
+# Danish
+
+home: Hjem
+
+base:
+  next: næste
+  prev: forrige
+  play: afspil
+  stop: stop
+  abc: Aa
+  font: 'skriftstørrelse: {{size}}'
+  size1: lille
+  size2: mellem
+  size3: stor
+  search: Søg
+  delete: ryd søgning
+  results: resultater
+  oneResult: ét resultat
+  noResult: ingen resultater
+  toc: Indholdsfortegnelse
+  show: vis
+  hide: skjul
+  editor: Editorstil
+  lang: Dansk
+
+comment:
+  rate: Juster afspilningshastighed
+  pitch: Juster tonehøjde
+  hide: Skjul videokommentarer
+
+no_translation: endnu ingen oversættelse
+
+translateWithGoogle: Oversæt med Google (eksperimentelt)
+
+c:
+  color: Farve
+  schema: Farveskema
+  dark: Mørk tilstand
+  bright: Lys tilstand
+  default: Standard
+  blue: Blå
+  red: Rød
+  yellow: Gul
+  turquoise: Turkis
+
+mode:
+  mode: Præsentationstilstand
+  textbook: Lærebog
+  presentation: Præsentation
+  slides: Dias
+
+fullscreen:
+  enter: Aktivér fuld skærm
+  exit: Afslut fuld skærm
+
+sound:
+  'on': Lyd til
+  'off': Lyd fra
+
+info:
+  author: 'Forfatter: '
+  authors: 'Forfattere: '
+  date: 'Dato: '
+  email: 'E-mail: '
+  version: 'Version: '
+
+conf:
+  information: Information
+  settings: Indstillinger
+  share: Del
+  shareVia: del via ...
+  translations: Oversættelser
+  tooltip: Værktøjstip
+  edit: Åbn editoren
+
+tts:
+  preferBrowser: Foretræk browserens talesyntese
+  usingBrowser: Browserens indbyggede talesyntese bruges.
+  unsupported: Din browser understøtter ikke talesyntese. Prøv en anden.
+
+code:
+  execute: Kør
+  running: kører
+  prev: forrige version
+  next: næste version
+  first: første version
+  last: seneste version
+  minimize: minimer visning
+  maximize: maksimer visning
+  terminal: terminal
+  copy: kopiér til udklipsholder
+
+quiz:
+  check: Kontrollér
+  solution: vis løsning
+  hint: vis tip
+  selection: valg
+  label:
+    check: Kontrollér svaret. Svaret markeres som rigtigt eller forkert.
+    solution: Vis løsningen. Opgaven markeres som løst.
+  answer:
+    success: Tillykke, det var det rigtige svar
+    error: Det rigtige svar er endnu ikke angivet
+    resolved: Afsløret svar
+
+survey:
+  submit: Send
+  submitted: Tak for din feedback!
+  error: Spørgsmålet skal besvares inden afsendelse.
+  errorMatrix: Alle rækker skal besvares inden afsendelse.
+  text: Indtast en tekst...
+  update: Opdater
+
+sort:
+  asc: sortér stigende
+  desc: sortér faldende
+  not: ikke sorteret
+
+chart:
+  pie: Cirkeldiagram
+  bar: Søjlediagram
+  line: Linjediagram
+  scatter: Punktdiagram
+  radar: Radardiagram
+  boxplot: Boksplot
+  heatmap: Varmekort
+  map: Kort
+  parallel: Diagram med parallelle koordinater
+  lines: Linjegraf
+  graph: Relationsgraf
+  sankey: Sankey-diagram
+  funnel: Tragtdiagram
+
+qr:
+  code: QR-kode til webstedet
+  err: Fejl ved oprettelse af QR-kode
+
+chat:
+  open: Åbn chatten
+  close: Luk chatten
+  new: Du har ulæste chatbeskeder
+  send: Send besked

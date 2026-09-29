@@ -1,0 +1,142 @@
+# Irish
+
+home: Baile
+
+base:
+  next: ar aghaidh
+  prev: siar
+  play: seinn
+  stop: stop
+  abc: Aa
+  font: 'clómhéid: {{size}}'
+  size1: beag
+  size2: meánach
+  size3: mór
+  search: Cuardaigh
+  delete: glan an cuardach
+  results: torthaí
+  oneResult: toradh amháin
+  noResult: gan torthaí
+  toc: Clár na nÁbhar
+  show: taispeáin
+  hide: folaigh
+  editor: Stíl an eagarthóra
+  lang: Gaeilge
+
+comment:
+  rate: Coigeartaigh luas na hathsheinnte
+  pitch: Coigeartaigh tuinairde an ghutha
+  hide: Folaigh nótaí tráchta físe
+
+no_translation: níl aistriúchán ar fáil fós
+
+translateWithGoogle: Aistrigh le Google (turgnamhach)
+
+c:
+  color: Dath
+  schema: Scéim dathanna
+  dark: Mód dorcha
+  bright: Mód geal
+  default: Réamhshocrú
+  blue: Gorm
+  red: Dearg
+  yellow: Buí
+  turquoise: Turcaid
+
+mode:
+  mode: Mód cur i láthair
+  textbook: Téacsleabhar
+  presentation: Cur i láthair
+  slides: Sleamhnáin
+
+fullscreen:
+  enter: Téigh go lánscáileán
+  exit: Scoir den lánscáileán
+
+sound:
+  'on': Fuaim ar siúl
+  'off': Fuaim múchta
+
+info:
+  author: 'Údar: '
+  authors: 'Údair: '
+  date: 'Dáta: '
+  email: 'Ríomhphost: '
+  version: 'Leagan: '
+
+conf:
+  information: Eolas
+  settings: Socruithe
+  share: Comhroinn
+  shareVia: comhroinn trí ...
+  translations: Aistriúcháin
+  tooltip: Leideanna uirlisí
+  edit: Oscail an t-eagarthóir
+
+tts:
+  preferBrowser: Tabhair tús áite do shintéis cainte an bhrabhsálaí
+  usingBrowser: Tá sintéis cainte ionsuite an bhrabhsálaí in úsáid.
+  unsupported: Ní thacaíonn do bhrabhsálaí le sintéis cainte. Bain triail as brabhsálaí eile.
+
+code:
+  execute: Rith
+  running: ag rith
+  prev: an leagan roimhe
+  next: an chéad leagan eile
+  first: an chéad leagan
+  last: an leagan deireanach
+  minimize: íoslaghdaigh an t-amharc
+  maximize: uasmhéadaigh an t-amharc
+  terminal: teirminéal
+  copy: cóipeáil chuig an ngearrthaisce
+
+quiz:
+  check: Seiceáil
+  solution: taispeáin an réiteach
+  hint: taispeáin leid
+  selection: roghnú
+  label:
+    check: Seiceáil an freagra. Marcálfar an freagra mar cheart nó mícheart.
+    solution: Taispeáin an réiteach. Marcálfar an cleachtadh mar réitithe.
+  answer:
+    success: Comhghairdeas, ba é sin an freagra ceart
+    error: Níor tugadh an freagra ceart fós
+    resolved: Freagra nochta
+
+survey:
+  submit: Seol
+  submitted: Go raibh maith agat as d'aiseolas!
+  error: Caithfear an cheist a fhreagairt roimh sheoladh.
+  errorMatrix: Caithfear gach ró a fhreagairt roimh sheoladh.
+  text: Cuir téacs isteach...
+  update: Nuashonraigh
+
+sort:
+  asc: sórtáil in ord ardaitheach
+  desc: sórtáil in ord íslitheach
+  not: gan sórtáil
+
+chart:
+  pie: Píchairt
+  bar: Barrachairt
+  line: Línechairt
+  scatter: Scaipghraf
+  radar: Cairt radair
+  boxplot: Boscaplot
+  heatmap: Léarscáil teasa
+  map: Léarscáil
+  parallel: Cairt comhordanáidí comhthreomhara
+  lines: Líneghraf
+  graph: Graf gaolmhaireachtaí
+  sankey: Léaráid Sankey
+  funnel: Cairt tonnadóra
+
+qr:
+  code: Cód QR don suíomh gréasáin
+  err: Earráid agus cód QR á chruthú
+
+chat:
+  open: Oscail an comhrá
+  close: Dún an comhrá
+  new: Tá teachtaireachtaí comhrá neamhléite agat
+  send: Seol teachtaireacht

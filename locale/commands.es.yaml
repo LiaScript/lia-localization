@@ -101,8 +101,11 @@ quiz:
 
 survey:
   submit: enviar
-  submitted: enviado
+  submitted: ¡Gracias por tus comentarios!
+  error: La pregunta debe responderse antes del envío.
+  errorMatrix: Todas las filas deben responderse antes del envío.
   text: introducir texto
+  update: Actualizar
 
 sort:
   asc: orden ascendente

@@ -1,0 +1,142 @@
+# Latvian
+
+home: Sākums
+
+base:
+  next: nākamais
+  prev: iepriekšējais
+  play: atskaņot
+  stop: apturēt
+  abc: Aa
+  font: 'fonta lielums: {{size}}'
+  size1: mazs
+  size2: vidējs
+  size3: liels
+  search: Meklēt
+  delete: notīrīt meklēšanu
+  results: rezultāti
+  oneResult: viens rezultāts
+  noResult: nav rezultātu
+  toc: Satura rādītājs
+  show: rādīt
+  hide: paslēpt
+  editor: Redaktora stils
+  lang: Latviešu
+
+comment:
+  rate: Pielāgot atskaņošanas ātrumu
+  pitch: Pielāgot balss augstumu
+  hide: Paslēpt video komentārus
+
+no_translation: tulkojums vēl nav pieejams
+
+translateWithGoogle: Tulkot ar Google (eksperimentāli)
+
+c:
+  color: Krāsa
+  schema: Krāsu shēma
+  dark: Tumšais režīms
+  bright: Gaišais režīms
+  default: Noklusējuma
+  blue: Zila
+  red: Sarkana
+  yellow: Dzeltena
+  turquoise: Tirkīza
+
+mode:
+  mode: Prezentācijas režīms
+  textbook: Mācību grāmata
+  presentation: Prezentācija
+  slides: Slaidi
+
+fullscreen:
+  enter: Ieslēgt pilnekrāna režīmu
+  exit: Iziet no pilnekrāna režīma
+
+sound:
+  'on': Ieslēgt skaņu
+  'off': Izslēgt skaņu
+
+info:
+  author: 'Autors: '
+  authors: 'Autori: '
+  date: 'Datums: '
+  email: 'E-pasts: '
+  version: 'Versija: '
+
+conf:
+  information: Informācija
+  settings: Iestatījumi
+  share: Kopīgot
+  shareVia: kopīgot, izmantojot ...
+  translations: Tulkojumi
+  tooltip: Rīku padomi
+  edit: Atvērt redaktoru
+
+tts:
+  preferBrowser: Dot priekšroku pārlūkprogrammas runas sintēzei
+  usingBrowser: Tiek izmantota pārlūkprogrammā iebūvētā runas sintēze.
+  unsupported: Tava pārlūkprogramma neatbalsta runas sintēzi. Izmēģini citu.
+
+code:
+  execute: Izpildīt
+  running: tiek izpildīts
+  prev: iepriekšējā versija
+  next: nākamā versija
+  first: pirmā versija
+  last: pēdējā versija
+  minimize: minimizēt skatu
+  maximize: maksimizēt skatu
+  terminal: terminālis
+  copy: kopēt starpliktuvē
+
+quiz:
+  check: Pārbaudīt
+  solution: rādīt risinājumu
+  hint: rādīt norādi
+  selection: izvēle
+  label:
+    check: Pārbaudīt atbildi. Atbilde tiks atzīmēta kā pareiza vai nepareiza.
+    solution: Parādīt risinājumu. Uzdevums tiks atzīmēts kā atrisināts.
+  answer:
+    success: Apsveicam, tā bija pareizā atbilde
+    error: Pareizā atbilde vēl nav sniegta
+    resolved: Atklātā atbilde
+
+survey:
+  submit: Iesniegt
+  submitted: Paldies par atsauksmi!
+  error: Pirms iesniegšanas jāatbild uz jautājumu.
+  errorMatrix: Pirms iesniegšanas jāatbild uz katru rindu.
+  text: Ievadi tekstu...
+  update: Atjaunināt
+
+sort:
+  asc: kārtot augošā secībā
+  desc: kārtot dilstošā secībā
+  not: nav sakārtots
+
+chart:
+  pie: Sektoru diagramma
+  bar: Stabiņu diagramma
+  line: Līniju diagramma
+  scatter: Izkliedes diagramma
+  radar: Radara diagramma
+  boxplot: Kastveida diagramma
+  heatmap: Siltuma karte
+  map: Karte
+  parallel: Paralēlo koordinātu diagramma
+  lines: Līniju grafiks
+  graph: Saistību grafs
+  sankey: Sankey diagramma
+  funnel: Piltuves diagramma
+
+qr:
+  code: Vietnes QR kods
+  err: Kļūda, veidojot QR kodu
+
+chat:
+  open: Atvērt tērzēšanu
+  close: Aizvērt tērzēšanu
+  new: Tev ir nelasīti tērzēšanas ziņojumi
+  send: Sūtīt ziņojumu

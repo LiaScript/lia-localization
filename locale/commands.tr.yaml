@@ -1,0 +1,142 @@
+# Turkish
+
+home: Ana sayfa
+
+base:
+  next: sonraki
+  prev: önceki
+  play: oynat
+  stop: durdur
+  abc: Aa
+  font: 'yazı tipi boyutu: {{size}}'
+  size1: küçük
+  size2: orta
+  size3: büyük
+  search: Ara
+  delete: aramayı temizle
+  results: sonuçlar
+  oneResult: bir sonuç
+  noResult: sonuç yok
+  toc: İçindekiler
+  show: göster
+  hide: gizle
+  editor: Düzenleyici stili
+  lang: Türkçe
+
+comment:
+  rate: Oynatma hızını ayarla
+  pitch: Ses perdesini ayarla
+  hide: Video yorumlarını gizle
+
+no_translation: henüz çeviri yok
+
+translateWithGoogle: Google ile çevir (deneysel)
+
+c:
+  color: Renk
+  schema: Renk şeması
+  dark: Koyu mod
+  bright: Açık mod
+  default: Varsayılan
+  blue: Mavi
+  red: Kırmızı
+  yellow: Sarı
+  turquoise: Turkuaz
+
+mode:
+  mode: Sunum modu
+  textbook: Ders kitabı
+  presentation: Sunum
+  slides: Slaytlar
+
+fullscreen:
+  enter: Tam ekrana geç
+  exit: Tam ekrandan çık
+
+sound:
+  'on': Sesi aç
+  'off': Sesi kapat
+
+info:
+  author: 'Yazar: '
+  authors: 'Yazarlar: '
+  date: 'Tarih: '
+  email: 'E-posta: '
+  version: 'Sürüm: '
+
+conf:
+  information: Bilgi
+  settings: Ayarlar
+  share: Paylaş
+  shareVia: '... aracılığıyla paylaş'
+  translations: Çeviriler
+  tooltip: Araç ipuçları
+  edit: Düzenleyiciyi aç
+
+tts:
+  preferBrowser: Tarayıcının metin okuma özelliğini tercih et
+  usingBrowser: Tarayıcının yerleşik metin okuma motoru kullanılıyor.
+  unsupported: Tarayıcınız metin okumayı desteklemiyor. Başka bir tarayıcı deneyin.
+
+code:
+  execute: Çalıştır
+  running: çalışıyor
+  prev: önceki sürüm
+  next: sonraki sürüm
+  first: ilk sürüm
+  last: son sürüm
+  minimize: görünümü küçült
+  maximize: görünümü büyüt
+  terminal: terminal
+  copy: panoya kopyala
+
+quiz:
+  check: Kontrol et
+  solution: çözümü göster
+  hint: ipucunu göster
+  selection: seçim
+  label:
+    check: Yanıtı kontrol et. Yanıt doğru veya yanlış olarak işaretlenecek.
+    solution: Çözümü göster. Soru çözülmüş olarak işaretlenecek.
+  answer:
+    success: Tebrikler, doğru yanıt verdiniz
+    error: Henüz doğru yanıt verilmedi
+    resolved: Açıklanan yanıt
+
+survey:
+  submit: Gönder
+  submitted: Geri bildiriminiz için teşekkürler!
+  error: Göndermeden önce soru yanıtlanmalıdır.
+  errorMatrix: Göndermeden önce her satır yanıtlanmalıdır.
+  text: Bir metin girin...
+  update: Güncelle
+
+sort:
+  asc: artan sırada sırala
+  desc: azalan sırada sırala
+  not: sıralanmamış
+
+chart:
+  pie: Pasta grafiği
+  bar: Çubuk grafiği
+  line: Çizgi grafiği
+  scatter: Dağılım grafiği
+  radar: Radar grafiği
+  boxplot: Kutu grafiği
+  heatmap: Isı haritası
+  map: Harita
+  parallel: Paralel koordinat grafiği
+  lines: Çizgi grafiği
+  graph: İlişki grafiği
+  sankey: Sankey diyagramı
+  funnel: Huni grafiği
+
+qr:
+  code: Web sitesi için QR kodu
+  err: QR kodu oluşturulurken hata oluştu
+
+chat:
+  open: Sohbeti aç
+  close: Sohbeti kapat
+  new: Okunmamış sohbet mesajlarınız var
+  send: Mesaj gönder

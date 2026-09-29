@@ -106,8 +106,11 @@ quiz:
 
 survey:
   submit: Abschicken
-  submitted: Dankeschön
+  submitted: Vielen Dank für dein Feedback!
+  error: Die Frage muss vor dem Absenden beantwortet werden.
+  errorMatrix: Vor dem Absenden muss jede Zeile beantwortet werden.
   text: Texteingabe ...
+  update: Aktualisieren
 
 sort:
   asc: aufsteigend sortieren

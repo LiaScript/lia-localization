@@ -106,8 +106,11 @@ quiz:
 
 survey:
   submit: አመድ
-  submitted: እናመሰግናለን
+  submitted: ለአስተያየትዎ እናመሰግናለን!
+  error: ከመላኩ በፊት ጥያቄው መመለስ አለበት።
+  errorMatrix: ከመላኩ በፊት እያንዳንዱ ረድፍ መመለስ አለበት።
   text: ግል ጽሑፍ ያስገቡ...
+  update: አዘምን
 
 sort:
   asc: ቅደም አስቀድሞ

@@ -1,0 +1,142 @@
+# Slovak
+
+home: Domov
+
+base:
+  next: ďalší
+  prev: predchádzajúci
+  play: prehrať
+  stop: zastaviť
+  abc: Aa
+  font: 'veľkosť písma: {{size}}'
+  size1: malá
+  size2: stredná
+  size3: veľká
+  search: Hľadať
+  delete: vymazať vyhľadávanie
+  results: výsledky
+  oneResult: jeden výsledok
+  noResult: žiadne výsledky
+  toc: Obsah
+  show: zobraziť
+  hide: skryť
+  editor: Štýl editora
+  lang: Slovenčina
+
+comment:
+  rate: Upraviť rýchlosť prehrávania
+  pitch: Upraviť výšku hlasu
+  hide: Skryť videokomentáre
+
+no_translation: preklad zatiaľ nie je k dispozícii
+
+translateWithGoogle: Preložiť pomocou Googlu (experimentálne)
+
+c:
+  color: Farba
+  schema: Farebná schéma
+  dark: Tmavý režim
+  bright: Svetlý režim
+  default: Predvolené
+  blue: Modrá
+  red: Červená
+  yellow: Žltá
+  turquoise: Tyrkysová
+
+mode:
+  mode: Režim prezentácie
+  textbook: Učebnica
+  presentation: Prezentácia
+  slides: Snímky
+
+fullscreen:
+  enter: Prejsť na celú obrazovku
+  exit: Ukončiť režim celej obrazovky
+
+sound:
+  'on': Zapnúť zvuk
+  'off': Vypnúť zvuk
+
+info:
+  author: 'Autor: '
+  authors: 'Autori: '
+  date: 'Dátum: '
+  email: 'E-mail: '
+  version: 'Verzia: '
+
+conf:
+  information: Informácie
+  settings: Nastavenia
+  share: Zdieľať
+  shareVia: zdieľať cez ...
+  translations: Preklady
+  tooltip: Popisy nástrojov
+  edit: Otvoriť editor
+
+tts:
+  preferBrowser: Uprednostniť syntézu reči prehliadača
+  usingBrowser: Používa sa vstavaná syntéza reči prehliadača.
+  unsupported: Tvoj prehliadač nepodporuje syntézu reči. Skús iný.
+
+code:
+  execute: Spustiť
+  running: beží
+  prev: predchádzajúca verzia
+  next: ďalšia verzia
+  first: prvá verzia
+  last: posledná verzia
+  minimize: minimalizovať zobrazenie
+  maximize: maximalizovať zobrazenie
+  terminal: terminál
+  copy: kopírovať do schránky
+
+quiz:
+  check: Skontrolovať
+  solution: zobraziť riešenie
+  hint: zobraziť nápovedu
+  selection: výber
+  label:
+    check: Skontrolovať odpoveď. Odpoveď bude označená ako správna alebo nesprávna.
+    solution: Zobraziť riešenie. Úloha bude označená ako vyriešená.
+  answer:
+    success: Gratulujeme, to bola správna odpoveď
+    error: Správna odpoveď ešte nebola zadaná
+    resolved: Odhalená odpoveď
+
+survey:
+  submit: Odoslať
+  submitted: Ďakujeme za spätnú väzbu!
+  error: Pred odoslaním je potrebné odpovedať na otázku.
+  errorMatrix: Pred odoslaním je potrebné odpovedať v každom riadku.
+  text: Zadaj text...
+  update: Aktualizovať
+
+sort:
+  asc: zoradiť vzostupne
+  desc: zoradiť zostupne
+  not: nezoradené
+
+chart:
+  pie: Koláčový graf
+  bar: Stĺpcový graf
+  line: Čiarový graf
+  scatter: Bodový graf
+  radar: Radarový graf
+  boxplot: Krabicový graf
+  heatmap: Teplotná mapa
+  map: Mapa
+  parallel: Graf paralelných súradníc
+  lines: Čiarový graf
+  graph: Graf vzťahov
+  sankey: Sankeyho diagram
+  funnel: Lievikový graf
+
+qr:
+  code: QR kód webovej stránky
+  err: Chyba pri vytváraní QR kódu
+
+chat:
+  open: Otvoriť čet
+  close: Zavrieť čet
+  new: Máš neprečítané správy v čete
+  send: Odoslať správu

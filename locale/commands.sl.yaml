@@ -1,0 +1,142 @@
+# Slovenian
+
+home: Domov
+
+base:
+  next: naslednje
+  prev: prejšnje
+  play: predvajaj
+  stop: ustavi
+  abc: Aa
+  font: 'velikost pisave: {{size}}'
+  size1: majhna
+  size2: srednja
+  size3: velika
+  search: Išči
+  delete: počisti iskanje
+  results: rezultati
+  oneResult: en rezultat
+  noResult: ni rezultatov
+  toc: Kazalo vsebine
+  show: pokaži
+  hide: skrij
+  editor: Slog urejevalnika
+  lang: Slovenščina
+
+comment:
+  rate: Prilagodi hitrost predvajanja
+  pitch: Prilagodi višino glasu
+  hide: Skrij video komentarje
+
+no_translation: prevod še ni na voljo
+
+translateWithGoogle: Prevedi z Googlom (poskusno)
+
+c:
+  color: Barva
+  schema: Barvna shema
+  dark: Temni način
+  bright: Svetli način
+  default: Privzeto
+  blue: Modra
+  red: Rdeča
+  yellow: Rumena
+  turquoise: Turkizna
+
+mode:
+  mode: Način predstavitve
+  textbook: Učbenik
+  presentation: Predstavitev
+  slides: Prosojnice
+
+fullscreen:
+  enter: Vklopi celozaslonski način
+  exit: Izklopi celozaslonski način
+
+sound:
+  'on': Vklopi zvok
+  'off': Izklopi zvok
+
+info:
+  author: 'Avtor: '
+  authors: 'Avtorji: '
+  date: 'Datum: '
+  email: 'E-pošta: '
+  version: 'Različica: '
+
+conf:
+  information: Informacije
+  settings: Nastavitve
+  share: Deli
+  shareVia: deli prek ...
+  translations: Prevodi
+  tooltip: Namigi za orodja
+  edit: Odpri urejevalnik
+
+tts:
+  preferBrowser: Prednostno uporabi sintezo govora v brskalniku
+  usingBrowser: Uporablja se vgrajena sinteza govora v brskalniku.
+  unsupported: Tvoj brskalnik ne podpira sinteze govora. Poskusi drugega.
+
+code:
+  execute: Zaženi
+  running: se izvaja
+  prev: prejšnja različica
+  next: naslednja različica
+  first: prva različica
+  last: zadnja različica
+  minimize: pomanjšaj pogled
+  maximize: povečaj pogled
+  terminal: terminal
+  copy: kopiraj v odložišče
+
+quiz:
+  check: Preveri
+  solution: pokaži rešitev
+  hint: pokaži namig
+  selection: izbira
+  label:
+    check: Preveri odgovor. Odgovor bo označen kot pravilen ali napačen.
+    solution: Pokaži rešitev. Naloga bo označena kot rešena.
+  answer:
+    success: Čestitamo, to je bil pravilen odgovor
+    error: Pravilen odgovor še ni bil podan
+    resolved: Razkrit odgovor
+
+survey:
+  submit: Pošlji
+  submitted: Hvala za povratne informacije!
+  error: Pred pošiljanjem je treba odgovoriti na vprašanje.
+  errorMatrix: Pred pošiljanjem je treba odgovoriti v vsaki vrstici.
+  text: Vnesi besedilo...
+  update: Posodobi
+
+sort:
+  asc: razvrsti naraščajoče
+  desc: razvrsti padajoče
+  not: nerazvrščeno
+
+chart:
+  pie: Tortni grafikon
+  bar: Stolpčni grafikon
+  line: Črtni grafikon
+  scatter: Raztreseni grafikon
+  radar: Radarski grafikon
+  boxplot: Škatla z brki
+  heatmap: Toplotni zemljevid
+  map: Zemljevid
+  parallel: Grafikon vzporednih koordinat
+  lines: Črtni graf
+  graph: Graf povezav
+  sankey: Sankeyjev diagram
+  funnel: Lijakasti grafikon
+
+qr:
+  code: Koda QR za spletno mesto
+  err: Napaka pri ustvarjanju kode QR
+
+chat:
+  open: Odpri klepet
+  close: Zapri klepet
+  new: Imaš neprebrana sporočila v klepetu
+  send: Pošlji sporočilo

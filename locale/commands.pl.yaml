@@ -1,0 +1,142 @@
+# Polish
+
+home: Strona główna
+
+base:
+  next: dalej
+  prev: wstecz
+  play: odtwórz
+  stop: zatrzymaj
+  abc: Aa
+  font: 'rozmiar czcionki: {{size}}'
+  size1: mały
+  size2: średni
+  size3: duży
+  search: Szukaj
+  delete: wyczyść wyszukiwanie
+  results: wyniki
+  oneResult: jeden wynik
+  noResult: brak wyników
+  toc: Spis treści
+  show: pokaż
+  hide: ukryj
+  editor: Styl edytora
+  lang: Polski
+
+comment:
+  rate: Dostosuj prędkość odtwarzania
+  pitch: Dostosuj wysokość głosu
+  hide: Ukryj komentarze wideo
+
+no_translation: brak tłumaczenia
+
+translateWithGoogle: Przetłumacz za pomocą Google (eksperymentalne)
+
+c:
+  color: Kolor
+  schema: Schemat kolorów
+  dark: Tryb ciemny
+  bright: Tryb jasny
+  default: Domyślny
+  blue: Niebieski
+  red: Czerwony
+  yellow: Żółty
+  turquoise: Turkusowy
+
+mode:
+  mode: Tryb prezentacji
+  textbook: Podręcznik
+  presentation: Prezentacja
+  slides: Slajdy
+
+fullscreen:
+  enter: Włącz pełny ekran
+  exit: Wyłącz pełny ekran
+
+sound:
+  'on': Włącz dźwięk
+  'off': Wyłącz dźwięk
+
+info:
+  author: 'Autor: '
+  authors: 'Autorzy: '
+  date: 'Data: '
+  email: 'E-mail: '
+  version: 'Wersja: '
+
+conf:
+  information: Informacje
+  settings: Ustawienia
+  share: Udostępnij
+  shareVia: udostępnij przez ...
+  translations: Tłumaczenia
+  tooltip: Podpowiedzi
+  edit: Otwórz edytor
+
+tts:
+  preferBrowser: Preferuj syntezę mowy przeglądarki
+  usingBrowser: Używana jest wbudowana synteza mowy przeglądarki.
+  unsupported: Twoja przeglądarka nie obsługuje syntezy mowy. Wypróbuj inną.
+
+code:
+  execute: Uruchom
+  running: działa
+  prev: poprzednia wersja
+  next: następna wersja
+  first: pierwsza wersja
+  last: ostatnia wersja
+  minimize: minimalizuj widok
+  maximize: maksymalizuj widok
+  terminal: terminal
+  copy: kopiuj do schowka
+
+quiz:
+  check: Sprawdź
+  solution: pokaż rozwiązanie
+  hint: pokaż wskazówkę
+  selection: wybór
+  label:
+    check: Sprawdź odpowiedź. Odpowiedź zostanie oznaczona jako poprawna lub niepoprawna.
+    solution: Pokaż rozwiązanie. Zadanie zostanie oznaczone jako rozwiązane.
+  answer:
+    success: Gratulacje, to była poprawna odpowiedź
+    error: Nie podano jeszcze poprawnej odpowiedzi
+    resolved: Ujawniona odpowiedź
+
+survey:
+  submit: Wyślij
+  submitted: Dziękujemy za opinię!
+  error: Przed wysłaniem należy odpowiedzieć na pytanie.
+  errorMatrix: Przed wysłaniem należy udzielić odpowiedzi w każdym wierszu.
+  text: Wpisz tekst...
+  update: Aktualizuj
+
+sort:
+  asc: sortuj rosnąco
+  desc: sortuj malejąco
+  not: nieposortowane
+
+chart:
+  pie: Wykres kołowy
+  bar: Wykres słupkowy
+  line: Wykres liniowy
+  scatter: Wykres punktowy
+  radar: Wykres radarowy
+  boxplot: Wykres pudełkowy
+  heatmap: Mapa cieplna
+  map: Mapa
+  parallel: Wykres współrzędnych równoległych
+  lines: Wykres liniowy
+  graph: Graf relacji
+  sankey: Diagram Sankeya
+  funnel: Wykres lejkowy
+
+qr:
+  code: Kod QR strony internetowej
+  err: Błąd podczas tworzenia kodu QR
+
+chat:
+  open: Otwórz czat
+  close: Zamknij czat
+  new: Masz nieprzeczytane wiadomości na czacie
+  send: Wyślij wiadomość

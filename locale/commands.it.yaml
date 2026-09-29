@@ -105,8 +105,11 @@ quiz:
 
 survey:
   submit: Invia
-  submitted: Inviato
+  submitted: Grazie per il tuo feedback!
+  error: È necessario rispondere alla domanda prima dell'invio.
+  errorMatrix: È necessario rispondere a ogni riga prima dell'invio.
   text: Immetti del testo
+  update: Aggiorna
 
 sort:
   asc: ordine crescente

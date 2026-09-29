@@ -1,0 +1,142 @@
+# Catalan
+
+home: Inici
+
+base:
+  next: següent
+  prev: anterior
+  play: reprodueix
+  stop: atura
+  abc: Aa
+  font: 'mida de la lletra: {{size}}'
+  size1: petita
+  size2: mitjana
+  size3: gran
+  search: Cerca
+  delete: esborra la cerca
+  results: resultats
+  oneResult: un resultat
+  noResult: cap resultat
+  toc: Taula de continguts
+  show: mostra
+  hide: amaga
+  editor: Estil de l'editor
+  lang: Català
+
+comment:
+  rate: Ajusta la velocitat de reproducció
+  pitch: Ajusta el to de la veu
+  hide: Amaga els comentaris de vídeo
+
+no_translation: encara no hi ha cap traducció
+
+translateWithGoogle: Tradueix amb Google (experimental)
+
+c:
+  color: Color
+  schema: Esquema de colors
+  dark: Mode fosc
+  bright: Mode clar
+  default: Per defecte
+  blue: Blau
+  red: Vermell
+  yellow: Groc
+  turquoise: Turquesa
+
+mode:
+  mode: Mode de presentació
+  textbook: Llibre de text
+  presentation: Presentació
+  slides: Diapositives
+
+fullscreen:
+  enter: Entra a pantalla completa
+  exit: Surt de pantalla completa
+
+sound:
+  'on': Activa el so
+  'off': Desactiva el so
+
+info:
+  author: 'Autor: '
+  authors: 'Autors: '
+  date: 'Data: '
+  email: 'Correu electrònic: '
+  version: 'Versió: '
+
+conf:
+  information: Informació
+  settings: Configuració
+  share: Comparteix
+  shareVia: comparteix mitjançant ...
+  translations: Traduccions
+  tooltip: Indicadors de funció
+  edit: Obre l'editor
+
+tts:
+  preferBrowser: Prefereix la síntesi de veu del navegador
+  usingBrowser: S'utilitza el motor de síntesi de veu integrat del navegador.
+  unsupported: El teu navegador no admet la síntesi de veu. Prova'n un altre.
+
+code:
+  execute: Executa
+  running: s'està executant
+  prev: versió anterior
+  next: versió següent
+  first: primera versió
+  last: última versió
+  minimize: minimitza la vista
+  maximize: maximitza la vista
+  terminal: terminal
+  copy: copia al porta-retalls
+
+quiz:
+  check: Comprova
+  solution: mostra la solució
+  hint: mostra una pista
+  selection: selecció
+  label:
+    check: Comprova la resposta. La resposta es marcarà com a correcta o incorrecta.
+    solution: Mostra la solució. L'exercici es marcarà com a resolt.
+  answer:
+    success: Enhorabona, aquesta era la resposta correcta
+    error: Encara no s'ha donat la resposta correcta
+    resolved: Resposta revelada
+
+survey:
+  submit: Envia
+  submitted: Gràcies pels teus comentaris!
+  error: Cal respondre la pregunta abans de l'enviament.
+  errorMatrix: Cal respondre totes les files abans de l'enviament.
+  text: Introdueix un text...
+  update: Actualitza
+
+sort:
+  asc: ordena de manera ascendent
+  desc: ordena de manera descendent
+  not: sense ordenar
+
+chart:
+  pie: Gràfic de sectors
+  bar: Gràfic de barres
+  line: Gràfic de línies
+  scatter: Diagrama de dispersió
+  radar: Gràfic de radar
+  boxplot: Diagrama de caixa
+  heatmap: Mapa de calor
+  map: Mapa
+  parallel: Gràfic de coordenades paral·leles
+  lines: Gràfic lineal
+  graph: Graf de relacions
+  sankey: Diagrama de Sankey
+  funnel: Gràfic d'embut
+
+qr:
+  code: Codi QR del lloc web
+  err: Error en generar el codi QR
+
+chat:
+  open: Obre el xat
+  close: Tanca el xat
+  new: Tens missatges de xat sense llegir
+  send: Envia un missatge

@@ -1,0 +1,142 @@
+# Finnish
+
+home: Etusivu
+
+base:
+  next: seuraava
+  prev: edellinen
+  play: toista
+  stop: pysäytä
+  abc: Aa
+  font: 'fonttikoko: {{size}}'
+  size1: pieni
+  size2: keskikokoinen
+  size3: suuri
+  search: Hae
+  delete: tyhjennä haku
+  results: tulokset
+  oneResult: yksi tulos
+  noResult: ei tuloksia
+  toc: Sisällysluettelo
+  show: näytä
+  hide: piilota
+  editor: Editorin tyyli
+  lang: Suomi
+
+comment:
+  rate: Säädä toistonopeutta
+  pitch: Säädä äänenkorkeutta
+  hide: Piilota videokommentit
+
+no_translation: käännöstä ei vielä ole
+
+translateWithGoogle: Käännä Googlella (kokeellinen)
+
+c:
+  color: Väri
+  schema: Värimalli
+  dark: Tumma tila
+  bright: Vaalea tila
+  default: Oletus
+  blue: Sininen
+  red: Punainen
+  yellow: Keltainen
+  turquoise: Turkoosi
+
+mode:
+  mode: Esitystila
+  textbook: Oppikirja
+  presentation: Esitys
+  slides: Diat
+
+fullscreen:
+  enter: Siirry koko näytön tilaan
+  exit: Poistu koko näytön tilasta
+
+sound:
+  'on': Ääni päälle
+  'off': Ääni pois
+
+info:
+  author: 'Tekijä: '
+  authors: 'Tekijät: '
+  date: 'Päivämäärä: '
+  email: 'Sähköposti: '
+  version: 'Versio: '
+
+conf:
+  information: Tiedot
+  settings: Asetukset
+  share: Jaa
+  shareVia: jaa palvelussa ...
+  translations: Käännökset
+  tooltip: Työkaluvihjeet
+  edit: Avaa editori
+
+tts:
+  preferBrowser: Suosi selaimen puhesynteesiä
+  usingBrowser: Käytetään selaimen sisäänrakennettua puhesynteesiä.
+  unsupported: Selaimesi ei tue puhesynteesiä. Kokeile toista selainta.
+
+code:
+  execute: Suorita
+  running: käynnissä
+  prev: edellinen versio
+  next: seuraava versio
+  first: ensimmäinen versio
+  last: viimeinen versio
+  minimize: pienennä näkymä
+  maximize: suurenna näkymä
+  terminal: pääte
+  copy: kopioi leikepöydälle
+
+quiz:
+  check: Tarkista
+  solution: näytä ratkaisu
+  hint: näytä vihje
+  selection: valinta
+  label:
+    check: Tarkista vastaus. Vastaus merkitään oikeaksi tai vääräksi.
+    solution: Näytä ratkaisu. Tehtävä merkitään ratkaistuksi.
+  answer:
+    success: Onnittelut, vastaus oli oikein
+    error: Oikeaa vastausta ei ole vielä annettu
+    resolved: Paljastettu vastaus
+
+survey:
+  submit: Lähetä
+  submitted: Kiitos palautteestasi!
+  error: Kysymykseen on vastattava ennen lähettämistä.
+  errorMatrix: Jokaiseen riviin on vastattava ennen lähettämistä.
+  text: Kirjoita tekstiä...
+  update: Päivitä
+
+sort:
+  asc: lajittele nousevasti
+  desc: lajittele laskevasti
+  not: ei lajiteltu
+
+chart:
+  pie: Ympyräkaavio
+  bar: Pylväskaavio
+  line: Viivakaavio
+  scatter: Hajontakaavio
+  radar: Tutkakaavio
+  boxplot: Laatikkokaavio
+  heatmap: Lämpökartta
+  map: Kartta
+  parallel: Rinnakkaiskoordinaattikaavio
+  lines: Viivakuvaaja
+  graph: Suhdeverkko
+  sankey: Sankey-kaavio
+  funnel: Suppilokaavio
+
+qr:
+  code: Verkkosivuston QR-koodi
+  err: Virhe QR-koodin luonnissa
+
+chat:
+  open: Avaa keskustelu
+  close: Sulje keskustelu
+  new: Sinulla on lukemattomia keskusteluviestejä
+  send: Lähetä viesti

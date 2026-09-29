@@ -106,8 +106,11 @@ quiz:
 
 survey:
   submit: Submit
-  submitted: Thanks
+  submitted: Thank you for your feedback!
+  error: This question must be answered before submitting.
+  errorMatrix: Every row must be answered before submitting.
   text: Enter some text...
+  update: Update
 
 sort:
   asc: sort ascending
