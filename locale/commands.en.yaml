@@ -136,6 +136,7 @@ chart:
   graph: Relationship graph
   sankey: Sankey diagram
   funnel: Funnel chart
+  wordcloud: Word cloud
 #  gauge: Guage
 #  pictorialBar: Pictorial bar
 #  themeRiver: Theme River Map

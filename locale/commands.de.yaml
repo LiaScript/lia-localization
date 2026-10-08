@@ -136,6 +136,7 @@ chart:
   graph: Beziehungsgrafik
   sankey: Sankey-Diagramm
   funnel: Trichterdiagramm
+  wordcloud: Wortwolke
 #  gauge: Meßanzeige
 #  pictorialBar: Bildlicher Balken
 #  themeRiver: Thematische Flusskarte
