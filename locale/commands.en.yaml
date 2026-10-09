@@ -88,6 +88,7 @@ code:
   maximize: maximize view
   terminal: terminal
   copy: copy to clipboard
+  reset: reset input
 
 quiz:
   check: Check
