@@ -134,6 +134,7 @@ sort:
   not: not sorted
 
 chart:
+  default: Chart
   pie: Pie chart
   bar: Bar chart
   line: Line chart

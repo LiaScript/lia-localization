@@ -134,6 +134,7 @@ sort:
   not: nicht sortiert
 
 chart:
+  default: Diagramm
   pie: Tortendiagramm
   bar: Balkendiagramm
   line: Liniendiagramm
