@@ -101,6 +101,10 @@ quiz:
   solution: zeige Lösung
   hint: Hinweis anzeigen
   selection: Auswahl
+  gap: Lücke
+  dropZone: Ablagefeld
+  empty: leer
+  dragHint: Mit Enter ein Ablagefeld wählen, dann mit Enter eine Karte darauf ablegen
 
   label:
     check: Überprüfe die Antwort. Die Antwort wird als richtig oder falsch markiert.

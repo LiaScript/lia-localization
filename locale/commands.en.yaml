@@ -101,6 +101,10 @@ quiz:
   solution: show solution
   hint: show hint
   selection: selection
+  gap: Gap
+  dropZone: Drop zone
+  empty: empty
+  dragHint: Press Enter on a drop zone to select it, then Enter on a card to place it there
 
   label:
     check: Check the answer. The response will be marked as correct or incorrect.
