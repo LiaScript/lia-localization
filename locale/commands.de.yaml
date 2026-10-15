@@ -20,6 +20,8 @@ base:
   slide: Folie
   step: Schritt
   slideNavigation: Folien-Navigation
+  footnote: Fußnote
+  footnotes: Fußnoten
   show: zeigen
   hide: verberghen
   editor: Editor-Stil

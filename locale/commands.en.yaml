@@ -21,6 +21,8 @@ base:
   slide: Slide
   step: Step
   slideNavigation: Slide navigation
+  footnote: Footnote
+  footnotes: Footnotes
   show: show
   hide: hide
   editor: Editor-Style
