@@ -70,6 +70,7 @@ conf:
   shareVia: share via ...
   translations: Translations
   tooltip: Tooltips
+  decals: Patterns in charts
   edit: Open editor
 
 tts:
