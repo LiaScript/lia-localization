@@ -17,6 +17,9 @@ base:
   oneResult: ein Ergebnis
   noResult: kein Ergebnis
   toc: Inhaltsverzeichnis
+  slide: Folie
+  step: Schritt
+  slideNavigation: Folien-Navigation
   show: zeigen
   hide: verberghen
   editor: Editor-Stil

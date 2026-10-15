@@ -18,6 +18,9 @@ base:
   oneResult: one result
   noResult: no results
   toc: Table of Contents
+  slide: Slide
+  step: Step
+  slideNavigation: Slide navigation
   show: show
   hide: hide
   editor: Editor-Style
