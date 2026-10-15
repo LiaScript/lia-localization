@@ -79,11 +79,15 @@ conf:
   edit: Open editor
 
 tts:
+  position: Playback position
+  of: of
   preferBrowser: Prefer browser TTS
   usingBrowser: Using the browser's internal Text-to-Speech engine.
   unsupported: Your browser does not support Text-to-Speech, try another one.
 
 code:
+  editor: Code editor
+  block: Code block
   execute: Execute
   running: is running
   prev: previous version
@@ -158,6 +162,8 @@ qr:
   err: Error while encoding to QR code
 
 chat:
+  message: Chat message
+  unverified: Unverified sender
   open: Open chat
   close: Close chat
   new: You have unread chat messages
