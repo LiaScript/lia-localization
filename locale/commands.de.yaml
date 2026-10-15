@@ -22,6 +22,7 @@ base:
   slideNavigation: Folien-Navigation
   footnote: Fußnote
   footnotes: Fußnoten
+  resize: Größe der Bereiche ändern
   show: zeigen
   hide: verberghen
   editor: Editor-Stil

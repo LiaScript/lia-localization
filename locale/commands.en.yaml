@@ -23,6 +23,7 @@ base:
   slideNavigation: Slide navigation
   footnote: Footnote
   footnotes: Footnotes
+  resize: Resize panes
   show: show
   hide: hide
   editor: Editor-Style
