@@ -32,7 +32,7 @@ base:
 comment:
   rate: Prilagodi brzinu reprodukcije
   pitch: Prilagodi visinu glasa
-  hide: Sakrij videokomentare
+  hide: Sakrij komentare videa i avatara
 
 no_translation: prijevod još nije dostupan
 

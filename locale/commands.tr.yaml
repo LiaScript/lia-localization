@@ -32,7 +32,7 @@ base:
 comment:
   rate: Oynatma hızını ayarla
   pitch: Ses perdesini ayarla
-  hide: Video yorumlarını gizle
+  hide: Video ve avatar yorumlarını gizle
 
 no_translation: henüz çeviri yok
 

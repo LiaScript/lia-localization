@@ -32,7 +32,7 @@ base:
 comment:
   rate: Rregullo shpejtësinë e riprodhimit
   pitch: Rregullo lartësinë e zërit
-  hide: Fshih komentet me video
+  hide: Fshih komentet me video dhe avatar
 
 no_translation: ende nuk ka përkthim
 
@@ -60,8 +60,8 @@ fullscreen:
   exit: Dil nga ekrani i plotë
 
 sound:
-  'on': Aktivizo zërin
-  'off': Çaktivizo zërin
+  'on': Zëri i aktivizuar
+  'off': Zëri i çaktivizuar
 
 info:
   author: 'Autori: '

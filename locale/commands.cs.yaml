@@ -32,7 +32,7 @@ base:
 comment:
   rate: Upravit rychlost přehrávání
   pitch: Upravit výšku hlasu
-  hide: Skrýt videokomentáře
+  hide: Skrýt komentáře videa a avatara
 
 no_translation: překlad zatím není k dispozici
 
@@ -60,8 +60,8 @@ fullscreen:
   exit: Ukončit režim celé obrazovky
 
 sound:
-  'on': Zapnout zvuk
-  'off': Vypnout zvuk
+  'on': Zvuk zapnut
+  'off': Zvuk vypnut
 
 info:
   author: 'Autor: '
@@ -140,7 +140,7 @@ chart:
   scatter: Bodový graf
   radar: Paprskový graf
   boxplot: Krabicový graf
-  heatmap: Teplotní mapa
+  heatmap: Tepelná mapa
   map: Mapa
   parallel: Graf paralelních souřadnic
   lines: Čárový graf

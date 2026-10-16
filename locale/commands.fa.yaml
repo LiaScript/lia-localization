@@ -5,8 +5,8 @@ home: خانه
 base:
   next: بعدی
   prev: قبلی
-  play: بازی کن
-  stop: بس کن
+  play: پخش
+  stop: توقف
   font: 'اندازه قلم: {{size}}'
   size1: کوچک
   size2: متوسط
@@ -30,10 +30,10 @@ base:
 
 comment:
   rate: تنظیم سرعت پخش
-  pitch: تنظیم تغییر صدا
-  hide: مخفی کردن نظرات ویدیو
+  pitch: تنظیم زیر و بمی صدا
+  hide: پنهان کردن توضیحات ویدیو و آواتار
 
-no_translation: در دست ترجمه
+no_translation: هنوز ترجمه‌ای وجود ندارد
 translateWithGoogle: ترجمه با Google (آزمایشی)
 
 c:
@@ -41,11 +41,11 @@ c:
   schema: طرح رنگی
   dark: حالت تاریک
   bright: حالت روشن
-  default: پیشفرض
+  default: پیش‌فرض
   blue: آبی
   red: قرمز
-  yellow: رنگ زرد
-  turquoise: فیروزه
+  yellow: زرد
+  turquoise: فیروزه‌ای
 
 fullscreen:
   enter: ورود به حالت تمام صفحه
@@ -53,7 +53,7 @@ fullscreen:
 
 mode:
   mode: حالت ارائه
-  textbook: کتاب
+  textbook: کتاب درسی
   presentation: ارائه
   slides: اسلایدها
 
@@ -71,7 +71,7 @@ info:
 conf:
   information: اطلاعات
   settings: تنظیمات
-  share: اشتراک
+  share: اشتراک‌گذاری
   shareVia: اشتراک گذاری از طریق ...
   translations: ترجمه ها
   tooltip: راهنمای ابزار
@@ -102,8 +102,8 @@ code:
 
 quiz:
   check: بررسی
-  solution: نمایش راهکار
-  hint: نمایش یادآوری
+  solution: نمایش راه‌حل
+  hint: نمایش راهنمایی
   selection: انتخاب
   gap: جای خالی
   dropZone: ناحیهٔ رهاسازی
@@ -111,12 +111,12 @@ quiz:
   dragHint: روی یک ناحیهٔ رهاسازی Enter را بزنید تا انتخاب شود، سپس روی یک کارت Enter را بزنید تا در آنجا قرار گیرد
 
   label:
-    check: پاسخ را بررسی کنید. پاسخ صحیح یا نادرست علامت گذاری شده است.
-    solution: راه حل را نشان دهید. مسابقه به عنوان حل شده علامت گذاری شده است.
+    check: پاسخ را بررسی کنید. پاسخ به‌عنوان درست یا نادرست علامت‌گذاری می‌شود.
+    solution: راه‌حل را نشان دهید. آزمون به‌عنوان حل‌شده علامت‌گذاری می‌شود.
 
   answer:
-    success: تبریک می گویم ، جواب صحیحی بود
-    error: بله، این ترجمه فارسی است
+    success: تبریک می‌گویم، پاسخ درست بود
+    error: پاسخ درست هنوز داده نشده است
     resolved: پاسخ حل شده
 
 survey:
@@ -158,5 +158,5 @@ chat:
   unverified: فرستندهٔ تأییدنشده
   open: باز کردن گفتگو
   close: بستن گفتگو
-  new: شما پیام‌های چت خوانده نشده دارید
+  new: پیام‌های گفتگوی خوانده‌نشده دارید
   send: ارسال پیام

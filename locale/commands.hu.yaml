@@ -32,7 +32,7 @@ base:
 comment:
   rate: Lejátszási sebesség beállítása
   pitch: Hangmagasság beállítása
-  hide: Videós megjegyzések elrejtése
+  hide: Videós és avatar-megjegyzések elrejtése
 
 no_translation: még nincs fordítás
 

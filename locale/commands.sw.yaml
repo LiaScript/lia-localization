@@ -5,17 +5,17 @@ home: Nyumbani
 base:
   next: ijayo
   prev: iliyopita
-  play: kucheza
-  stop: kuacha
+  play: cheza
+  stop: simamisha
   abc: Aa
-  font: 'saizi ya fonti: {{size}}'
+  font: 'ukubwa wa fonti: {{size}}'
   size1: ndogo
-  size2: kati
+  size2: ya kati
   size3: kubwa
   search: Tafuta
-  delete: tafuta wazi
+  delete: futa utafutaji
   results: matokeo
-  oneResult: matokeo moja
+  oneResult: tokeo moja
   noResult: hakuna matokeo
   toc: Yaliyomo
   slide: Slaidi
@@ -24,15 +24,15 @@ base:
   footnote: Tanbihi
   footnotes: Tanbihi
   resize: Badilisha ukubwa wa vidirisha
-  show: show
-  hide: kujificha
-  editor: Mtindo wa Mhariri
+  show: onyesha
+  hide: ficha
+  editor: Mtindo wa Kihariri
   lang: Kiswahili
 
 comment:
   rate: Badilisha kasi ya kucheza
-  pitch: Badilisha sauti
-  hide: Ficha maoni ya video
+  pitch: Badilisha kiwango cha sauti
+  hide: Ficha maoni ya video na avatar
 
 no_translation: hakuna tafsiri bado
 translateWithGoogle: Tafsiri na Google (majaribio)
@@ -41,12 +41,12 @@ c:
   color: Rangi
   schema: Mpango wa rangi
   dark: Hali ya Giza
-  bright: Modi-Nuru
+  bright: Hali ya Mwanga
   default: Chaguomsingi
   blue: Bluu
-  red: nyekundu
+  red: Nyekundu
   yellow: Njano
-  turquoise: Turquoise
+  turquoise: Feruzi
 
 fullscreen:
   enter: Ingia kwenye skrini kamili
@@ -54,7 +54,7 @@ fullscreen:
 
 mode:
   mode: Hali ya uwasilishaji
-  textbook: Kitabu cha maandishi
+  textbook: Kitabu cha kiada
   presentation: Uwasilishaji
   slides: Slaidi
 
@@ -82,21 +82,21 @@ conf:
 tts:
   position: Nafasi ya uchezaji
   of: kati ya
-  preferBrowser: Pendelea kivinjari TTS
-  usingBrowser: Kwa kutumia injini ya ndani ya kivinjari ya Maandishi-hadi-Hotuba.
-  unsupported: Kivinjari chako hakitumii Maandishi-hadi-Hotuba, jaribu nyingine.
+  preferBrowser: Pendelea TTS ya kivinjari
+  usingBrowser: Inatumia injini ya ndani ya kivinjari ya Maandishi-hadi-Hotuba.
+  unsupported: Kivinjari chako hakiauni Maandishi-hadi-Hotuba, jaribu kingine.
 
 code:
   editor: Kihariri cha msimbo
   block: Kipande cha msimbo
   execute: Tekeleza
-  running: inakimbia
+  running: inaendeshwa
   prev: toleo la awali
   next: toleo linalofuata
   first: toleo la kwanza
   last: toleo la mwisho
   minimize: punguza mtazamo
-  maximize: kuongeza mtazamo
+  maximize: ongeza mtazamo
   terminal: terminal
   copy: nakili kwenye ubao wa kunakili
   reset: weka upya ingizo
@@ -129,16 +129,16 @@ survey:
   update: Sasisha
 
 sort:
-  asc: kupanga kupanda
-  desc: panga kushuka
+  asc: panga kwa kupanda
+  desc: panga kwa kushuka
   not: haijapangwa
 
 chart:
   default: Chati
-  pie: chati ya pai
-  bar: Chati ya paa
+  pie: Chati ya pai
+  bar: Chati ya pau
   line: Chati ya mstari
-  scatter: Kutawanya njama
+  scatter: Chati ya mtawanyiko
 #  effectScatter: Ripple njama ya kutawanya
   radar: Chati ya rada
 #  tree: mti
@@ -147,11 +147,11 @@ chart:
 #  candlestick: Kinara
 #  k: Chati ya mstari wa K
   heatmap: Ramani ya joto
-  map: ramani
-  parallel: Ramani ya kuratibu sambamba
+  map: Ramani
+  parallel: Chati ya viwianishi sambamba
   lines: Grafu ya mstari
   graph: Grafu ya uhusiano
-  sankey: mchoro wa Sankey
+  sankey: Mchoro wa Sankey
   funnel: Chati ya faneli
   wordcloud: Wingu la maneno
 #  gauge: Guage
@@ -168,5 +168,5 @@ chat:
   unverified: Mtumaji asiyethibitishwa
   open: Fungua gumzo
   close: Funga gumzo
-  new: Una ujumbe wa gumzo usio soma
+  new: Una ujumbe wa gumzo ambao haujasomwa
   send: Tuma ujumbe

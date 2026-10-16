@@ -32,7 +32,7 @@ base:
 comment:
   rate: Pielāgot atskaņošanas ātrumu
   pitch: Pielāgot balss augstumu
-  hide: Paslēpt video komentārus
+  hide: Paslēpt video un avatāra komentārus
 
 no_translation: tulkojums vēl nav pieejams
 

@@ -32,7 +32,7 @@ base:
 comment:
   rate: Prilagodi hitrost predvajanja
   pitch: Prilagodi višino glasu
-  hide: Skrij video komentarje
+  hide: Skrij komentarje videa in avatarja
 
 no_translation: prevod še ni na voljo
 
@@ -60,8 +60,8 @@ fullscreen:
   exit: Izklopi celozaslonski način
 
 sound:
-  'on': Vklopi zvok
-  'off': Izklopi zvok
+  'on': Zvok vklopljen
+  'off': Zvok izklopljen
 
 info:
   author: 'Avtor: '

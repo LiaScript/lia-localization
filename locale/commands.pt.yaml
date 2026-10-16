@@ -30,7 +30,7 @@ base:
 comment:
   rate: Ajustar velocidade de reprodução
   pitch: Ajustar tom
-  hide: Ocultar comentários do vídeo
+  hide: Ocultar comentários de vídeo e avatar
 
 no_translation: ainda não traduzido
 translateWithGoogle: Traduzir com Google (experimental)
@@ -116,7 +116,7 @@ quiz:
   answer:
     success: Parabéns, essa foi a resposta certa.
     error: A resposta correta ainda não foi dada.
-    resolved: Resposta resolvida.
+    resolved: Resposta revelada
 
 survey:
   submit: Enviar

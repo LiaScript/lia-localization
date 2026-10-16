@@ -31,7 +31,7 @@ base:
 comment:
   rate: 再生速度を変更
   pitch: 音程を変更
-  hide: 動画のコメントを非表示にする
+  hide: 動画とアバターのコメントを非表示にする
 
 no_translation: まだ翻訳されていません
 translateWithGoogle: Google翻訳で翻訳する（実験的）
@@ -48,7 +48,7 @@ c:
   turquoise: ターコイズ
 
 fullscreen:
-  enter: フルスクリーンに入る
+  enter: フルスクリーン表示
   exit: フルスクリーンを終了する
 
 mode:
@@ -116,7 +116,7 @@ quiz:
 
   answer:
     success: おめでとうございます、正解です
-    error: 正解がまだ与えられていません
+    error: まだ正解ではありません
     resolved: 解決済みの回答
 
 survey:
@@ -130,7 +130,7 @@ survey:
 sort:
   asc: 昇順に並べ替え
   desc: 降順に並べ替え
-  not: 未並べ替え
+  not: 並べ替えなし
 
 chart:
   default: グラフ

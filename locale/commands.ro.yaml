@@ -32,7 +32,7 @@ base:
 comment:
   rate: Ajustează viteza de redare
   pitch: Ajustează înălțimea vocii
-  hide: Ascunde comentariile video
+  hide: Ascunde comentariile video și de avatar
 
 no_translation: nu există încă o traducere
 

@@ -3,9 +3,9 @@
 home: Inicio
 
 base:
-  next: siguente
+  next: siguiente
   prev: anterior
-  play: jugar
+  play: reproducir
   stop: parar
   font: 'Tamaño de fuente: {{size}}'
   size1: pequeño
@@ -31,7 +31,7 @@ base:
 comment:
   rate: ajustar velocidad de reproducción
   pitch: ajustar tono
-  hide: Ocultar los comentarios del video
+  hide: Ocultar los comentarios de video y avatar
 
 no_translation: aún sin traducción
 translateWithGoogle: Traducir con Google (experimental)
@@ -41,7 +41,7 @@ c:
   schema: Esquema de colores
   dark: modo oscuro
   bright: modo claro
-  default: defecto
+  default: predeterminado
   blue: azul
   red: rojo
   yellow: amarillo
@@ -55,24 +55,24 @@ mode:
   mode: Modo presentación
   textbook: Manual
   presentation: Presentación
-  slides: Imagen
+  slides: Diapositivas
 
 sound:
   'on': Sonido encendido
   'off': Sonido apagado
 
 info:
-  author: Autor
-  authors: Autores
-  date: fecha
-  email: email
-  version: versión
+  author: 'Autor: '
+  authors: 'Autores: '
+  date: 'Fecha: '
+  email: 'Correo electrónico: '
+  version: 'Versión: '
 
 conf:
-  information: informaciones
+  information: información
   settings: configuración
   share: compartir
-  shareVia: compartir via ...
+  shareVia: compartir vía ...
   translations: traducciones
   tooltip: Descripciones emergentes
   decals: No depender solo del color
@@ -83,7 +83,7 @@ tts:
   of: de
   preferBrowser: Preferir TTS del navegador
   usingBrowser: Usando el motor interno de conversión de texto a voz del navegador.
-  unsupported: Tu navegador no es compatible con Text-to-Speech, prueba con otro.
+  unsupported: Tu navegador no es compatible con la conversión de texto a voz, prueba con otro.
 
 code:
   editor: Editor de código
@@ -95,7 +95,7 @@ code:
   first: primera versión
   last: última versión
   minimize: minimizar vista
-  maximize: maximinzar vista
+  maximize: maximizar vista
   terminal: terminal
   copy: copiar al portapapeles
   reset: restablecer entrada
@@ -103,7 +103,7 @@ code:
 quiz:
   check: verificar
   solution: mostrar solución
-  hint: mostrar indicio
+  hint: mostrar pista
   selection: selección
   gap: Hueco
   dropZone: Zona de destino
@@ -111,8 +111,8 @@ quiz:
   dragHint: Pulsa Enter en una zona de destino para seleccionarla y luego Enter en una tarjeta para colocarla allí
 
   label:
-    check: Comprueba la respuesta. La respuesta está marcada como correcta o incorrecta.
-    solution: Muestre la solución. El cuestionario se marca como resuelto.
+    check: Comprueba la respuesta. Se marcará como correcta o incorrecta.
+    solution: Muestra la solución. El cuestionario se marcará como resuelto.
 
   answer:
     success: Felicitaciones, esa fue la respuesta correcta
@@ -129,7 +129,7 @@ survey:
 
 sort:
   asc: orden ascendente
-  desc: orden descendiente
+  desc: orden descendente
   not: no ordenado
 
 chart:

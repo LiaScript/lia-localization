@@ -32,7 +32,7 @@ base:
 comment:
   rate: Dostosuj prędkość odtwarzania
   pitch: Dostosuj wysokość głosu
-  hide: Ukryj komentarze wideo
+  hide: Ukryj komentarze wideo i awatara
 
 no_translation: brak tłumaczenia
 

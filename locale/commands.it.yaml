@@ -32,7 +32,7 @@ base:
 comment:
   rate: Regola la velocità di riproduzione
   pitch: Regola l'altezza del tono
-  hide: Nascondi i commenti video
+  hide: Nascondi i commenti video e avatar
 
 no_translation: ancora non tradotto
 translateWithGoogle: Tradurre con Google (sperimentale)
@@ -40,8 +40,8 @@ translateWithGoogle: Tradurre con Google (sperimentale)
 c:
   color: colore
   schema: Schema di colori
-  dark: modo scuro
-  bright: modo chiaro
+  dark: modalità scura
+  bright: modalità chiara
   default: predefinito
   blue: blu
   red: rosso
@@ -53,7 +53,7 @@ fullscreen:
   exit: Esci da schermo intero
 
 mode:
-  mode: Modo presentazione
+  mode: Modalità presentazione
   textbook: Manuale
   presentation: Presentazione
   slides: Diapositive
@@ -67,7 +67,7 @@ info:
   authors: 'Autori: '
   date: 'Data: '
   email: 'Email: '
-  version: 'Versione:  '
+  version: 'Versione: '
 
 conf:
   information: Informazioni
@@ -75,7 +75,7 @@ conf:
   share: Condividi
   shareVia: Condividi via ...
   translations: Traduzioni
-  tooltip: Suggerimento
+  tooltip: Suggerimenti
   decals: Non affidarti solo ai colori
   edit: Apri l'editor
 
@@ -83,14 +83,14 @@ tts:
   position: Posizione di riproduzione
   of: di
   preferBrowser: Preferisci la sintesi vocale del browser
-  usingBrowser: Sto utilizzando il motore interno di conversione del testo a voce del browser.
-  unsupported: Il tuo browser non è compatibile con Text-to-Speech, provane un altro.
+  usingBrowser: Viene utilizzata la sintesi vocale integrata del browser.
+  unsupported: Il tuo browser non supporta la sintesi vocale, provane un altro.
 
 code:
   editor: Editor di codice
   block: Blocco di codice
   execute: Esegui
-  running: in funzione
+  running: in esecuzione
   prev: versione precedente
   next: versione seguente
   first: prima versione
@@ -113,12 +113,12 @@ quiz:
 
   label:
     check: Controlla la risposta. La risposta è indicata come corretta o errata.
-    solution: Mostra la soluzione. Il questionario si registra come risolto.
+    solution: Mostra la soluzione. Il quiz verrà contrassegnato come risolto.
 
   answer:
     success: Congratulazioni, questa era la risposta corretta
     error: La risposta corretta non è stata ancora fornita
-    resolved: Risposta decisiva
+    resolved: Risposta rivelata
 
 survey:
   submit: Invia

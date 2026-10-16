@@ -31,7 +31,7 @@ base:
 comment:
   rate: Ajuster la vitesse de lecture
   pitch: Ajuster la hauteur du son
-  hide: Masquer les commentaires vidéo
+  hide: Masquer les commentaires vidéo et avatar
 
 no_translation: traductions non disponibles
 translateWithGoogle: Traduire avec Google (expérimental)
@@ -81,10 +81,9 @@ conf:
 tts:
   position: Position de lecture
   of: sur
-  preferBrowser: Préférer le TTS du navigateur
+  preferBrowser: Préférer la synthèse vocale du navigateur
   usingBrowser: Utilisation du moteur de synthèse vocale intégré du navigateur.
-  unsupported: Votre navigateur ne prend pas en charge le texte en discours, essayez-en
-    un autre.
+  unsupported: Votre navigateur ne prend pas en charge la synthèse vocale, essayez-en un autre.
 
 code:
   editor: Éditeur de code

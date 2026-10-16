@@ -32,7 +32,7 @@ base:
 comment:
   rate: Upraviť rýchlosť prehrávania
   pitch: Upraviť výšku hlasu
-  hide: Skryť videokomentáre
+  hide: Skryť komentáre videa a avatara
 
 no_translation: preklad zatiaľ nie je k dispozícii
 
@@ -60,8 +60,8 @@ fullscreen:
   exit: Ukončiť režim celej obrazovky
 
 sound:
-  'on': Zapnúť zvuk
-  'off': Vypnúť zvuk
+  'on': Zvuk zapnutý
+  'off': Zvuk vypnutý
 
 info:
   author: 'Autor: '

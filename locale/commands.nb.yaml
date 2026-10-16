@@ -32,7 +32,7 @@ base:
 comment:
   rate: Juster avspillingshastighet
   pitch: Juster tonehøyde
-  hide: Skjul videokommentarer
+  hide: Skjul video- og avatarkommentarer
 
 no_translation: ingen oversettelse ennå
 

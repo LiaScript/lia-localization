@@ -32,7 +32,7 @@ base:
 comment:
   rate: Ajusta la velocitat de reproducció
   pitch: Ajusta el to de la veu
-  hide: Amaga els comentaris de vídeo
+  hide: Amaga els comentaris de vídeo i d'avatar
 
 no_translation: encara no hi ha cap traducció
 
@@ -60,8 +60,8 @@ fullscreen:
   exit: Surt de pantalla completa
 
 sound:
-  'on': Activa el so
-  'off': Desactiva el so
+  'on': So activat
+  'off': So desactivat
 
 info:
   author: 'Autor: '

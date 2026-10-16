@@ -11,8 +11,8 @@ base:
   size1: klein
   size2: medium
   size3: groot
-  search: zoek
-  delete: Duidelijke zoek
+  search: Zoeken
+  delete: Zoekopdracht wissen
   results: Resultaten
   oneResult: een resultaat
   noResult: Geen resultaten
@@ -31,9 +31,9 @@ base:
 comment:
   rate: Afspeelsnelheid aanpassen
   pitch: Toonhoogte aanpassen
-  hide: Hide video comments
+  hide: Video- en avatarcommentaar verbergen
 
-no_translation: noch geen vertaling aanwezig
+no_translation: nog geen vertaling beschikbaar
 translateWithGoogle: Vertalen met Google (experimenteel)
 
 c:
@@ -55,11 +55,11 @@ mode:
   mode: Presentatiemodus
   textbook: Studieboek
   presentation: Presentatie
-  slides: Folies
+  slides: Dia's
 
 sound:
-  'on': Luidspreker aan
-  'off': Luidspreker uit
+  'on': Geluid aan
+  'off': Geluid uit
 
 info:
   author: 'Auteur: '
@@ -81,9 +81,9 @@ conf:
 tts:
   position: Afspeelpositie
   of: van
-  preferBrowser: Voorkeur browser TTS
-  usingBrowser: De interne tekst-naar-spraak-engine van de browser gebruiken.
-  unsupported: Uw browser ondersteunt tekst-naar-spraak niet, probeer een andere.
+  preferBrowser: Voorkeur voor browser-TTS
+  usingBrowser: De interne tekst-naar-spraak-engine van de browser wordt gebruikt.
+  unsupported: Je browser ondersteunt geen tekst-naar-spraak, probeer een andere.
 
 code:
   editor: Code-editor
@@ -101,7 +101,7 @@ code:
   reset: invoer herstellen
 
 quiz:
-  check: bekijk
+  check: Controleren
   solution: toon oplossing
   hint: toon hint
   selection: selectie
@@ -112,7 +112,7 @@ quiz:
 
   label:
     check: Controleer het antwoord. Het antwoord wordt gemarkeerd als goed of fout.
-    solution: Laat de oplossing zien. De quiz is gemarkeerd als opgelost.
+    solution: Laat de oplossing zien. De quiz wordt gemarkeerd als opgelost.
 
   answer:
     success: Gefeliciteerd, dat was het juiste antwoord
@@ -129,7 +129,7 @@ survey:
 
 sort:
   asc: oplopend sorteren
-  desc: sorteer aflopend
+  desc: aflopend sorteren
   not: niet gesorteerd
 
 chart:

@@ -32,7 +32,7 @@ base:
 comment:
   rate: Säädä toistonopeutta
   pitch: Säädä äänenkorkeutta
-  hide: Piilota videokommentit
+  hide: Piilota video- ja avatarikommentit
 
 no_translation: käännöstä ei vielä ole
 

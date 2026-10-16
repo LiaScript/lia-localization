@@ -32,7 +32,7 @@ base:
 comment:
   rate: Keisti atkūrimo greitį
   pitch: Keisti balso aukštį
-  hide: Slėpti vaizdo komentarus
+  hide: Slėpti vaizdo ir avataro komentarus
 
 no_translation: vertimo dar nėra
 
@@ -50,7 +50,7 @@ c:
   turquoise: Turkio
 
 mode:
-  mode: Pateikimo režimas
+  mode: Pristatymo režimas
   textbook: Vadovėlis
   presentation: Pristatymas
   slides: Skaidrės

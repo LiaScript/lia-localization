@@ -1,6 +1,6 @@
 # Korean
 
-home: 집
+home: 홈
 
 base:
   next: 다음
@@ -15,7 +15,7 @@ base:
   search: 찾기
   delete: 입력 내용 지우기
   results: 결과
-  oneResult: 단일 결과
+  oneResult: 결과 1개
   noResult: 결과 없음
   toc: 목차
   slide: 슬라이드
@@ -26,13 +26,13 @@ base:
   resize: 영역 크기 조절
   show: 보이기
   hide: 감추기
-  editor: 에디터 스타일
+  editor: 편집기 스타일
   lang: 한국어
 
 comment:
   rate: 재생 속도 조절
   pitch: 음높이 조절
-  hide: 비디오 댓글 숨기기
+  hide: 비디오 및 아바타 해설 숨기기
 
 no_translation: 번역되지 않음
 translateWithGoogle: Google Translate로 번역하기 (실험적 기능)
@@ -54,7 +54,7 @@ fullscreen:
 
 mode:
   mode: 프레젠테이션 모드
-  textbook: 텍스트 북
+  textbook: 교과서
   presentation: 프레젠테이션
   slides: 슬라이드
 
@@ -84,7 +84,7 @@ tts:
   of: /
   preferBrowser: 브라우저 TTS 선호
   usingBrowser: 브라우저의 내부 텍스트 음성 변환 엔진을 사용합니다.
-  unsupported: 당신의 브라우저는 Text-to-Speech를 지원하지 않습니다. 다른 것을 시도해 보세요.
+  unsupported: 이 브라우저는 텍스트 음성 변환을 지원하지 않습니다. 다른 브라우저를 사용해 보세요.
 
 code:
   editor: 코드 편집기
@@ -97,7 +97,7 @@ code:
   last: 최신 버전
   minimize: 뷰 최소화
   maximize: 뷰 최대화
-  terminal: 단말기
+  terminal: 터미널
   copy: 클립보드에 복사
   reset: 입력 초기화
 
@@ -113,12 +113,12 @@ quiz:
 
   label:
     check: 답을 확인하세요. 정답 또는 오답으로 표시됩니다.
-    solution: 솔루션을 보여주세요. 퀴즈가 해결된 것으로 표시됩니다.
+    solution: 정답을 보여 줍니다. 퀴즈가 해결된 것으로 표시됩니다.
 
   answer:
-    success: 축하합니다. 올바른 답을 선택했습니다
+    success: 축하합니다. 정답입니다
     error: 정답이 아직 제시되지 않았습니다
-    resolved: 이미 푼 퀴즈입니다
+    resolved: 정답 공개됨
 
 survey:
   submit: 제출
@@ -136,9 +136,9 @@ sort:
 chart:
   default: 차트
   pie: 파이 차트
-  bar: 바 차트
+  bar: 막대 차트
   line: 라인 차트
-  scatter: 분포도
+  scatter: 산점도
 #  effectScatter: 리플 분포도
   radar: 레이더 차트
 #  tree: 트리
@@ -147,8 +147,8 @@ chart:
 #  candlestick: 캔들스틱 차트
 #  k: K 라인 차트
   heatmap: 히트 맵
-  map: 맵
-  parallel: 평행 좌표 맵
+  map: 지도
+  parallel: 평행 좌표 그래프
   lines: 선 그래프
   graph: 관계도
   sankey: 생키 다이어그램
