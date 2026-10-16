@@ -76,7 +76,7 @@ conf:
   shareVia: share via ...
   translations: Translations
   tooltip: Tooltips
-  decals: Patterns in charts
+  decals: Do not rely on color alone
   edit: Open editor
 
 tts:
