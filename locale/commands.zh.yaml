@@ -1,130 +1,130 @@
-# Chinese
+# Chinese (Simplified)
 
-home: 首頁
+home: 首页
 
 base:
-  next: 繼續
-  prev: 返回
+  next: 下一个
+  prev: 上一个
   play: 播放
   stop: 停止
   font: 字体大小： {{size}}
   size1: 小
   size2: 中
   size3: 大
-  search: 搜尋
-  delete: 删除搜寻
+  search: 搜索
+  delete: 清除搜索
   results: 结果
   oneResult: 一个结果
   noResult: 没有结果
-  toc: 目錄
-  slide: 幻燈片
-  step: 步驟
-  slideNavigation: 幻燈片導航
-  footnote: 腳註
-  footnotes: 腳註
-  resize: 調整窗格大小
-  show: 顯示
-  hide: 隱藏
-  editor: 编辑风格
-  lang: 中文
+  toc: 目录
+  slide: 幻灯片
+  step: 步骤
+  slideNavigation: 幻灯片导航
+  footnote: 脚注
+  footnotes: 脚注
+  resize: 调整窗格大小
+  show: 显示
+  hide: 隐藏
+  editor: 编辑器样式
+  lang: 简体中文
 
 comment:
   rate: 调整播放速度
   pitch: 调整音高
-  hide: 隱藏影片評論
+  hide: 隐藏视频和虚拟形象讲解
 
-no_translation: 尚未翻譯
-translateWithGoogle: 与Google进行翻译（实验性）
+no_translation: 尚未翻译
+translateWithGoogle: 使用 Google 翻译（实验性）
 
 c:
-  color: 顏色
+  color: 颜色
   schema: 配色方案
-  dark: 暗模式
-  bright: 亮模式
-  default: 預設
-  blue: 藍色
-  red: 红色的
-  yellow: 黄色的
-  turquoise: 绿松石
+  dark: 深色模式
+  bright: 浅色模式
+  default: 默认
+  blue: 蓝色
+  red: 红色
+  yellow: 黄色
+  turquoise: 绿松石色
 
 fullscreen:
-  enter: 進入全屏模式
+  enter: 进入全屏模式
   exit: 退出全屏模式
 
 mode:
-  mode: 简报模式
-  textbook: 教科書
-  presentation: 報告
-  slides: 幻燈片
+  mode: 演示模式
+  textbook: 教科书
+  presentation: 演示
+  slides: 幻灯片
 
 sound:
-  'on': 聲音開啟
-  'off': 聲音關閉
+  'on': 声音开启
+  'off': 声音关闭
 
 info:
-  author: '作者: '
-  authors: '作者: '
-  date: '日期: '
-  email: '電郵: '
-  version: '版本: '
+  author: 作者：
+  authors: 作者：
+  date: 日期：
+  email: 电子邮件：
+  version: 版本：
 
 conf:
-  information: 關於
-  settings: 設定
+  information: 信息
+  settings: 设置
   share: 分享
-  shareVia: 通过...分享
-  translations: 翻譯
+  shareVia: 通过……分享
+  translations: 翻译
   tooltip: 工具提示
-  decals: 不僅依賴顏色
-  edit: 打開編輯器
+  decals: 不仅依靠颜色区分
+  edit: 打开编辑器
 
 tts:
   position: 播放位置
   of: /
-  preferBrowser: 首选浏览器 TTS
+  preferBrowser: 优先使用浏览器的文本转语音
   usingBrowser: 使用浏览器的内部文本转语音引擎。
   unsupported: 您的浏览器不支持文本转语音，请换一个浏览器。
 
 code:
-  editor: 代碼編輯器
-  block: 代碼塊
-  execute: 開始執行
-  running: 執行中
-  prev: 上一版
-  next: 下一版
-  first: 最初版
-  last: 最終版
-  minimize: 極小視窗
-  maximize: 極大視窗
+  editor: 代码编辑器
+  block: 代码块
+  execute: 运行
+  running: 正在运行
+  prev: 上一版本
+  next: 下一版本
+  first: 第一个版本
+  last: 最后一个版本
+  minimize: 最小化视图
+  maximize: 最大化视图
   terminal: 终端
   copy: 复制到剪贴板
-  reset: 重置輸入
+  reset: 重置输入
 
 quiz:
-  check: 選取
-  solution: 顯示解答
-  hint: 暗示
+  check: 检查
+  solution: 显示解答
+  hint: 显示提示
   selection: 选择
   gap: 填空
-  dropZone: 放置區
+  dropZone: 放置区
   empty: 空
-  dragHint: 在放置區上按 Enter 選中它，再在卡片上按 Enter 將其放到那裡
+  dragHint: 在放置区上按 Enter 键将其选中，然后在卡片上按 Enter 键将卡片放到那里
 
   label:
-    check: 检查答案。答案被标记为正确或不正确。
-    solution: 显示解决方案。测验被标记为已解决。
+    check: 检查答案。答案将被标记为正确或错误。
+    solution: 显示解答。测验将被标记为已解答。
 
   answer:
-    success: 恭喜，那是正确的答案
-    error: 正确的答案尚未给出
-    resolved: 解决的答案
+    success: 恭喜，这是正确答案
+    error: 尚未给出正确答案
+    resolved: 已显示解答
 
 survey:
-  submit: 遞交
+  submit: 提交
   submitted: 感谢您的反馈！
   error: 提交前必须回答此问题。
   errorMatrix: 提交前必须回答每一行。
-  text: 輸入文字...
+  text: 请输入文本……
   update: 更新
 
 sort:
@@ -133,7 +133,7 @@ sort:
   not: 未排序
 
 chart:
-  default: 圖表
+  default: 图表
   pie: 饼图
   bar: 柱状图
   line: 折线图
@@ -142,7 +142,7 @@ chart:
   radar: 雷达图
 #  tree: 树图
 #  treemap: 矩形树图
-  boxplot: 箱型图
+  boxplot: 箱线图
 #  candlestick: K线图
 #  k: K线图
   heatmap: 热力图
@@ -152,7 +152,7 @@ chart:
   graph: 关系图
   sankey: 桑基图
   funnel: 漏斗图
-  wordcloud: 詞雲
+  wordcloud: 词云
 #  gauge: 仪表盘图
 #  pictorialBar: 象形柱图
 #  themeRiver: 主题河流图
@@ -164,8 +164,8 @@ qr:
 
 chat:
   message: 聊天消息
-  unverified: 未驗證的發送者
+  unverified: 未验证的发送者
   open: 打开聊天
   close: 关闭聊天
-  new: 你有未读的聊天消息
+  new: 您有未读的聊天消息
   send: 发送消息
