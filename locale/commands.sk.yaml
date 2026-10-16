@@ -18,6 +18,12 @@ base:
   oneResult: jeden výsledok
   noResult: žiadne výsledky
   toc: Obsah
+  slide: Snímka
+  step: Krok
+  slideNavigation: Navigácia snímok
+  footnote: Poznámka pod čiarou
+  footnotes: Poznámky pod čiarou
+  resize: Zmeniť veľkosť panelov
   show: zobraziť
   hide: skryť
   editor: Štýl editora
@@ -71,14 +77,19 @@ conf:
   shareVia: zdieľať cez ...
   translations: Preklady
   tooltip: Popisy nástrojov
+  decals: Nespoliehať sa len na farby
   edit: Otvoriť editor
 
 tts:
+  position: Pozícia prehrávania
+  of: z
   preferBrowser: Uprednostniť syntézu reči prehliadača
   usingBrowser: Používa sa vstavaná syntéza reči prehliadača.
   unsupported: Tvoj prehliadač nepodporuje syntézu reči. Skús iný.
 
 code:
+  editor: Editor kódu
+  block: Blok kódu
   execute: Spustiť
   running: beží
   prev: predchádzajúca verzia
@@ -89,12 +100,17 @@ code:
   maximize: maximalizovať zobrazenie
   terminal: terminál
   copy: kopírovať do schránky
+  reset: obnoviť vstup
 
 quiz:
   check: Skontrolovať
   solution: zobraziť riešenie
   hint: zobraziť nápovedu
   selection: výber
+  gap: Medzera
+  dropZone: Cieľové pole
+  empty: prázdne
+  dragHint: Stlačením Enter vyber cieľové pole, potom stlačením Enter na karte ju tam vlož
   label:
     check: Skontrolovať odpoveď. Odpoveď bude označená ako správna alebo nesprávna.
     solution: Zobraziť riešenie. Úloha bude označená ako vyriešená.
@@ -117,6 +133,7 @@ sort:
   not: nezoradené
 
 chart:
+  default: Graf
   pie: Koláčový graf
   bar: Stĺpcový graf
   line: Čiarový graf
@@ -130,12 +147,15 @@ chart:
   graph: Graf vzťahov
   sankey: Sankeyho diagram
   funnel: Lievikový graf
+  wordcloud: Oblak slov
 
 qr:
   code: QR kód webovej stránky
   err: Chyba pri vytváraní QR kódu
 
 chat:
+  message: Správa v čete
+  unverified: Neoverený odosielateľ
   open: Otvoriť čet
   close: Zavrieť čet
   new: Máš neprečítané správy v čete

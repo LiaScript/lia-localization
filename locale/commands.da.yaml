@@ -18,6 +18,12 @@ base:
   oneResult: ét resultat
   noResult: ingen resultater
   toc: Indholdsfortegnelse
+  slide: Dias
+  step: Trin
+  slideNavigation: Diasnavigation
+  footnote: Fodnote
+  footnotes: Fodnoter
+  resize: Tilpas panelernes størrelse
   show: vis
   hide: skjul
   editor: Editorstil
@@ -71,14 +77,19 @@ conf:
   shareVia: del via ...
   translations: Oversættelser
   tooltip: Værktøjstip
+  decals: Brug ikke kun farver
   edit: Åbn editoren
 
 tts:
+  position: Afspilningsposition
+  of: af
   preferBrowser: Foretræk browserens talesyntese
   usingBrowser: Browserens indbyggede talesyntese bruges.
   unsupported: Din browser understøtter ikke talesyntese. Prøv en anden.
 
 code:
+  editor: Kodeeditor
+  block: Kodeblok
   execute: Kør
   running: kører
   prev: forrige version
@@ -89,12 +100,17 @@ code:
   maximize: maksimer visning
   terminal: terminal
   copy: kopiér til udklipsholder
+  reset: nulstil input
 
 quiz:
   check: Kontrollér
   solution: vis løsning
   hint: vis tip
   selection: valg
+  gap: Hul
+  dropZone: Slipfelt
+  empty: tomt
+  dragHint: Tryk Enter på et slipfelt for at vælge det, og derefter Enter på et kort for at placere det der
   label:
     check: Kontrollér svaret. Svaret markeres som rigtigt eller forkert.
     solution: Vis løsningen. Opgaven markeres som løst.
@@ -117,6 +133,7 @@ sort:
   not: ikke sorteret
 
 chart:
+  default: Diagram
   pie: Cirkeldiagram
   bar: Søjlediagram
   line: Linjediagram
@@ -130,12 +147,15 @@ chart:
   graph: Relationsgraf
   sankey: Sankey-diagram
   funnel: Tragtdiagram
+  wordcloud: Ordsky
 
 qr:
   code: QR-kode til webstedet
   err: Fejl ved oprettelse af QR-kode
 
 chat:
+  message: Chatbesked
+  unverified: Ubekræftet afsender
   open: Åbn chatten
   close: Luk chatten
   new: Du har ulæste chatbeskeder

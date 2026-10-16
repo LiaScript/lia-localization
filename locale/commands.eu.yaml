@@ -18,6 +18,12 @@ base:
   oneResult: emaitza bat
   noResult: emaitzarik ez
   toc: Aurkibidea
+  slide: Diapositiba
+  step: Urratsa
+  slideNavigation: Diapositiben nabigazioa
+  footnote: Oin-oharra
+  footnotes: Oin-oharrak
+  resize: Aldatu panelen tamaina
   show: erakutsi
   hide: ezkutatu
   editor: Editorearen estiloa
@@ -71,14 +77,19 @@ conf:
   shareVia: partekatu ... bidez
   translations: Itzulpenak
   tooltip: Tresna-aholkuak
+  decals: Ez erabili koloreak soilik
   edit: Ireki editorea
 
 tts:
+  position: Erreprodukzio-posizioa
+  of: /
   preferBrowser: Lehenetsi nabigatzailearen hizketa-sintesia
   usingBrowser: Nabigatzailearen hizketa-sintesi integratua erabiltzen ari da.
   unsupported: Zure nabigatzaileak ez du hizketa-sintesia onartzen. Probatu beste bat.
 
 code:
+  editor: Kode-editorea
+  block: Kode-blokea
   execute: Exekutatu
   running: exekutatzen ari da
   prev: aurreko bertsioa
@@ -89,12 +100,17 @@ code:
   maximize: maximizatu ikuspegia
   terminal: terminala
   copy: kopiatu arbelean
+  reset: berrezarri sarrera
 
 quiz:
   check: Egiaztatu
   solution: erakutsi ebazpena
   hint: erakutsi pista
   selection: hautaketa
+  gap: Hutsunea
+  dropZone: Jaregite-eremua
+  empty: hutsik
+  dragHint: Sakatu Enter jaregite-eremu batean hura hautatzeko, eta gero Enter txartel batean bertan kokatzeko
   label:
     check: Egiaztatu erantzuna. Erantzuna zuzen edo oker gisa markatuko da.
     solution: Erakutsi ebazpena. Ariketa ebatzita dagoela markatuko da.
@@ -117,6 +133,7 @@ sort:
   not: ordenatu gabe
 
 chart:
+  default: Diagrama
   pie: Sektore-diagrama
   bar: Barra-diagrama
   line: Lerro-diagrama
@@ -130,12 +147,15 @@ chart:
   graph: Erlazio-grafoa
   sankey: Sankey diagrama
   funnel: Inbutu-diagrama
+  wordcloud: Hitz-hodeia
 
 qr:
   code: Webgunearen QR kodea
   err: Errorea QR kodea sortzean
 
 chat:
+  message: Txat-mezua
+  unverified: Egiaztatu gabeko igorlea
   open: Ireki txata
   close: Itxi txata
   new: Irakurri gabeko txat-mezuak dituzu

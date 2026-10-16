@@ -18,6 +18,12 @@ base:
   oneResult: jeden výsledek
   noResult: žádné výsledky
   toc: Obsah
+  slide: Snímek
+  step: Krok
+  slideNavigation: Navigace mezi snímky
+  footnote: Poznámka pod čarou
+  footnotes: Poznámky pod čarou
+  resize: Změnit velikost panelů
   show: zobrazit
   hide: skrýt
   editor: Styl editoru
@@ -71,14 +77,19 @@ conf:
   shareVia: sdílet přes ...
   translations: Překlady
   tooltip: Popisky
+  decals: Nespoléhat jen na barvy
   edit: Otevřít editor
 
 tts:
+  position: Pozice přehrávání
+  of: z
   preferBrowser: Upřednostnit syntézu řeči prohlížeče
   usingBrowser: Používá se vestavěná syntéza řeči prohlížeče.
   unsupported: Tvůj prohlížeč nepodporuje syntézu řeči. Zkus jiný.
 
 code:
+  editor: Editor kódu
+  block: Blok kódu
   execute: Spustit
   running: běží
   prev: předchozí verze
@@ -89,12 +100,17 @@ code:
   maximize: maximalizovat zobrazení
   terminal: terminál
   copy: zkopírovat do schránky
+  reset: obnovit vstup
 
 quiz:
   check: Zkontrolovat
   solution: zobrazit řešení
   hint: zobrazit nápovědu
   selection: výběr
+  gap: Mezera
+  dropZone: Cílové pole
+  empty: prázdné
+  dragHint: Klávesou Enter vyber cílové pole, pak klávesou Enter na kartě ji do něj umísti
   label:
     check: Zkontrolovat odpověď. Odpověď bude označena jako správná nebo nesprávná.
     solution: Zobrazit řešení. Úloha bude označena jako vyřešená.
@@ -117,6 +133,7 @@ sort:
   not: neseřazeno
 
 chart:
+  default: Graf
   pie: Výsečový graf
   bar: Sloupcový graf
   line: Spojnicový graf
@@ -130,12 +147,15 @@ chart:
   graph: Graf vztahů
   sankey: Sankeyův diagram
   funnel: Trychtýřový graf
+  wordcloud: Slovní mrak
 
 qr:
   code: QR kód webové stránky
   err: Chyba při vytváření QR kódu
 
 chat:
+  message: Zpráva do chatu
+  unverified: Neověřený odesílatel
   open: Otevřít chat
   close: Zavřít chat
   new: Máš nepřečtené zprávy v chatu

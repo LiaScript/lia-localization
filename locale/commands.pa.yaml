@@ -18,6 +18,12 @@ base:
   oneResult: ਇੱਕ ਨਤੀਜਾ
   noResult: ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ
   toc: ਸਮੱਗਰੀ ਦੇ ਨਾਲ-ਨਾਲ
+  slide: ਸਲਾਈਡ
+  step: ਕਦਮ
+  slideNavigation: ਸਲਾਈਡ ਨੈਵੀਗੇਸ਼ਨ
+  footnote: ਫੁਟਨੋਟ
+  footnotes: ਫੁਟਨੋਟ
+  resize: ਭਾਗਾਂ ਦਾ ਆਕਾਰ ਬਦਲੋ
   show: ਵੇਖਾਓ
   hide: ਓਹਲੇ
   editor: ਸੰਪਾਦਕ ਸਟਾਈਲ
@@ -70,14 +76,19 @@ conf:
   shareVia: ਸਾਂਝਾ ਕਰੋ ਵਿਆ ...
   translations: ਅਨੁਵਾਦ
   tooltip: ਉਪਸਮਾਨ
+  decals: ਸਿਰਫ਼ ਰੰਗਾਂ 'ਤੇ ਨਿਰਭਰ ਨਾ ਕਰੋ
   edit: ਸੰਪਾਦਕ ਖੋਲ੍ਹੋ
 
 tts:
+  position: ਪਲੇਬੈਕ ਸਥਿਤੀ
+  of: /
   preferBrowser: ਬਰਾਊਜ਼ਰ TTS ਦਾ ਪਸੰਦ ਦਿਓ
   usingBrowser: ਬਰਾਊਜ਼ਰ ਦੇ ਅੰਦਰੂਨੀ ਟੈਕਸਟ-ਟੁ-ਸਪੀਚ ਇੰਜਨ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ।
   unsupported: ਤੁਸੀਂ ਟੈਕਸਟ-ਟੁ-ਸਪੀਚ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦੇ, ਕੋਈ ਹੋਰ ਸਫ਼ਾਰੀ ਵਰਤੋ।
 
 code:
+  editor: ਕੋਡ ਸੰਪਾਦਕ
+  block: ਕੋਡ ਬਲਾਕ
   execute: ਚਲਾਓ
   running: ਚੱਲ ਰਿਹਾ ਹੈ
   prev: ਪਿਛਲਾ ਵਰਜਨ
@@ -88,12 +99,17 @@ code:
   maximize: ਵੱਧ ਕਰੋ ਝਲਕ
   terminal: ਟਰਮੀਨਲ
   copy: ਕਲਿੱਪਬੋਰਡ 'ਤੇ ਕਾਪੀ
+  reset: ਇਨਪੁਟ ਰੀਸੈੱਟ ਕਰੋ
 
 quiz:
   check: ਜਾਂਚ ਕਰੋ
   solution: ਹੱਲ ਦਿਖਾਓ
   hint: ਇੱਕ ਇੰਗਿਤ ਦਿਖਾਓ
   selection: ਚੋਣ
+  gap: ਖਾਲੀ ਥਾਂ
+  dropZone: ਰੱਖਣ ਵਾਲਾ ਖੇਤਰ
+  empty: ਖਾਲੀ
+  dragHint: ਰੱਖਣ ਵਾਲੇ ਖੇਤਰ ਨੂੰ ਚੁਣਨ ਲਈ ਉਸ 'ਤੇ Enter ਦਬਾਓ, ਫਿਰ ਕਾਰਡ ਨੂੰ ਉੱਥੇ ਰੱਖਣ ਲਈ ਕਾਰਡ 'ਤੇ Enter ਦਬਾਓ
 
   label:
     check: ਜਵਾਬ ਦੀ ਜਾਂਚ ਕਰੋ। ਜਵਾਬ ਸਹੀ ਜਾਂ ਗਲਤ ਨਿਸ਼ਾਨਾ ਲਗਾਇਆ ਜਾਵੇਗਾ।
@@ -118,6 +134,7 @@ sort:
   not: ਨਾ ਸੋਰਟ
 
 chart:
+  default: ਚਾਰਟ
   pie: ਪਾਈ ਚਾਰਟ
   bar: ਬਾਰ ਚਾਰਟ
   line: ਰੇਖਾ ਚਾਰਟ
@@ -131,12 +148,20 @@ chart:
 #  k: ਕੇ-ਲਾਈਨ ਚਾਰਟ
   heatmap: ਹੀਟਮੈਪ
   map: ਨਕਸ਼ਾ
+  parallel: ਸਮਾਂਤਰ ਕੋਆਰਡੀਨੇਟ ਚਾਰਟ
+  lines: ਰੇਖਾ ਗ੍ਰਾਫ਼
+  graph: ਸੰਬੰਧ ਗ੍ਰਾਫ਼
+  sankey: ਸੈਂਕੀ ਡਾਇਗ੍ਰਾਮ
+  funnel: ਫਨਲ ਚਾਰਟ
+  wordcloud: ਸ਼ਬਦ ਬੱਦਲ
 
 qr:
   code: ਵੈੱਬਸਾਈਟ ਲਈ ਕੁਆਰ ਕੋਡ
   err: ਕੁਆਰ ਕੋਡ ਨੂੰ ਏਨਕੋਡ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ
 
 chat:
+  message: ਚੈਟ ਸੁਨੇਹਾ
+  unverified: ਅਪ੍ਰਮਾਣਿਤ ਭੇਜਣ ਵਾਲਾ
   open: ਚੈਟ ਖੋਲ੍ਹੋ
   close: ਚੈਟ ਬੰਦ ਕਰੋ
   new: ਤੁਸੀਂ ਨਾ-ਪੜ੍ਹੇ ਚੈਟ ਸੁਨੇਹੇ ਹਨ

@@ -18,6 +18,12 @@ base:
   oneResult: ett resultat
   noResult: ingen resultater
   toc: Innholdsfortegnelse
+  slide: Lysbilde
+  step: Trinn
+  slideNavigation: Lysbildenavigasjon
+  footnote: Fotnote
+  footnotes: Fotnoter
+  resize: Endre størrelse på panelene
   show: vis
   hide: skjul
   editor: Editorstil
@@ -71,14 +77,19 @@ conf:
   shareVia: del via ...
   translations: Oversettelser
   tooltip: Verktøytips
+  decals: Ikke stol på farger alene
   edit: Åpne editoren
 
 tts:
+  position: Avspillingsposisjon
+  of: av
   preferBrowser: Foretrekk nettleserens talesyntese
   usingBrowser: Nettleserens innebygde talesyntese brukes.
   unsupported: Nettleseren din støtter ikke talesyntese. Prøv en annen.
 
 code:
+  editor: Kodeeditor
+  block: Kodeblokk
   execute: Kjør
   running: kjører
   prev: forrige versjon
@@ -89,12 +100,17 @@ code:
   maximize: maksimer visning
   terminal: terminal
   copy: kopier til utklippstavlen
+  reset: tilbakestill inndata
 
 quiz:
   check: Kontroller
   solution: vis løsning
   hint: vis hint
   selection: valg
+  gap: Luke
+  dropZone: Slippsone
+  empty: tom
+  dragHint: Trykk Enter på en slippsone for å velge den, og deretter Enter på et kort for å plassere det der
   label:
     check: Kontroller svaret. Svaret markeres som riktig eller feil.
     solution: Vis løsningen. Oppgaven markeres som løst.
@@ -117,6 +133,7 @@ sort:
   not: ikke sortert
 
 chart:
+  default: Diagram
   pie: Sektordiagram
   bar: Stolpediagram
   line: Linjediagram
@@ -130,12 +147,15 @@ chart:
   graph: Relasjonsgraf
   sankey: Sankey-diagram
   funnel: Traktdiagram
+  wordcloud: Ordsky
 
 qr:
   code: QR-kode for nettstedet
   err: Feil ved oppretting av QR-kode
 
 chat:
+  message: Chatmelding
+  unverified: Ubekreftet avsender
   open: Åpne chatten
   close: Lukk chatten
   new: Du har uleste chatmeldinger

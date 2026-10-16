@@ -18,10 +18,16 @@ base:
   oneResult: ایک نتیجہ
   noResult: کوئی نتیجہ نہیں
   toc: فہرست مشمولات
+  slide: سلائیڈ
+  step: مرحلہ
+  slideNavigation: سلائیڈ نیویگیشن
+  footnote: حاشیہ
+  footnotes: حواشی
+  resize: پینلز کا سائز تبدیل کریں
   show: دکھائیں
   hide: چھپائیں
   editor: ایڈیٹر اسٹائل
-  lang: انگریزی
+  lang: اردو
 
 comment:
   rate: پلے بیک کی رفتار ایڈجسٹ کریں
@@ -70,14 +76,19 @@ conf:
   shareVia: ذریعے شیئر کریں ...
   translations: ترجمے
   tooltip: ٹول ٹپس
+  decals: صرف رنگوں پر انحصار نہ کریں
   edit: ایڈیٹر کھولیں
 
 tts:
+  position: پلے بیک کی پوزیشن
+  of: از
   preferBrowser: براؤزر TTS کو ترجیح دیں
   usingBrowser: براؤزر کے اندرونی ٹیکسٹ ٹو اسپیچ انجن کا استعمال ہو رہا ہے۔
   unsupported: آپ کا براؤزر ٹیکسٹ ٹو اسپیچ کی حمایت نہیں کرتا، کوئی دوسرا آزمائیں۔
 
 code:
+  editor: کوڈ ایڈیٹر
+  block: کوڈ بلاک
   execute: عملدرآمد کریں
   running: چل رہا ہے
   prev: پچھلا ورژن
@@ -88,12 +99,17 @@ code:
   maximize: منظر کو زیادہ کریں
   terminal: ٹرمینل
   copy: کلپ بورڈ پر کاپی کریں
+  reset: ان پٹ ری سیٹ کریں
 
 quiz:
   check: چیک کریں
   solution: حل دکھائیں
   hint: اشارہ دکھائیں
   selection: انتخاب
+  gap: خالی جگہ
+  dropZone: ڈراپ زون
+  empty: خالی
+  dragHint: منتخب کرنے کے لیے کسی ڈراپ زون پر Enter دبائیں، پھر کسی کارڈ پر Enter دبا کر اسے وہاں رکھیں
 
   label:
     check: جواب چیک کریں۔ جواب کو درست یا غلط کے طور پر نشان زد کیا جائے گا۔
@@ -118,6 +134,7 @@ sort:
   not: ترتیب نہیں دی گئی
 
 chart:
+  default: چارٹ
   pie: پائی چارٹ
   bar: بار چارٹ
   line: لائن چارٹ
@@ -131,12 +148,15 @@ chart:
   graph: رابطہ گراف
   sankey: سنکی ڈایاگرام
   funnel: فنل چارٹ
+  wordcloud: ورڈ کلاؤڈ
 
 qr:
   code: ویب سائٹ کے لیے QR کوڈ
   err: QR کوڈ میں انکوڈ کرتے وقت خرابی
 
 chat:
+  message: چیٹ پیغام
+  unverified: غیر تصدیق شدہ بھیجنے والا
   open: چیٹ کھولیں
   close: چیٹ بند کریں
   new: آپ کے پاس ان پڑھی چیٹ پیغامات ہیں

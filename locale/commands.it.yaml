@@ -18,6 +18,12 @@ base:
   oneResult: un risultato
   noResult: non ci sono risultati
   toc: indice
+  slide: Diapositiva
+  step: Passo
+  slideNavigation: Navigazione diapositive
+  footnote: Nota
+  footnotes: Note
+  resize: Ridimensiona i riquadri
   show: mostrare
   hide: nascondere
   editor: stile editor
@@ -70,14 +76,19 @@ conf:
   shareVia: Condividi via ...
   translations: Traduzioni
   tooltip: Suggerimento
+  decals: Non affidarti solo ai colori
   edit: Apri l'editor
 
 tts:
+  position: Posizione di riproduzione
+  of: di
   preferBrowser: Preferisci la sintesi vocale del browser
   usingBrowser: Sto utilizzando il motore interno di conversione del testo a voce del browser.
   unsupported: Il tuo browser non è compatibile con Text-to-Speech, provane un altro.
 
 code:
+  editor: Editor di codice
+  block: Blocco di codice
   execute: Esegui
   running: in funzione
   prev: versione precedente
@@ -86,13 +97,19 @@ code:
   last: ultima versione
   minimize: minimizzare la vista
   maximize: massimizzare la vista
+  terminal: terminale
   copy: copia negli appunti
+  reset: ripristina l'input
 
 quiz:
   check: verifica
   solution: mostra la soluzione
   hint: mostra un indizio
   selection: seleziona
+  gap: Lacuna
+  dropZone: Area di rilascio
+  empty: vuota
+  dragHint: Premi Invio su un'area di rilascio per selezionarla, poi Invio su una scheda per posizionarla lì
 
   label:
     check: Controlla la risposta. La risposta è indicata come corretta o errata.
@@ -117,6 +134,7 @@ sort:
   not: non ordinato
 
 chart:
+  default: Grafico
   pie: Diagramma a torta
   bar: Diagramma a barre
   line: Diagramma a linee
@@ -135,6 +153,7 @@ chart:
   graph: Grafico delle relazioni
   sankey: Diagramma di Sankey
   funnel: Grafico a imbuto
+  wordcloud: Nuvola di parole
 #  gauge: Misura
 #  pictorialBar: Barra pittorica
 #  themeRiver: Mappa tematica del fiume
@@ -145,6 +164,8 @@ qr:
   err: Errore nel codificare come codice QR
 
 chat:
+  message: Messaggio della chat
+  unverified: Mittente non verificato
   open: Aprire la chat
   close: Chiudere la chat
   new: Ci sono messaggi di chat non letti

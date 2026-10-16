@@ -18,6 +18,12 @@ base:
   oneResult: jeden wynik
   noResult: brak wyników
   toc: Spis treści
+  slide: Slajd
+  step: Krok
+  slideNavigation: Nawigacja slajdów
+  footnote: Przypis
+  footnotes: Przypisy
+  resize: Zmień rozmiar paneli
   show: pokaż
   hide: ukryj
   editor: Styl edytora
@@ -71,14 +77,19 @@ conf:
   shareVia: udostępnij przez ...
   translations: Tłumaczenia
   tooltip: Podpowiedzi
+  decals: Nie polegaj tylko na kolorze
   edit: Otwórz edytor
 
 tts:
+  position: Pozycja odtwarzania
+  of: z
   preferBrowser: Preferuj syntezę mowy przeglądarki
   usingBrowser: Używana jest wbudowana synteza mowy przeglądarki.
   unsupported: Twoja przeglądarka nie obsługuje syntezy mowy. Wypróbuj inną.
 
 code:
+  editor: Edytor kodu
+  block: Blok kodu
   execute: Uruchom
   running: działa
   prev: poprzednia wersja
@@ -89,12 +100,17 @@ code:
   maximize: maksymalizuj widok
   terminal: terminal
   copy: kopiuj do schowka
+  reset: resetuj dane wejściowe
 
 quiz:
   check: Sprawdź
   solution: pokaż rozwiązanie
   hint: pokaż wskazówkę
   selection: wybór
+  gap: Luka
+  dropZone: Pole upuszczania
+  empty: puste
+  dragHint: Naciśnij Enter na polu upuszczania, aby je wybrać, a następnie Enter na karcie, aby ją tam umieścić
   label:
     check: Sprawdź odpowiedź. Odpowiedź zostanie oznaczona jako poprawna lub niepoprawna.
     solution: Pokaż rozwiązanie. Zadanie zostanie oznaczone jako rozwiązane.
@@ -117,6 +133,7 @@ sort:
   not: nieposortowane
 
 chart:
+  default: Wykres
   pie: Wykres kołowy
   bar: Wykres słupkowy
   line: Wykres liniowy
@@ -130,12 +147,15 @@ chart:
   graph: Graf relacji
   sankey: Diagram Sankeya
   funnel: Wykres lejkowy
+  wordcloud: Chmura słów
 
 qr:
   code: Kod QR strony internetowej
   err: Błąd podczas tworzenia kodu QR
 
 chat:
+  message: Wiadomość czatu
+  unverified: Niezweryfikowany nadawca
   open: Otwórz czat
   close: Zamknij czat
   new: Masz nieprzeczytane wiadomości na czacie

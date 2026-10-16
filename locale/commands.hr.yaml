@@ -18,6 +18,12 @@ base:
   oneResult: jedan rezultat
   noResult: nema rezultata
   toc: Sadržaj
+  slide: Slajd
+  step: Korak
+  slideNavigation: Navigacija slajdova
+  footnote: Fusnota
+  footnotes: Fusnote
+  resize: Promijeni veličinu okna
   show: prikaži
   hide: sakrij
   editor: Stil uređivača
@@ -71,14 +77,19 @@ conf:
   shareVia: podijeli putem ...
   translations: Prijevodi
   tooltip: Opisi alata
+  decals: Ne oslanjaj se samo na boju
   edit: Otvori uređivač
 
 tts:
+  position: Položaj reprodukcije
+  of: od
   preferBrowser: Daj prednost sintezi govora preglednika
   usingBrowser: Koristi se ugrađena sinteza govora preglednika.
   unsupported: Tvoj preglednik ne podržava sintezu govora. Isprobaj drugi.
 
 code:
+  editor: Uređivač koda
+  block: Blok koda
   execute: Pokreni
   running: izvodi se
   prev: prethodna verzija
@@ -89,12 +100,17 @@ code:
   maximize: maksimiziraj prikaz
   terminal: terminal
   copy: kopiraj u međuspremnik
+  reset: poništi unos
 
 quiz:
   check: Provjeri
   solution: prikaži rješenje
   hint: prikaži savjet
   selection: odabir
+  gap: Praznina
+  dropZone: Polje za ispuštanje
+  empty: prazno
+  dragHint: Pritisni Enter na polju za ispuštanje da ga odabereš, zatim Enter na kartici da je postaviš ondje
   label:
     check: Provjeri odgovor. Odgovor će biti označen kao točan ili netočan.
     solution: Prikaži rješenje. Zadatak će biti označen kao riješen.
@@ -117,6 +133,7 @@ sort:
   not: nije sortirano
 
 chart:
+  default: Grafikon
   pie: Tortni grafikon
   bar: Stupčasti grafikon
   line: Linijski grafikon
@@ -130,12 +147,15 @@ chart:
   graph: Graf odnosa
   sankey: Sankeyjev dijagram
   funnel: Ljevkasti grafikon
+  wordcloud: Oblak riječi
 
 qr:
   code: QR kod za web-stranicu
   err: Pogreška pri izradi QR koda
 
 chat:
+  message: Poruka u razgovoru
+  unverified: Neprovjereni pošiljatelj
   open: Otvori razgovor
   close: Zatvori razgovor
   new: Imaš nepročitane poruke u razgovoru

@@ -4,138 +4,156 @@ home: ዋና ገጽ
 
 base:
   next: ቀጣይ
-  prev: ተመለስ
-  play: ጨርሰን
-  stop: አቆጣጠር
+  prev: ቀዳሚ
+  play: አጫውት
+  stop: አቁም
   abc: አማ
-  font: 'ፎንት መጠን: {{size}}'
+  font: 'የፊደል መጠን: {{size}}'
   size1: ትንሽ
-  size2: መልካም
-  size3: በጣም ስምንት
+  size2: መካከለኛ
+  size3: ትልቅ
   search: ፈልግ
-  delete: ፈልግ ያድገት
+  delete: ፍለጋውን አጽዳ
   results: ውጤቶች
   oneResult: አንድ ውጤት
-  noResult: ምንም ውጤት የሉም
-  toc: የዋጋ ዓረብ
+  noResult: ምንም ውጤት የለም
+  toc: ማውጫ
+  slide: ስላይድ
+  step: ደረጃ
+  slideNavigation: የስላይድ ዳሰሳ
+  footnote: የግርጌ ማስታወሻ
+  footnotes: የግርጌ ማስታወሻዎች
+  resize: የክፍሎችን መጠን ቀይር
   show: አሳይ
   hide: ደብቅ
-  editor: ኤዲተር-ዘዴ
+  editor: የአርታኢ ዘይቤ
   lang: አማርኛ
 
 comment:
-  rate: የድምጽ ፍጥነት ቀይር
-  pitch: የድምጽ አንድ ቀይር
-  hide: የቪዲዮ አስተካክል ደብቅ
+  rate: የማጫወቻ ፍጥነት አስተካክል
+  pitch: የድምጽ ከፍታ አስተካክል
+  hide: የቪዲዮ እና የአቫታር አስተያየቶችን ደብቅ
 
-no_translation: በመሆን ላይ ምንም ተስተካክል የለም
-translateWithGoogle: በ Google ትርጉም (ምርጥ) ተመርጧል
+no_translation: እስካሁን ምንም ትርጉም የለም
+translateWithGoogle: በGoogle ተርጉም (የሙከራ)
 
 c:
   color: ቀለም
-  schema: ቀለም ሥነጽሑፍ
-  dark: እንቅስቃሴ
-  bright: እንደዛሬ
+  schema: የቀለም ገጽታ
+  dark: ጨለማ ሁነታ
+  bright: ብሩህ ሁነታ
   default: ነባሪ
   blue: ሰማያዊ
   red: ቀይ
   yellow: ቢጫ
-  turquoise: ዓሣደኝ
+  turquoise: ቱርኩዝ
 
 fullscreen:
-  enter: ሙሉ ማስታወሻ
-  exit: ሙሉ ማስታወሻ ያድርጉz6
+  enter: ወደ ሙሉ ማያ ገጽ ግባ
+  exit: ከሙሉ ማያ ገጽ ውጣ
 
 mode:
-  mode: ዘመን ተዘጋጅ
-  textbook: ተማሪ መስመር
-  presentation: እንቅስቃሴ
-  slides: ስላይድስ
+  mode: የአቀራረብ ሁነታ
+  textbook: መማሪያ መጽሐፍ
+  presentation: አቀራረብ
+  slides: ስላይዶች
 
 sound:
   'on': ድምጽ አብራ
-  'off': ድምጽ ያልተጫኑ
+  'off': ድምጽ አጥፋ
 
 info:
-  author: 'ሰላም ያለፈ: '
-  authors: 'ሰላም ያለፈውን: '
+  author: 'ደራሲ: '
+  authors: 'ደራሲዎች: '
   date: 'ቀን: '
   email: 'ኢሜል: '
-  version: 'ቅድሚያ: '
+  version: 'ስሪት: '
 
 conf:
   information: መረጃ
   settings: ማስተካከያዎች
-  share: አገልግሎት
-  shareVia: ከተጨማሪ ያግኙ ...
-  translations: ትርጉም
-  tooltip: የማጣሪያ ጥቅል
-  edit: ኤዲተር ክፈት
+  share: አጋራ
+  shareVia: በ... በኩል አጋራ
+  translations: ትርጉሞች
+  tooltip: የመሣሪያ ጥቆማዎች
+  decals: በቀለም ብቻ አትመካ
+  edit: አርታኢ ክፈት
 
 tts:
-  preferBrowser: የብሮውን ቴክስት-ተምረው መቀመጥ
-  usingBrowser: በብሮው ቴክስት-ተምረው መጫን ነው።
-  unsupported: የምንጠቀመው ብሮዎች ሊያውቅ አይችልም፣ በሌላ ቦታ ያሳያል።
+  position: የማጫወቻ ቦታ
+  of: ከ
+  preferBrowser: የአሳሹን ጽሑፍ-ወደ-ንግግር ተመራጭ አድርግ
+  usingBrowser: የአሳሹ ውስጣዊ ጽሑፍ-ወደ-ንግግር ሞተር ጥቅም ላይ እየዋለ ነው።
+  unsupported: አሳሽዎ ጽሑፍ-ወደ-ንግግርን አይደግፍም፤ እባክዎ ሌላ አሳሽ ይሞክሩ።
 
 code:
-  execute: ተጠቃሚ ስጥ
-  running: ተጠቃሚ ላይ ነው
-  prev: የመጀመሪያ ክፍሎች
-  next: የቀጣይ ክፍሎች
-  first: የመጀመሪያ ክፍል
-  last: የመጨረሻ ክፍል
-  minimize: ማሳወቅ ያድርጉ
-  maximize: ማግኘት ያድርጉ
-  terminal: ቴርማው
+  editor: የኮድ አርታኢ
+  block: የኮድ ብሎክ
+  execute: አሂድ
+  running: እየሄደ ነው
+  prev: ቀዳሚ ስሪት
+  next: ቀጣይ ስሪት
+  first: የመጀመሪያ ስሪት
+  last: የመጨረሻ ስሪት
+  minimize: እይታውን አሳንስ
+  maximize: እይታውን አስፋ
+  terminal: ተርሚናል
   copy: ወደ ቅንጥብ ሰሌዳ ቅዳ
+  reset: ግቤቱን ዳግም አስጀምር
 
 quiz:
-  check: መለየት
-  solution: አስገሳት አሳይ
-  hint: አስታዋሽ
-  selection: ምረጡ
+  check: አረጋግጥ
+  solution: መፍትሔ አሳይ
+  hint: ፍንጭ አሳይ
+  selection: ምርጫ
+  gap: ክፍት ቦታ
+  dropZone: ማስቀመጫ ቦታ
+  empty: ባዶ
+  dragHint: ማስቀመጫ ቦታን ለመምረጥ በላዩ ላይ Enter ይጫኑ፣ ከዚያም ካርዱን እዚያ ለማስቀመጥ በካርዱ ላይ Enter ይጫኑ
 
   label:
-    check: መረጃው ተመርጧል ወይም ቆይተው ይቀጥሉ
-    solution: የይለፍ መረጃ ይሰራል
+    check: መልሱን አረጋግጥ። መልሱ ትክክል ወይም ስህተት ተብሎ ምልክት ይደረግበታል።
+    solution: መፍትሔውን አሳይ። ጥያቄው እንደተፈታ ምልክት ይደረግበታል።
 
   answer:
-    success: እንኳን ደስ አለዎት! ይህ ማሳወቅ ተመልከቱ
-    error: የሚነካ መለያ መገለጫ በድጋሚ ነው
-    resolved: ተመርጧል
+    success: እንኳን ደስ አለዎት፣ ይህ ትክክለኛው መልስ ነው
+    error: ትክክለኛው መልስ ገና አልተሰጠም
+    resolved: የተፈታ መልስ
 
 survey:
-  submit: አመድ
+  submit: ላክ
   submitted: ለአስተያየትዎ እናመሰግናለን!
   error: ከመላኩ በፊት ጥያቄው መመለስ አለበት።
   errorMatrix: ከመላኩ በፊት እያንዳንዱ ረድፍ መመለስ አለበት።
-  text: ግል ጽሑፍ ያስገቡ...
+  text: ጽሑፍ ያስገቡ...
   update: አዘምን
 
 sort:
-  asc: ቅደም አስቀድሞ
-  desc: ታሪክ አስቀድሞ
-  not: ተመርጧል
+  asc: ሽቅብ ደርድር
+  desc: ቁልቁል ደርድር
+  not: ያልተደረደረ
 
 chart:
-  pie: ፒ ሾስትን ጫን ቦታ
-  bar: ባር ሾስትን ጫን ቦታ
-  line: ስብስብ ሾስትን ጫን ቦታ
-  scatter: መስመር ግርግር ስቀር ቦታ
+  default: ገበታ
+  pie: የፓይ ገበታ
+  bar: የአሞሌ ገበታ
+  line: የመስመር ገበታ
+  scatter: የብተና ገበታ
 #  effectScatter: መስመር ግርግር ዝርዝሩን ቦታ
-  radar: ራዳር ሾስት
+  radar: የራዳር ገበታ
 #  tree: ክፍል
 #  treemap: ትሪማፕ
-  boxplot: ቦክስ ፕሎት
+  boxplot: የሳጥን ገበታ
 #  candlestick: ካንዲል ስታክ
 #  k: K ስብስብ ሾስት
-  heatmap: ሜይፕ ሾስት
+  heatmap: የሙቀት ካርታ
   map: ካርታ
-  parallel: ፓራለል ኮይላርድን ቦታ
-  lines: ስብስቦች ሾስት
-  graph: ባህሪዎች ሾስት
-  sankey: ሳንኪ ዲዚግም
-  funnel: ፋንኤል ጫን ቦታ
+  parallel: የትይዩ መጋጠሚያዎች ገበታ
+  lines: የመስመሮች ገበታ
+  graph: የግንኙነት ገበታ
+  sankey: የሳንኪ ገበታ
+  funnel: የማንቆርቆሪያ ገበታ
+  wordcloud: የቃላት ደመና
 #  gauge: ጋይግ
 #  pictorialBar: ፒክቶሪያል ባር
 #  themeRiver: ምሁራን እቃዎች ሾስት
@@ -143,10 +161,12 @@ chart:
 
 qr:
   code: QR ኮድ ለድረ ገጽ
-  err: ስህተት ያለባቸው በ QR ኮድ ወይም ትክክል አልተመለከተም
+  err: ወደ QR ኮድ በመቀየር ላይ ስህተት ተፈጥሯል
 
 chat:
-  open: ቀዳሚ ማድረግ
-  close: ዝጋት ያድርጉ
-  new: የተከፈሉ የቀዳሚ መልዕክቶች አልተመለከተም
+  message: የውይይት መልእክት
+  unverified: ያልተረጋገጠ ላኪ
+  open: ውይይት ክፈት
+  close: ውይይት ዝጋ
+  new: ያልተነበቡ የውይይት መልእክቶች አሉዎት
   send: መልእክት ላክ

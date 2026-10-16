@@ -16,6 +16,12 @@ base:
   oneResult: um resultado
   noResult: sem resultados
   toc: Sumário
+  slide: Slide
+  step: Passo
+  slideNavigation: Navegação dos slides
+  footnote: Nota de rodapé
+  footnotes: Notas de rodapé
+  resize: Redimensionar painéis
   show: mostrar
   hide: esconder
   editor: Estilo do editor
@@ -68,14 +74,19 @@ conf:
   shareVia: compartilhar via ...
   translations: Traduções
   tooltip: Dicas de ferramentas
+  decals: Não depender apenas de cores
   edit: Abrir editor
 
 tts:
+  position: Posição de reprodução
+  of: de
   preferBrowser: Preferir TTS do navegador
   usingBrowser: Usando o motor interno de Texto-para-Fala do navegador.
   unsupported: Seu navegador não suporta Texto-para-Fala, tente outro.
 
 code:
+  editor: Editor de código
+  block: Bloco de código
   execute: Executar
   running: está sendo executado
   prev: versão anterior
@@ -86,12 +97,17 @@ code:
   maximize: maximizar visualização
   terminal: terminal
   copy: copiar para a área de transferência
+  reset: redefinir entrada
 
 quiz:
   check: Verificar
   solution: mostrar solução
   hint: mostrar dica
   selection: seleção
+  gap: Lacuna
+  dropZone: Área de soltar
+  empty: vazia
+  dragHint: Pressione Enter em uma área de soltar para selecioná-la e, em seguida, Enter em um cartão para colocá-lo nela
 
   label:
     check: Verifique a resposta. A resposta será marcada como correta ou incorreta.
@@ -116,6 +132,7 @@ sort:
   not: não ordenado
 
 chart:
+  default: Gráfico
   pie: Gráfico de pizza
   bar: Gráfico de barras
   line: Gráfico de linhas
@@ -134,6 +151,7 @@ chart:
   graph: Gráfico de relacionamento
   sankey: Diagrama de Sankey
   funnel: Gráfico de funil
+  wordcloud: Nuvem de palavras
 #  gauge: Medidor
 #  pictorialBar: Gráfico pictórico de barras
 #  themeRiver: Mapa de fluxo temático
@@ -144,6 +162,8 @@ qr:
   err: Erro durante a codificação para o código QR
 
 chat:
+  message: Mensagem de chat
+  unverified: Remetente não verificado
   open: Abrir chat
   close: Fechar chat
   new: Você tem mensagens de chat não lidas

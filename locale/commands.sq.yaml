@@ -18,6 +18,12 @@ base:
   oneResult: një rezultat
   noResult: asnjë rezultat
   toc: Pasqyra e lëndës
+  slide: Diapozitivi
+  step: Hapi
+  slideNavigation: Navigimi i diapozitivave
+  footnote: Shënim në fund të faqes
+  footnotes: Shënimet në fund të faqes
+  resize: Ndrysho madhësinë e paneleve
   show: shfaq
   hide: fshih
   editor: Stili i redaktuesit
@@ -71,14 +77,19 @@ conf:
   shareVia: ndaj nëpërmjet ...
   translations: Përkthime
   tooltip: Këshilla për mjetet
+  decals: Mos u mbështet vetëm te ngjyrat
   edit: Hap redaktuesin
 
 tts:
+  position: Pozicioni i riprodhimit
+  of: nga
   preferBrowser: Prefero sintezën e të folurit të shfletuesit
   usingBrowser: Po përdoret motori i integruar i sintezës së të folurit të shfletuesit.
   unsupported: Shfletuesi yt nuk e mbështet sintezën e të folurit. Provo një tjetër.
 
 code:
+  editor: Redaktuesi i kodit
+  block: Blloku i kodit
   execute: Ekzekuto
   running: po ekzekutohet
   prev: versioni i mëparshëm
@@ -89,12 +100,17 @@ code:
   maximize: maksimizo pamjen
   terminal: terminal
   copy: kopjo në kujtesën e përkohshme
+  reset: rivendos hyrjen
 
 quiz:
   check: Kontrollo
   solution: shfaq zgjidhjen
   hint: shfaq ndihmën
   selection: përzgjedhje
+  gap: Boshllëku
+  dropZone: Zona e lëshimit
+  empty: bosh
+  dragHint: Shtyp Enter mbi një zonë lëshimi për ta zgjedhur, pastaj Enter mbi një kartë për ta vendosur atje
   label:
     check: Kontrollo përgjigjen. Përgjigjja do të shënohet si e saktë ose e pasaktë.
     solution: Shfaq zgjidhjen. Ushtrimi do të shënohet si i zgjidhur.
@@ -117,6 +133,7 @@ sort:
   not: pa renditje
 
 chart:
+  default: Diagram
   pie: Diagram rrethor
   bar: Diagram me shtylla
   line: Diagram vijor
@@ -130,12 +147,15 @@ chart:
   graph: Graf marrëdhëniesh
   sankey: Diagram Sankey
   funnel: Diagram hinkë
+  wordcloud: Re fjalësh
 
 qr:
   code: Kodi QR për faqen e internetit
   err: Gabim gjatë krijimit të kodit QR
 
 chat:
+  message: Mesazh bisede
+  unverified: Dërgues i paverifikuar
   open: Hap bisedën
   close: Mbyll bisedën
   new: Ke mesazhe të palexuara në bisedë

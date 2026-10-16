@@ -18,6 +18,12 @@ base:
   oneResult: ett resultat
   noResult: inga resultat
   toc: Innehållsförteckning
+  slide: Bild
+  step: Steg
+  slideNavigation: Bildnavigering
+  footnote: Fotnot
+  footnotes: Fotnoter
+  resize: Ändra storlek på panelerna
   show: visa
   hide: dölj
   editor: Redigerarstil
@@ -71,14 +77,19 @@ conf:
   shareVia: dela via ...
   translations: Översättningar
   tooltip: Verktygstips
+  decals: Använd inte enbart färger
   edit: Öppna redigeraren
 
 tts:
+  position: Uppspelningsposition
+  of: av
   preferBrowser: Föredra webbläsarens talsyntes
   usingBrowser: Webbläsarens inbyggda talsyntes används.
   unsupported: Din webbläsare stöder inte talsyntes. Prova en annan.
 
 code:
+  editor: Kodredigerare
+  block: Kodblock
   execute: Kör
   running: körs
   prev: föregående version
@@ -89,12 +100,17 @@ code:
   maximize: maximera vyn
   terminal: terminal
   copy: kopiera till urklipp
+  reset: återställ inmatning
 
 quiz:
   check: Kontrollera
   solution: visa lösning
   hint: visa ledtråd
   selection: val
+  gap: Lucka
+  dropZone: Släppyta
+  empty: tom
+  dragHint: Tryck Enter på en släppyta för att välja den och sedan Enter på ett kort för att placera det där
   label:
     check: Kontrollera svaret. Svaret markeras som rätt eller fel.
     solution: Visa lösningen. Uppgiften markeras som löst.
@@ -117,6 +133,7 @@ sort:
   not: osorterat
 
 chart:
+  default: Diagram
   pie: Cirkeldiagram
   bar: Stapeldiagram
   line: Linjediagram
@@ -130,12 +147,15 @@ chart:
   graph: Relationsgraf
   sankey: Sankeydiagram
   funnel: Trattdiagram
+  wordcloud: Ordmoln
 
 qr:
   code: QR-kod för webbplatsen
   err: Fel när QR-koden skapades
 
 chat:
+  message: Chattmeddelande
+  unverified: Overifierad avsändare
   open: Öppna chatten
   close: Stäng chatten
   new: Du har olästa chattmeddelanden

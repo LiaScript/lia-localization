@@ -17,6 +17,12 @@ base:
   oneResult: un résultat
   noResult: aucun résultat
   toc: Table des matières
+  slide: Diapositive
+  step: Étape
+  slideNavigation: Navigation entre les diapositives
+  footnote: Note de bas de page
+  footnotes: Notes de bas de page
+  resize: Redimensionner les volets
   show: montrer
   hide: cacher
   editor: Style de l'éditeur
@@ -69,15 +75,20 @@ conf:
   shareVia: Partager via ...
   translations: Traductions
   tooltip: Infobulles
+  decals: Ne pas se fier uniquement aux couleurs
   edit: Ouvrir l'éditeur
 
 tts:
+  position: Position de lecture
+  of: sur
   preferBrowser: Préférer le TTS du navigateur
   usingBrowser: Utilisation du moteur de synthèse vocale intégré du navigateur.
   unsupported: Votre navigateur ne prend pas en charge le texte en discours, essayez-en
     un autre.
 
 code:
+  editor: Éditeur de code
+  block: Bloc de code
   execute: Exécuter
   running: en cours d'exécution
   prev: version précédente
@@ -88,12 +99,17 @@ code:
   maximize: Maximiser l'affichage
   terminal: Terminal
   copy: Copier dans le presse-papiers
+  reset: réinitialiser la saisie
 
 quiz:
   check: Vérifier
   solution: Afficher la solution
   hint: Afficher l'indice
   selection: Sélection
+  gap: Trou
+  dropZone: Zone de dépôt
+  empty: vide
+  dragHint: Appuyez sur Entrée sur une zone de dépôt pour la sélectionner, puis sur Entrée sur une carte pour l'y placer
   label:
     check: Vérifiez la réponse. La réponse sera marquée comme correcte ou incorrecte.
     solution: Affichez la solution. Le quiz sera marqué comme résolu.
@@ -116,6 +132,7 @@ sort:
   not: non trié
 
 chart:
+  default: Graphique
   pie: Diagramme en secteurs
   bar: Diagramme en bâtons
   line: Graphique linéaire
@@ -134,6 +151,7 @@ chart:
   graph: Graphe de relations
   sankey: Diagramme de Sankey
   funnel: Entonnoir
+  wordcloud: Nuage de mots
 #  gauge: Jauge
 #  pictorialBar: Barre picturale
 #  themeRiver: Carte à flux thématique
@@ -144,6 +162,8 @@ qr:
   err: Erreur lors de l'encodage en code QR
 
 chat:
+  message: Message de chat
+  unverified: Expéditeur non vérifié
   open: Ouvrir le chat
   close: Fermer le chat
   new: Vous avez des messages de chat non lus

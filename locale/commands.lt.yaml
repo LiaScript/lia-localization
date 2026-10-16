@@ -18,6 +18,12 @@ base:
   oneResult: vienas rezultatas
   noResult: rezultatų nėra
   toc: Turinys
+  slide: Skaidrė
+  step: Žingsnis
+  slideNavigation: Skaidrių naršymas
+  footnote: Išnaša
+  footnotes: Išnašos
+  resize: Keisti sričių dydį
   show: rodyti
   hide: slėpti
   editor: Rengyklės stilius
@@ -71,14 +77,19 @@ conf:
   shareVia: bendrinti per ...
   translations: Vertimai
   tooltip: Paaiškinimai
+  decals: Nesiremti vien spalvomis
   edit: Atverti rengyklę
 
 tts:
+  position: Atkūrimo padėtis
+  of: iš
   preferBrowser: Teikti pirmenybę naršyklės kalbos sintezei
   usingBrowser: Naudojama naršyklėje integruota kalbos sintezė.
   unsupported: Tavo naršyklė nepalaiko kalbos sintezės. Išbandyk kitą.
 
 code:
+  editor: Kodo rengyklė
+  block: Kodo blokas
   execute: Vykdyti
   running: vykdoma
   prev: ankstesnė versija
@@ -89,12 +100,17 @@ code:
   maximize: padidinti rodinį
   terminal: terminalas
   copy: kopijuoti į iškarpinę
+  reset: atkurti pradinę įvestį
 
 quiz:
   check: Tikrinti
   solution: rodyti sprendimą
   hint: rodyti užuominą
   selection: pasirinkimas
+  gap: Spraga
+  dropZone: Numetimo sritis
+  empty: tuščia
+  dragHint: Paspausk Enter ant numetimo srities, kad ją pasirinktum, tada Enter ant kortelės, kad ją ten padėtum
   label:
     check: Patikrinti atsakymą. Atsakymas bus pažymėtas kaip teisingas arba neteisingas.
     solution: Parodyti sprendimą. Užduotis bus pažymėta kaip išspręsta.
@@ -117,6 +133,7 @@ sort:
   not: nesurikiuota
 
 chart:
+  default: Diagrama
   pie: Skritulinė diagrama
   bar: Stulpelinė diagrama
   line: Linijinė diagrama
@@ -130,12 +147,15 @@ chart:
   graph: Ryšių grafas
   sankey: Sankey diagrama
   funnel: Piltuvėlio diagrama
+  wordcloud: Žodžių debesis
 
 qr:
   code: Svetainės QR kodas
   err: Klaida kuriant QR kodą
 
 chat:
+  message: Pokalbio žinutė
+  unverified: Nepatvirtintas siuntėjas
   open: Atverti pokalbį
   close: Užverti pokalbį
   new: Turi neskaitytų pokalbio žinučių

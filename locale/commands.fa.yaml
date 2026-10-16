@@ -1,5 +1,7 @@
 # Persian
 
+home: خانه
+
 base:
   next: بعدی
   prev: قبلی
@@ -15,6 +17,12 @@ base:
   oneResult: یک نتیجه
   noResult: هیچ نتیجه ای
   toc: فهرست مطالب
+  slide: اسلاید
+  step: مرحله
+  slideNavigation: پیمایش اسلایدها
+  footnote: پانویس
+  footnotes: پانویس‌ها
+  resize: تغییر اندازهٔ بخش‌ها
   show: نشان دادن
   hide: پنهان کردن
   editor: به سبک ویرایشگر
@@ -67,9 +75,19 @@ conf:
   shareVia: اشتراک گذاری از طریق ...
   translations: ترجمه ها
   tooltip: راهنمای ابزار
+  decals: عدم اتکا تنها به رنگ
   edit: باز کردن ویرایشگر
 
+tts:
+  position: موقعیت پخش
+  of: از
+  preferBrowser: ترجیح تبدیل متن به گفتار مرورگر
+  usingBrowser: استفاده از موتور داخلی تبدیل متن به گفتار مرورگر.
+  unsupported: مرورگر شما از تبدیل متن به گفتار پشتیبانی نمی‌کند، مرورگر دیگری را امتحان کنید.
+
 code:
+  editor: ویرایشگر کد
+  block: بلوک کد
   execute: اجرا
   running: در حال اجرا
   prev: نسخه قبلی
@@ -80,12 +98,17 @@ code:
   maximize: بزرگ کردن پنجره
   terminal: پایانه
   copy: کپی در کلیپ بورد
+  reset: بازنشانی ورودی
 
 quiz:
   check: بررسی
   solution: نمایش راهکار
   hint: نمایش یادآوری
   selection: انتخاب
+  gap: جای خالی
+  dropZone: ناحیهٔ رهاسازی
+  empty: خالی
+  dragHint: روی یک ناحیهٔ رهاسازی Enter را بزنید تا انتخاب شود، سپس روی یک کارت Enter را بزنید تا در آنجا قرار گیرد
 
   label:
     check: پاسخ را بررسی کنید. پاسخ صحیح یا نادرست علامت گذاری شده است.
@@ -104,11 +127,35 @@ survey:
   text: لطفا متن وارد کنید
   update: به‌روزرسانی
 
+sort:
+  asc: مرتب‌سازی صعودی
+  desc: مرتب‌سازی نزولی
+  not: مرتب‌نشده
+
+chart:
+  default: نمودار
+  pie: نمودار دایره‌ای
+  bar: نمودار میله‌ای
+  line: نمودار خطی
+  scatter: نمودار پراکندگی
+  radar: نمودار راداری
+  boxplot: نمودار جعبه‌ای
+  heatmap: نقشهٔ حرارتی
+  map: نقشه
+  parallel: نمودار مختصات موازی
+  lines: گراف خطی
+  graph: گراف روابط
+  sankey: نمودار سنکی
+  funnel: نمودار قیفی
+  wordcloud: ابر واژگان
+
 qr:
   code: کد QR برای وب سایت
   err: خطا هنگام رمزگذاری روی کد QR
 
 chat:
+  message: پیام گفتگو
+  unverified: فرستندهٔ تأییدنشده
   open: باز کردن گفتگو
   close: بستن گفتگو
   new: شما پیام‌های چت خوانده نشده دارید

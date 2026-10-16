@@ -17,6 +17,12 @@ base:
   oneResult: 1件の結果
   noResult: 結果なし
   toc: 目次
+  slide: スライド
+  step: ステップ
+  slideNavigation: スライドナビゲーション
+  footnote: 脚注
+  footnotes: 脚注一覧
+  resize: パネルのサイズを変更
   show: 表示
   hide: 非表示
   editor: エディター・スタイル
@@ -69,14 +75,19 @@ conf:
   shareVia: 共有方法...
   translations: 翻訳
   tooltip: ツールチップ
+  decals: 色だけに頼らない
   edit: エディターを開く
 
 tts:
+  position: 再生位置
+  of: /
   preferBrowser: ブラウザのTTSを優先する
   usingBrowser: ブラウザの内蔵テキスト読み上げエンジンを使用中
   unsupported: このブラウザはテキスト読み上げに対応していません。他のブラウザをお試しください。
 
 code:
+  editor: コードエディター
+  block: コードブロック
   execute: 実行
   running: 実行中
   prev: 前のバージョン
@@ -87,12 +98,17 @@ code:
   maximize: 最大化
   terminal: ターミナル
   copy: クリップボードにコピー
+  reset: 入力をリセット
 
 quiz:
   check: 確認
   solution: 解答を表示
   hint: ヒントを表示
   selection: 選択
+  gap: 空欄
+  dropZone: ドロップ領域
+  empty: 空
+  dragHint: ドロップ領域でEnterを押して選択し、次にカードでEnterを押してそこに配置します
 
   label:
     check: 答えを確認してください。回答は正解または不正解でマークされます。
@@ -117,6 +133,7 @@ sort:
   not: 未並べ替え
 
 chart:
+  default: グラフ
   pie: 円グラフ
   bar: 棒グラフ
   line: 折れ線グラフ
@@ -135,6 +152,7 @@ chart:
   graph: 関係グラフ
   sankey: サンキーダイアグラム
   funnel: ファネルチャート
+  wordcloud: ワードクラウド
 #  gauge: ゲージ
 #  pictorialBar: ピクトリアル棒グラフ
 #  themeRiver: 主題河マップ
@@ -145,6 +163,8 @@ qr:
   err: QR コードのエンコード中にエラーが発生しました
 
 chat:
+  message: チャットメッセージ
+  unverified: 未確認の送信者
   open: チャットを開く
   close: チャットを閉じる
   new: 未読のチャットメッセージがあります

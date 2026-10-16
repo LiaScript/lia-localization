@@ -18,6 +18,12 @@ base:
   oneResult: toradh amháin
   noResult: gan torthaí
   toc: Clár na nÁbhar
+  slide: Sleamhnán
+  step: Céim
+  slideNavigation: Nascleanúint sleamhnán
+  footnote: Fonóta
+  footnotes: Fonótaí
+  resize: Athraigh méid na bpainéal
   show: taispeáin
   hide: folaigh
   editor: Stíl an eagarthóra
@@ -71,14 +77,19 @@ conf:
   shareVia: comhroinn trí ...
   translations: Aistriúcháin
   tooltip: Leideanna uirlisí
+  decals: Ná bí ag brath ar dhath amháin
   edit: Oscail an t-eagarthóir
 
 tts:
+  position: Suíomh athsheinnte
+  of: as
   preferBrowser: Tabhair tús áite do shintéis cainte an bhrabhsálaí
   usingBrowser: Tá sintéis cainte ionsuite an bhrabhsálaí in úsáid.
   unsupported: Ní thacaíonn do bhrabhsálaí le sintéis cainte. Bain triail as brabhsálaí eile.
 
 code:
+  editor: Eagarthóir cóid
+  block: Bloc cóid
   execute: Rith
   running: ag rith
   prev: an leagan roimhe
@@ -89,12 +100,17 @@ code:
   maximize: uasmhéadaigh an t-amharc
   terminal: teirminéal
   copy: cóipeáil chuig an ngearrthaisce
+  reset: athshocraigh an t-ionchur
 
 quiz:
   check: Seiceáil
   solution: taispeáin an réiteach
   hint: taispeáin leid
   selection: roghnú
+  gap: Bearna
+  dropZone: Limistéar scaoilte
+  empty: folamh
+  dragHint: Brúigh Enter ar limistéar scaoilte chun é a roghnú, ansin Enter ar chárta chun é a chur ann
   label:
     check: Seiceáil an freagra. Marcálfar an freagra mar cheart nó mícheart.
     solution: Taispeáin an réiteach. Marcálfar an cleachtadh mar réitithe.
@@ -117,6 +133,7 @@ sort:
   not: gan sórtáil
 
 chart:
+  default: Cairt
   pie: Píchairt
   bar: Barrachairt
   line: Línechairt
@@ -130,12 +147,15 @@ chart:
   graph: Graf gaolmhaireachtaí
   sankey: Léaráid Sankey
   funnel: Cairt tonnadóra
+  wordcloud: Scamall focal
 
 qr:
   code: Cód QR don suíomh gréasáin
   err: Earráid agus cód QR á chruthú
 
 chat:
+  message: Teachtaireacht chomhrá
+  unverified: Seoltóir neamhfhíoraithe
   open: Oscail an comhrá
   close: Dún an comhrá
   new: Tá teachtaireachtaí comhrá neamhléite agat

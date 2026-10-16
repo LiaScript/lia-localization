@@ -18,6 +18,12 @@ base:
   oneResult: yksi tulos
   noResult: ei tuloksia
   toc: Sisällysluettelo
+  slide: Dia
+  step: Vaihe
+  slideNavigation: Dianavigointi
+  footnote: Alaviite
+  footnotes: Alaviitteet
+  resize: Muuta ruutujen kokoa
   show: näytä
   hide: piilota
   editor: Editorin tyyli
@@ -71,14 +77,19 @@ conf:
   shareVia: jaa palvelussa ...
   translations: Käännökset
   tooltip: Työkaluvihjeet
+  decals: Älä luota pelkkiin väreihin
   edit: Avaa editori
 
 tts:
+  position: Toistokohta
+  of: /
   preferBrowser: Suosi selaimen puhesynteesiä
   usingBrowser: Käytetään selaimen sisäänrakennettua puhesynteesiä.
   unsupported: Selaimesi ei tue puhesynteesiä. Kokeile toista selainta.
 
 code:
+  editor: Koodieditori
+  block: Koodilohko
   execute: Suorita
   running: käynnissä
   prev: edellinen versio
@@ -89,12 +100,17 @@ code:
   maximize: suurenna näkymä
   terminal: pääte
   copy: kopioi leikepöydälle
+  reset: palauta syöte
 
 quiz:
   check: Tarkista
   solution: näytä ratkaisu
   hint: näytä vihje
   selection: valinta
+  gap: Aukko
+  dropZone: Pudotusalue
+  empty: tyhjä
+  dragHint: Valitse pudotusalue painamalla siinä Enteriä ja paina sitten kortissa Enteriä sijoittaaksesi sen sinne
   label:
     check: Tarkista vastaus. Vastaus merkitään oikeaksi tai vääräksi.
     solution: Näytä ratkaisu. Tehtävä merkitään ratkaistuksi.
@@ -117,6 +133,7 @@ sort:
   not: ei lajiteltu
 
 chart:
+  default: Kaavio
   pie: Ympyräkaavio
   bar: Pylväskaavio
   line: Viivakaavio
@@ -130,12 +147,15 @@ chart:
   graph: Suhdeverkko
   sankey: Sankey-kaavio
   funnel: Suppilokaavio
+  wordcloud: Sanapilvi
 
 qr:
   code: Verkkosivuston QR-koodi
   err: Virhe QR-koodin luonnissa
 
 chat:
+  message: Keskusteluviesti
+  unverified: Vahvistamaton lähettäjä
   open: Avaa keskustelu
   close: Sulje keskustelu
   new: Sinulla on lukemattomia keskusteluviestejä

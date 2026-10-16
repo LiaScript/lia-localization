@@ -18,6 +18,12 @@ base:
   oneResult: un resultat
   noResult: cap resultat
   toc: Taula de continguts
+  slide: Diapositiva
+  step: Pas
+  slideNavigation: Navegació per les diapositives
+  footnote: Nota al peu
+  footnotes: Notes al peu
+  resize: Redimensiona els panells
   show: mostra
   hide: amaga
   editor: Estil de l'editor
@@ -71,14 +77,19 @@ conf:
   shareVia: comparteix mitjançant ...
   translations: Traduccions
   tooltip: Indicadors de funció
+  decals: No dependre només del color
   edit: Obre l'editor
 
 tts:
+  position: Posició de reproducció
+  of: de
   preferBrowser: Prefereix la síntesi de veu del navegador
   usingBrowser: S'utilitza el motor de síntesi de veu integrat del navegador.
   unsupported: El teu navegador no admet la síntesi de veu. Prova'n un altre.
 
 code:
+  editor: Editor de codi
+  block: Bloc de codi
   execute: Executa
   running: s'està executant
   prev: versió anterior
@@ -89,12 +100,17 @@ code:
   maximize: maximitza la vista
   terminal: terminal
   copy: copia al porta-retalls
+  reset: restableix l'entrada
 
 quiz:
   check: Comprova
   solution: mostra la solució
   hint: mostra una pista
   selection: selecció
+  gap: Buit
+  dropZone: Zona per deixar anar
+  empty: buida
+  dragHint: Prem Retorn en una zona per seleccionar-la i després Retorn en una targeta per col·locar-la-hi
   label:
     check: Comprova la resposta. La resposta es marcarà com a correcta o incorrecta.
     solution: Mostra la solució. L'exercici es marcarà com a resolt.
@@ -117,6 +133,7 @@ sort:
   not: sense ordenar
 
 chart:
+  default: Gràfic
   pie: Gràfic de sectors
   bar: Gràfic de barres
   line: Gràfic de línies
@@ -130,12 +147,15 @@ chart:
   graph: Graf de relacions
   sankey: Diagrama de Sankey
   funnel: Gràfic d'embut
+  wordcloud: Núvol de paraules
 
 qr:
   code: Codi QR del lloc web
   err: Error en generar el codi QR
 
 chat:
+  message: Missatge de xat
+  unverified: Remitent no verificat
   open: Obre el xat
   close: Tanca el xat
   new: Tens missatges de xat sense llegir

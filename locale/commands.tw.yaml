@@ -1,5 +1,7 @@
 # Taiwanese
 
+home: 首頁
+
 base:
   next: 繼續
   prev: 返回
@@ -15,10 +17,16 @@ base:
   oneResult: 一个结果
   noResult: 没有结果
   toc: 目錄
+  slide: 幻燈片
+  step: 步驟
+  slideNavigation: 幻燈片導覽
+  footnote: 註腳
+  footnotes: 註腳
+  resize: 調整窗格大小
   show: 顯示
   hide: 隱藏
   editor: 编辑风格
-  lang: 中国人
+  lang: 繁體中文
 
 comment:
   rate: 调整播放速度
@@ -67,14 +75,19 @@ conf:
   shareVia: 通过...分享
   translations: 翻譯
   tooltip: 工具提示
+  decals: 不只依賴顏色
   edit: 開啟編輯器
 
 tts:
+  position: 播放位置
+  of: /
   preferBrowser: 首选浏览器 TTS
   usingBrowser: 使用浏览器的内部文本转语音引擎。
   unsupported: 您的浏览器不支持文本转语音，请换一个浏览器。
 
 code:
+  editor: 程式碼編輯器
+  block: 程式碼區塊
   execute: 開始執行
   running: 執行中
   prev: 上一版
@@ -85,12 +98,17 @@ code:
   maximize: 極大視窗
   terminal: 终端
   copy: 复制到剪贴板
+  reset: 重設輸入
 
 quiz:
   check: 選取
   solution: 顯示解答
   hint: 暗示
   selection: 选择
+  gap: 填空
+  dropZone: 放置區
+  empty: 空
+  dragHint: 在放置區按 Enter 以選取，再在卡片上按 Enter 將其放到該處
 
   label:
     check: 检查答案。答案被标记为正确或不正确。
@@ -109,7 +127,13 @@ survey:
   text: 輸入文字...
   update: 更新
 
+sort:
+  asc: 遞增排序
+  desc: 遞減排序
+  not: 未排序
+
 chart:
+  default: 圖表
   pie: 饼图
   bar: 柱状图
   line: 折线图
@@ -128,6 +152,7 @@ chart:
   graph: 关系图
   sankey: 桑基图
   funnel: 漏斗图
+  wordcloud: 文字雲
 #  gauge: 仪表盘图
 #  pictorialBar: 象形柱图
 #  themeRiver: 主题河流图
@@ -138,6 +163,8 @@ qr:
   err: 编码为二维码时出错
 
 chat:
+  message: 聊天訊息
+  unverified: 未驗證的傳送者
   open: 開啟聊天室
   close: 關閉聊天室
   new: 你有未讀的聊天訊息

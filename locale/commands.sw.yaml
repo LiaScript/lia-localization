@@ -18,10 +18,16 @@ base:
   oneResult: matokeo moja
   noResult: hakuna matokeo
   toc: Yaliyomo
+  slide: Slaidi
+  step: Hatua
+  slideNavigation: Urambazaji wa slaidi
+  footnote: Tanbihi
+  footnotes: Tanbihi
+  resize: Badilisha ukubwa wa vidirisha
   show: show
   hide: kujificha
   editor: Mtindo wa Mhariri
-  lang: Suaheli
+  lang: Kiswahili
 
 comment:
   rate: Badilisha kasi ya kucheza
@@ -70,14 +76,19 @@ conf:
   shareVia: shiriki kupitia ...
   translations: Tafsiri
   tooltip: Vidokezo vya zana
+  decals: Usitegemee rangi pekee
   edit: Fungua Kihariri
 
 tts:
+  position: Nafasi ya uchezaji
+  of: kati ya
   preferBrowser: Pendelea kivinjari TTS
   usingBrowser: Kwa kutumia injini ya ndani ya kivinjari ya Maandishi-hadi-Hotuba.
   unsupported: Kivinjari chako hakitumii Maandishi-hadi-Hotuba, jaribu nyingine.
 
 code:
+  editor: Kihariri cha msimbo
+  block: Kipande cha msimbo
   execute: Tekeleza
   running: inakimbia
   prev: toleo la awali
@@ -88,12 +99,17 @@ code:
   maximize: kuongeza mtazamo
   terminal: terminal
   copy: nakili kwenye ubao wa kunakili
+  reset: weka upya ingizo
 
 quiz:
   check: Angalia
   solution: onyesha suluhisho
   hint: onyesha kidokezo
   selection: uteuzi
+  gap: Pengo
+  dropZone: Eneo la kudondoshea
+  empty: tupu
+  dragHint: Bonyeza Enter kwenye eneo la kudondoshea ili kulichagua, kisha Enter kwenye kadi ili kuiweka hapo
 
   label:
     check: Angalia jibu. Jibu litawekwa alama kuwa sahihi au si sahihi.
@@ -118,6 +134,7 @@ sort:
   not: haijapangwa
 
 chart:
+  default: Chati
   pie: chati ya pai
   bar: Chati ya paa
   line: Chati ya mstari
@@ -136,6 +153,7 @@ chart:
   graph: Grafu ya uhusiano
   sankey: mchoro wa Sankey
   funnel: Chati ya faneli
+  wordcloud: Wingu la maneno
 #  gauge: Guage
 #  pictorialBar: Upau wa picha
 #  themeRiver: Ramani ya Mto Mandhari
@@ -146,6 +164,8 @@ qr:
   err: Hitilafu wakati wa kusimba msimbo wa QR
 
 chat:
+  message: Ujumbe wa gumzo
+  unverified: Mtumaji asiyethibitishwa
   open: Fungua gumzo
   close: Funga gumzo
   new: Una ujumbe wa gumzo usio soma

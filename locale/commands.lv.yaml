@@ -18,6 +18,12 @@ base:
   oneResult: viens rezultāts
   noResult: nav rezultātu
   toc: Satura rādītājs
+  slide: Slaids
+  step: Solis
+  slideNavigation: Slaidu navigācija
+  footnote: Vēre
+  footnotes: Vēres
+  resize: Mainīt apgabalu izmēru
   show: rādīt
   hide: paslēpt
   editor: Redaktora stils
@@ -71,14 +77,19 @@ conf:
   shareVia: kopīgot, izmantojot ...
   translations: Tulkojumi
   tooltip: Rīku padomi
+  decals: Nepaļauties tikai uz krāsām
   edit: Atvērt redaktoru
 
 tts:
+  position: Atskaņošanas pozīcija
+  of: 'no'
   preferBrowser: Dot priekšroku pārlūkprogrammas runas sintēzei
   usingBrowser: Tiek izmantota pārlūkprogrammā iebūvētā runas sintēze.
   unsupported: Tava pārlūkprogramma neatbalsta runas sintēzi. Izmēģini citu.
 
 code:
+  editor: Koda redaktors
+  block: Koda bloks
   execute: Izpildīt
   running: tiek izpildīts
   prev: iepriekšējā versija
@@ -89,12 +100,17 @@ code:
   maximize: maksimizēt skatu
   terminal: terminālis
   copy: kopēt starpliktuvē
+  reset: atiestatīt ievadi
 
 quiz:
   check: Pārbaudīt
   solution: rādīt risinājumu
   hint: rādīt norādi
   selection: izvēle
+  gap: Aizpildāmā vieta
+  dropZone: Nomešanas zona
+  empty: tukša
+  dragHint: Nospied Enter uz nomešanas zonas, lai to izvēlētos, tad Enter uz kartītes, lai to tur novietotu
   label:
     check: Pārbaudīt atbildi. Atbilde tiks atzīmēta kā pareiza vai nepareiza.
     solution: Parādīt risinājumu. Uzdevums tiks atzīmēts kā atrisināts.
@@ -117,6 +133,7 @@ sort:
   not: nav sakārtots
 
 chart:
+  default: Diagramma
   pie: Sektoru diagramma
   bar: Stabiņu diagramma
   line: Līniju diagramma
@@ -130,12 +147,15 @@ chart:
   graph: Saistību grafs
   sankey: Sankey diagramma
   funnel: Piltuves diagramma
+  wordcloud: Vārdu mākonis
 
 qr:
   code: Vietnes QR kods
   err: Kļūda, veidojot QR kodu
 
 chat:
+  message: Tērzēšanas ziņojums
+  unverified: Nepārbaudīts sūtītājs
   open: Atvērt tērzēšanu
   close: Aizvērt tērzēšanu
   new: Tev ir nelasīti tērzēšanas ziņojumi

@@ -18,6 +18,12 @@ base:
   oneResult: un rezultat
   noResult: niciun rezultat
   toc: Cuprins
+  slide: Diapozitiv
+  step: Pas
+  slideNavigation: Navigare între diapozitive
+  footnote: Notă de subsol
+  footnotes: Note de subsol
+  resize: Redimensionează panourile
   show: afișează
   hide: ascunde
   editor: Stilul editorului
@@ -71,14 +77,19 @@ conf:
   shareVia: distribuie prin ...
   translations: Traduceri
   tooltip: Indicații
+  decals: Nu te baza doar pe culori
   edit: Deschide editorul
 
 tts:
+  position: Poziția redării
+  of: din
   preferBrowser: Preferă sinteza vocală a browserului
   usingBrowser: Se utilizează motorul de sinteză vocală integrat în browser.
   unsupported: Browserul tău nu acceptă sinteza vocală. Încearcă alt browser.
 
 code:
+  editor: Editor de cod
+  block: Bloc de cod
   execute: Execută
   running: se execută
   prev: versiunea anterioară
@@ -89,12 +100,17 @@ code:
   maximize: maximizează vizualizarea
   terminal: terminal
   copy: copiază în clipboard
+  reset: resetează valoarea introdusă
 
 quiz:
   check: Verifică
   solution: arată soluția
   hint: arată indiciul
   selection: selecție
+  gap: Spațiu liber
+  dropZone: Zonă de plasare
+  empty: goală
+  dragHint: Apasă Enter pe o zonă de plasare pentru a o selecta, apoi Enter pe un card pentru a-l plasa acolo
   label:
     check: Verifică răspunsul. Răspunsul va fi marcat drept corect sau incorect.
     solution: Arată soluția. Exercițiul va fi marcat ca rezolvat.
@@ -117,6 +133,7 @@ sort:
   not: nesortat
 
 chart:
+  default: Diagramă
   pie: Diagramă circulară
   bar: Diagramă cu bare
   line: Diagramă liniară
@@ -130,12 +147,15 @@ chart:
   graph: Graf de relații
   sankey: Diagramă Sankey
   funnel: Diagramă pâlnie
+  wordcloud: Nor de cuvinte
 
 qr:
   code: Cod QR pentru site
   err: Eroare la generarea codului QR
 
 chat:
+  message: Mesaj în conversație
+  unverified: Expeditor neverificat
   open: Deschide conversația
   close: Închide conversația
   new: Ai mesaje necitite în conversație

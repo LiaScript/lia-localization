@@ -1,5 +1,7 @@
 # Spanish
 
+home: Inicio
+
 base:
   next: siguente
   prev: anterior
@@ -15,6 +17,12 @@ base:
   oneResult: un resultado
   noResult: No hay resultados
   toc: índice
+  slide: Diapositiva
+  step: Paso
+  slideNavigation: Navegación de diapositivas
+  footnote: Nota al pie
+  footnotes: Notas al pie
+  resize: Cambiar el tamaño de los paneles
   show: mostrar
   hide: ocultar
   editor: estilo editor
@@ -66,14 +74,20 @@ conf:
   share: compartir
   shareVia: compartir via ...
   translations: traducciones
+  tooltip: Descripciones emergentes
+  decals: No depender solo del color
   edit: Abrir editor
 
 tts:
+  position: Posición de reproducción
+  of: de
   preferBrowser: Preferir TTS del navegador
   usingBrowser: Usando el motor interno de conversión de texto a voz del navegador.
   unsupported: Tu navegador no es compatible con Text-to-Speech, prueba con otro.
 
 code:
+  editor: Editor de código
+  block: Bloque de código
   execute: ejecutar
   running: en funcionamiento
   prev: versión anterior
@@ -82,13 +96,19 @@ code:
   last: última versión
   minimize: minimizar vista
   maximize: maximinzar vista
+  terminal: terminal
   copy: copiar al portapapeles
+  reset: restablecer entrada
 
 quiz:
   check: verificar
   solution: mostrar solución
   hint: mostrar indicio
   selection: selección
+  gap: Hueco
+  dropZone: Zona de destino
+  empty: vacía
+  dragHint: Pulsa Enter en una zona de destino para seleccionarla y luego Enter en una tarjeta para colocarla allí
 
   label:
     check: Comprueba la respuesta. La respuesta está marcada como correcta o incorrecta.
@@ -112,11 +132,30 @@ sort:
   desc: orden descendiente
   not: no ordenado
 
+chart:
+  default: Gráfico
+  pie: Gráfico circular
+  bar: Gráfico de barras
+  line: Gráfico de líneas
+  scatter: Diagrama de dispersión
+  radar: Gráfico de radar
+  boxplot: Diagrama de caja
+  heatmap: Mapa de calor
+  map: Mapa
+  parallel: Gráfico de coordenadas paralelas
+  lines: Gráfico lineal
+  graph: Grafo de relaciones
+  sankey: Diagrama de Sankey
+  funnel: Gráfico de embudo
+  wordcloud: Nube de palabras
+
 qr:
   code: Código QR para sitio web
   err: Error al codificar en código QR
 
 chat:
+  message: Mensaje de chat
+  unverified: Remitente no verificado
   open: Abrir chat
   close: Cerrar chat
   new: Tienes mensajes de chat no leídos

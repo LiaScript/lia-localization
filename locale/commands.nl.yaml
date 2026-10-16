@@ -1,5 +1,7 @@
 # Dutch
 
+home: Start
+
 base:
   next: verder
   prev: terug
@@ -15,6 +17,12 @@ base:
   oneResult: een resultaat
   noResult: Geen resultaten
   toc: Inhoudsopgave
+  slide: Dia
+  step: Stap
+  slideNavigation: Dianavigatie
+  footnote: Voetnoot
+  footnotes: Voetnoten
+  resize: Grootte van deelvensters wijzigen
   show: tonen
   hide: verbergen
   editor: editor-stijl
@@ -66,14 +74,20 @@ conf:
   share: Delen
   shareVia: deel via ...
   translations: Vertalingen
+  tooltip: Tooltips
+  decals: Niet alleen op kleur vertrouwen
   edit: Editor openen
 
 tts:
+  position: Afspeelpositie
+  of: van
   preferBrowser: Voorkeur browser TTS
   usingBrowser: De interne tekst-naar-spraak-engine van de browser gebruiken.
   unsupported: Uw browser ondersteunt tekst-naar-spraak niet, probeer een andere.
 
 code:
+  editor: Code-editor
+  block: Codeblok
   execute: uitvoeren
   running: wordt uitgevoerd
   prev: een versie terug
@@ -82,13 +96,19 @@ code:
   last: laatste versie
   minimize: weergave verkleinen
   maximize: weergave maximaliseren
+  terminal: terminal
   copy: kopiëren naar klembord
+  reset: invoer herstellen
 
 quiz:
   check: bekijk
   solution: toon oplossing
   hint: toon hint
   selection: selectie
+  gap: Invulveld
+  dropZone: Neerzetzone
+  empty: leeg
+  dragHint: Druk op Enter bij een neerzetzone om die te selecteren en daarna op Enter bij een kaart om die daar te plaatsen
 
   label:
     check: Controleer het antwoord. Het antwoord wordt gemarkeerd als goed of fout.
@@ -112,11 +132,30 @@ sort:
   desc: sorteer aflopend
   not: niet gesorteerd
 
+chart:
+  default: Grafiek
+  pie: Cirkeldiagram
+  bar: Staafdiagram
+  line: Lijndiagram
+  scatter: Spreidingsdiagram
+  radar: Radardiagram
+  boxplot: Boxplot
+  heatmap: Heatmap
+  map: Kaart
+  parallel: Diagram met parallelle coördinaten
+  lines: Lijngrafiek
+  graph: Relatiegrafiek
+  sankey: Sankeydiagram
+  funnel: Trechterdiagram
+  wordcloud: Woordwolk
+
 qr:
   code: QR-code voor website
   err: Fout bij het coderen naar QR-code
 
 chat:
+  message: Chatbericht
+  unverified: Niet-geverifieerde afzender
   open: Chat openen
   close: Chat sluiten
   new: Je hebt ongelezen chatberichten

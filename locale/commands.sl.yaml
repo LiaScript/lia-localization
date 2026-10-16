@@ -18,6 +18,12 @@ base:
   oneResult: en rezultat
   noResult: ni rezultatov
   toc: Kazalo vsebine
+  slide: Prosojnica
+  step: Korak
+  slideNavigation: Navigacija po prosojnicah
+  footnote: Opomba
+  footnotes: Opombe
+  resize: Spremeni velikost podoken
   show: pokaži
   hide: skrij
   editor: Slog urejevalnika
@@ -71,14 +77,19 @@ conf:
   shareVia: deli prek ...
   translations: Prevodi
   tooltip: Namigi za orodja
+  decals: Ne zanašaj se le na barve
   edit: Odpri urejevalnik
 
 tts:
+  position: Položaj predvajanja
+  of: od
   preferBrowser: Prednostno uporabi sintezo govora v brskalniku
   usingBrowser: Uporablja se vgrajena sinteza govora v brskalniku.
   unsupported: Tvoj brskalnik ne podpira sinteze govora. Poskusi drugega.
 
 code:
+  editor: Urejevalnik kode
+  block: Blok kode
   execute: Zaženi
   running: se izvaja
   prev: prejšnja različica
@@ -89,12 +100,17 @@ code:
   maximize: povečaj pogled
   terminal: terminal
   copy: kopiraj v odložišče
+  reset: ponastavi vnos
 
 quiz:
   check: Preveri
   solution: pokaži rešitev
   hint: pokaži namig
   selection: izbira
+  gap: Vrzel
+  dropZone: Ciljno polje
+  empty: prazno
+  dragHint: Pritisni Enter na ciljnem polju, da ga izbereš, nato Enter na kartici, da jo postaviš tja
   label:
     check: Preveri odgovor. Odgovor bo označen kot pravilen ali napačen.
     solution: Pokaži rešitev. Naloga bo označena kot rešena.
@@ -117,6 +133,7 @@ sort:
   not: nerazvrščeno
 
 chart:
+  default: Grafikon
   pie: Tortni grafikon
   bar: Stolpčni grafikon
   line: Črtni grafikon
@@ -130,12 +147,15 @@ chart:
   graph: Graf povezav
   sankey: Sankeyjev diagram
   funnel: Lijakasti grafikon
+  wordcloud: Oblak besed
 
 qr:
   code: Koda QR za spletno mesto
   err: Napaka pri ustvarjanju kode QR
 
 chat:
+  message: Sporočilo v klepetu
+  unverified: Nepreverjen pošiljatelj
   open: Odpri klepet
   close: Zapri klepet
   new: Imaš neprebrana sporočila v klepetu

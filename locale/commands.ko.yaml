@@ -18,6 +18,12 @@ base:
   oneResult: 단일 결과
   noResult: 결과 없음
   toc: 목차
+  slide: 슬라이드
+  step: 단계
+  slideNavigation: 슬라이드 탐색
+  footnote: 각주
+  footnotes: 각주
+  resize: 영역 크기 조절
   show: 보이기
   hide: 감추기
   editor: 에디터 스타일
@@ -70,14 +76,19 @@ conf:
   shareVia: 공유하기
   translations: 번역
   tooltip: 도구 설명
+  decals: 색상에만 의존하지 않기
   edit: 편집기 열기
 
 tts:
+  position: 재생 위치
+  of: /
   preferBrowser: 브라우저 TTS 선호
   usingBrowser: 브라우저의 내부 텍스트 음성 변환 엔진을 사용합니다.
   unsupported: 당신의 브라우저는 Text-to-Speech를 지원하지 않습니다. 다른 것을 시도해 보세요.
 
 code:
+  editor: 코드 편집기
+  block: 코드 블록
   execute: 실행
   running: 실행 중
   prev: 이전 버전
@@ -88,12 +99,17 @@ code:
   maximize: 뷰 최대화
   terminal: 단말기
   copy: 클립보드에 복사
+  reset: 입력 초기화
 
 quiz:
   check: 확인
   solution: 정답 보기
   hint: 힌트 보기
   selection: 선택
+  gap: 빈칸
+  dropZone: 드롭 영역
+  empty: 비어 있음
+  dragHint: 드롭 영역에서 Enter 키를 눌러 선택한 다음, 카드에서 Enter 키를 눌러 그곳에 놓으세요
 
   label:
     check: 답을 확인하세요. 정답 또는 오답으로 표시됩니다.
@@ -118,6 +134,7 @@ sort:
   not: 정렬 안 됨
 
 chart:
+  default: 차트
   pie: 파이 차트
   bar: 바 차트
   line: 라인 차트
@@ -136,6 +153,7 @@ chart:
   graph: 관계도
   sankey: 생키 다이어그램
   funnel: 퍼널 차트
+  wordcloud: 워드 클라우드
 #  gauge: 게이지
 #  pictorialBar: 픽토리얼 바
 #  themeRiver: 테마 리버 맵
@@ -146,6 +164,8 @@ qr:
   err: QR 코드를 만드는 도중 오류가 발생했습니다.
 
 chat:
+  message: 채팅 메시지
+  unverified: 확인되지 않은 보낸 사람
   open: 채팅 열기
   close: 채팅 닫기
   new: 읽지 않은 채팅 메시지가 있습니다

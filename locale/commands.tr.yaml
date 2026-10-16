@@ -18,6 +18,12 @@ base:
   oneResult: bir sonuç
   noResult: sonuç yok
   toc: İçindekiler
+  slide: Slayt
+  step: Adım
+  slideNavigation: Slayt gezintisi
+  footnote: Dipnot
+  footnotes: Dipnotlar
+  resize: Bölmeleri yeniden boyutlandır
   show: göster
   hide: gizle
   editor: Düzenleyici stili
@@ -71,14 +77,19 @@ conf:
   shareVia: '... aracılığıyla paylaş'
   translations: Çeviriler
   tooltip: Araç ipuçları
+  decals: Yalnızca renge güvenme
   edit: Düzenleyiciyi aç
 
 tts:
+  position: Oynatma konumu
+  of: /
   preferBrowser: Tarayıcının metin okuma özelliğini tercih et
   usingBrowser: Tarayıcının yerleşik metin okuma motoru kullanılıyor.
   unsupported: Tarayıcınız metin okumayı desteklemiyor. Başka bir tarayıcı deneyin.
 
 code:
+  editor: Kod düzenleyici
+  block: Kod bloğu
   execute: Çalıştır
   running: çalışıyor
   prev: önceki sürüm
@@ -89,12 +100,17 @@ code:
   maximize: görünümü büyüt
   terminal: terminal
   copy: panoya kopyala
+  reset: girişi sıfırla
 
 quiz:
   check: Kontrol et
   solution: çözümü göster
   hint: ipucunu göster
   selection: seçim
+  gap: Boşluk
+  dropZone: Bırakma alanı
+  empty: boş
+  dragHint: Seçmek için bir bırakma alanında Enter'a, ardından oraya yerleştirmek için bir kartta Enter'a basın
   label:
     check: Yanıtı kontrol et. Yanıt doğru veya yanlış olarak işaretlenecek.
     solution: Çözümü göster. Soru çözülmüş olarak işaretlenecek.
@@ -117,6 +133,7 @@ sort:
   not: sıralanmamış
 
 chart:
+  default: Grafik
   pie: Pasta grafiği
   bar: Çubuk grafiği
   line: Çizgi grafiği
@@ -130,12 +147,15 @@ chart:
   graph: İlişki grafiği
   sankey: Sankey diyagramı
   funnel: Huni grafiği
+  wordcloud: Kelime bulutu
 
 qr:
   code: Web sitesi için QR kodu
   err: QR kodu oluşturulurken hata oluştu
 
 chat:
+  message: Sohbet mesajı
+  unverified: Doğrulanmamış gönderen
   open: Sohbeti aç
   close: Sohbeti kapat
   new: Okunmamış sohbet mesajlarınız var

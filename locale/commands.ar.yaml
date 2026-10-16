@@ -1,5 +1,7 @@
 # Arabic
 
+home: الرئيسية
+
 base:
   next: التالي
   prev: السابق
@@ -15,6 +17,12 @@ base:
   oneResult: نتيجة واحدة
   noResult: ولا أي نتيجة
   toc: جدول المحتويات
+  slide: شريحة
+  step: خطوة
+  slideNavigation: التنقل بين الشرائح
+  footnote: حاشية
+  footnotes: الحواشي
+  resize: تغيير حجم الأجزاء
   show: إظهار
   hide: إخفاء
   editor: على غرار المحرر
@@ -67,9 +75,19 @@ conf:
   shareVia: شارك عبر ...
   translations: ترجمة
   tooltip: تلميحات
+  decals: عدم الاعتماد على الألوان وحدها
   edit: فتح المحرر
 
+tts:
+  position: موضع التشغيل
+  of: من
+  preferBrowser: تفضيل تحويل النص إلى كلام في المتصفح
+  usingBrowser: يتم استخدام محرك تحويل النص إلى كلام المدمج في المتصفح.
+  unsupported: متصفحك لا يدعم تحويل النص إلى كلام، جرّب متصفحًا آخر.
+
 code:
+  editor: محرر الشيفرة
+  block: كتلة شيفرة
   execute: تنفيذ
   running: إجراء
   prev: الإصدار السابق
@@ -80,12 +98,17 @@ code:
   maximize: إظهار بالكامل
   terminal: طرفية
   copy: نسخ إلى الحافظة
+  reset: إعادة تعيين الإدخال
 
 quiz:
   check: تحقق
   solution: إظهار الحل
   hint: تلميح
   selection: اختيار
+  gap: فراغ
+  dropZone: منطقة الإفلات
+  empty: فارغة
+  dragHint: اضغط Enter على منطقة إفلات لتحديدها، ثم Enter على بطاقة لوضعها فيها
 
   label:
     check: تحقق من الجواب. تم وضع علامة على الإجابة على أنها صحيحة أو غير صحيحة.
@@ -110,12 +133,14 @@ sort:
   not: غير مرتب
 
 chart:
+  default: مخطط
   pie: مخطط دائري
   bar: مخطط شريطي
   line: مخطط خطي
   scatter: مخطط مبعثر
 #  effectScatter: مخطط تبعثر تموج
   radar: مخطط نسيجي
+  boxplot: مخطط صندوقي
 #  tree: الشجرة
 #  treemap: خريطة الشجرة
 #  k: مخطط خطي
@@ -126,6 +151,7 @@ chart:
   graph: رسم بياني
   sankey: مخطط سانكي
   funnel: مخطط قمعي
+  wordcloud: سحابة كلمات
 #  pictorialBar: شريط مصور
 
 qr:
@@ -133,6 +159,8 @@ qr:
   err: خطأ أثناء الترميز إلى رمز الاستجابة السريعة
 
 chat:
+  message: رسالة دردشة
+  unverified: مرسل غير موثّق
   open: فتح الدردشة
   close: إغلاق الدردشة
   new: لديك رسائل دردشة غير مقروءة

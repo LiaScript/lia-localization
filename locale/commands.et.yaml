@@ -18,6 +18,12 @@ base:
   oneResult: üks tulemus
   noResult: tulemusi pole
   toc: Sisukord
+  slide: Slaid
+  step: Samm
+  slideNavigation: Slaidide navigeerimine
+  footnote: Joonealune märkus
+  footnotes: Joonealused märkused
+  resize: Muuda paanide suurust
   show: näita
   hide: peida
   editor: Redaktori stiil
@@ -70,14 +76,19 @@ conf:
   shareVia: jaga ... kaudu
   translations: Tõlked
   tooltip: Kohtspikrid
+  decals: Ära tugine ainult värvidele
   edit: Ava redaktor
 
 tts:
+  position: Taasesituse asukoht
+  of: /
   preferBrowser: Eelista brauseri kõnesünteesi
   usingBrowser: Kasutatakse brauseri sisseehitatud kõnesünteesi.
   unsupported: Sinu brauser ei toeta kõnesünteesi. Proovi mõnda teist brauserit.
 
 code:
+  editor: Koodiredaktor
+  block: Koodiplokk
   execute: Käivita
   running: töötab
   prev: eelmine versioon
@@ -88,12 +99,17 @@ code:
   maximize: maksimeeri vaade
   terminal: terminal
   copy: kopeeri lõikelauale
+  reset: lähtesta sisend
 
 quiz:
   check: Kontrolli
   solution: näita lahendust
   hint: näita vihjet
   selection: valik
+  gap: Lünk
+  dropZone: Sihtala
+  empty: tühi
+  dragHint: Vajuta sihtalal Enterit, et see valida, seejärel vajuta kaardil Enterit, et see sinna paigutada
 
   label:
     check: Kontrolli vastust. Vastus märgitakse õigeks või valeks.
@@ -118,6 +134,7 @@ sort:
   not: sortimata
 
 chart:
+  default: Diagramm
   pie: Sektordiagramm
   bar: Tulpdiagramm
   line: Joondiagramm
@@ -136,6 +153,7 @@ chart:
   graph: Seoste graaf
   sankey: Sankey diagramm
   funnel: Lehterdiagramm
+  wordcloud: Sõnapilv
 #  gauge: Mõõdik
 #  pictorialBar: Piktogrammidega tulpdiagramm
 #  themeRiver: Teemajõekaart
@@ -146,6 +164,8 @@ qr:
   err: Viga QR-koodi loomisel
 
 chat:
+  message: Vestlussõnum
+  unverified: Kinnitamata saatja
   open: Ava vestlus
   close: Sulge vestlus
   new: Sul on lugemata vestlussõnumeid

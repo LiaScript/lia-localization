@@ -18,6 +18,12 @@ base:
   oneResult: egy találat
   noResult: nincs találat
   toc: Tartalomjegyzék
+  slide: Dia
+  step: Lépés
+  slideNavigation: Dianavigáció
+  footnote: Lábjegyzet
+  footnotes: Lábjegyzetek
+  resize: Panelek átméretezése
   show: megjelenítés
   hide: elrejtés
   editor: Szerkesztő stílusa
@@ -71,14 +77,19 @@ conf:
   shareVia: 'megosztás ezen keresztül: ...'
   translations: Fordítások
   tooltip: Eszköztippek
+  decals: Ne csak a színekre hagyatkozz
   edit: Szerkesztő megnyitása
 
 tts:
+  position: Lejátszási pozíció
+  of: /
   preferBrowser: A böngésző beszédszintézisének előnyben részesítése
   usingBrowser: A böngésző beépített beszédszintetizátora van használatban.
   unsupported: A böngésződ nem támogatja a beszédszintézist. Próbálj ki egy másikat.
 
 code:
+  editor: Kódszerkesztő
+  block: Kódblokk
   execute: Futtatás
   running: fut
   prev: előző verzió
@@ -89,12 +100,17 @@ code:
   maximize: nézet nagyítása
   terminal: terminál
   copy: másolás a vágólapra
+  reset: bevitel visszaállítása
 
 quiz:
   check: Ellenőrzés
   solution: megoldás megjelenítése
   hint: tipp megjelenítése
   selection: kiválasztás
+  gap: Kitöltendő hely
+  dropZone: Célterület
+  empty: üres
+  dragHint: Nyomj Entert egy célterületen a kiválasztásához, majd Entert egy kártyán, hogy oda helyezd
   label:
     check: A válasz ellenőrzése. A válasz helyesnek vagy helytelennek lesz jelölve.
     solution: A megoldás megjelenítése. A feladat megoldottként lesz jelölve.
@@ -117,6 +133,7 @@ sort:
   not: rendezetlen
 
 chart:
+  default: Diagram
   pie: Kördiagram
   bar: Oszlopdiagram
   line: Vonaldiagram
@@ -130,12 +147,15 @@ chart:
   graph: Kapcsolati gráf
   sankey: Sankey-diagram
   funnel: Tölcsérdiagram
+  wordcloud: Szófelhő
 
 qr:
   code: A weboldal QR-kódja
   err: Hiba a QR-kód létrehozásakor
 
 chat:
+  message: Csevegőüzenet
+  unverified: Nem ellenőrzött feladó
   open: Csevegés megnyitása
   close: Csevegés bezárása
   new: Olvasatlan csevegőüzeneteid vannak
