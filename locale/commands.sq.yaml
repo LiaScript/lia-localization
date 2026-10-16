@@ -18,6 +18,9 @@ base:
   oneResult: një rezultat
   noResult: asnjë rezultat
   toc: Pasqyra e lëndës
+  skipNav: Kapërce navigimin
+  closeDialog: Mbyll dialogun
+  zoom: Zmadho
   slide: Diapozitivi
   step: Hapi
   slideNavigation: Navigimi i diapozitivave
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Rregullo shpejtësinë e riprodhimit
+  rateLabel: Ritmi
   pitch: Rregullo lartësinë e zërit
+  pitchLabel: Toni
   hide: Fshih komentet me video dhe avatar
 
 no_translation: ende nuk ka përkthim
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Pozicioni i riprodhimit
   of: nga
+  pause: Pauzë
+  resume: Vazhdo
   preferBrowser: Prefero sintezën e të folurit të shfletuesit
   usingBrowser: Po përdoret motori i integruar i sintezës së të folurit të shfletuesit.
   unsupported: Shfletuesi yt nuk e mbështet sintezën e të folurit. Provo një tjetër.
@@ -99,6 +106,7 @@ code:
   minimize: minimizo pamjen
   maximize: maksimizo pamjen
   terminal: terminal
+  sendTerminal: Dërgo në terminal
   copy: kopjo në kujtesën e përkohshme
   reset: rivendos hyrjen
 
@@ -107,6 +115,7 @@ quiz:
   solution: shfaq zgjidhjen
   hint: shfaq ndihmën
   selection: përzgjedhje
+  input: Përgjigjja
   gap: Boshllëku
   dropZone: Zona e lëshimit
   empty: bosh
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Diagram
+  table: Tabela
   pie: Diagram rrethor
   bar: Diagram me shtylla
   line: Diagram vijor
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: Kodi QR për faqen e internetit
+  enlarge: Zmadho kodin QR
   err: Gabim gjatë krijimit të kodit QR
 
 chat:

@@ -18,6 +18,9 @@ base:
   oneResult: vienas rezultatas
   noResult: rezultatų nėra
   toc: Turinys
+  skipNav: Praleisti naršymą
+  closeDialog: Užverti dialogo langą
+  zoom: Padidinti
   slide: Skaidrė
   step: Žingsnis
   slideNavigation: Skaidrių naršymas
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Keisti atkūrimo greitį
+  rateLabel: Greitis
   pitch: Keisti balso aukštį
+  pitchLabel: Aukštis
   hide: Slėpti vaizdo ir avataro komentarus
 
 no_translation: vertimo dar nėra
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Atkūrimo padėtis
   of: iš
+  pause: Pristabdyti
+  resume: Tęsti
   preferBrowser: Teikti pirmenybę naršyklės kalbos sintezei
   usingBrowser: Naudojama naršyklėje integruota kalbos sintezė.
   unsupported: Tavo naršyklė nepalaiko kalbos sintezės. Išbandyk kitą.
@@ -99,6 +106,7 @@ code:
   minimize: sumažinti rodinį
   maximize: padidinti rodinį
   terminal: terminalas
+  sendTerminal: Siųsti į terminalą
   copy: kopijuoti į iškarpinę
   reset: atkurti pradinę įvestį
 
@@ -107,6 +115,7 @@ quiz:
   solution: rodyti sprendimą
   hint: rodyti užuominą
   selection: pasirinkimas
+  input: Atsakymas
   gap: Spraga
   dropZone: Numetimo sritis
   empty: tuščia
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Diagrama
+  table: Lentelė
   pie: Skritulinė diagrama
   bar: Stulpelinė diagrama
   line: Linijinė diagrama
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: Svetainės QR kodas
+  enlarge: Padidinti QR kodą
   err: Klaida kuriant QR kodą
 
 chat:

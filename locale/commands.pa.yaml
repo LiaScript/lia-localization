@@ -18,6 +18,9 @@ base:
   oneResult: ਇੱਕ ਨਤੀਜਾ
   noResult: ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ
   toc: ਵਿਸ਼ਾ ਸੂਚੀ
+  skipNav: ਨੈਵੀਗੇਸ਼ਨ ਛੱਡੋ
+  closeDialog: ਡਾਇਲਾਗ ਬੰਦ ਕਰੋ
+  zoom: ਵੱਡਾ ਕਰੋ
   slide: ਸਲਾਈਡ
   step: ਕਦਮ
   slideNavigation: ਸਲਾਈਡ ਨੈਵੀਗੇਸ਼ਨ
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: ਪਲੇਬੈਕ ਗਤੀ ਸੰਰਚਨਾ
+  rateLabel: ਗਤੀ
   pitch: ਸੁਰ ਸੰਰਚਨਾ
+  pitchLabel: ਸੁਰ
   hide: ਵੀਡੀਓ ਅਤੇ ਅਵਤਾਰ ਟਿੱਪਣੀਆਂ ਛੁਪਾਓ
 
 no_translation: ਅਜੇ ਅਨੁਵਾਦ ਨਹੀਂ ਹੈ
@@ -82,6 +87,8 @@ conf:
 tts:
   position: ਪਲੇਬੈਕ ਸਥਿਤੀ
   of: /
+  pause: ਵਿਰਾਮ
+  resume: ਜਾਰੀ ਰੱਖੋ
   preferBrowser: ਬਰਾਊਜ਼ਰ TTS ਨੂੰ ਤਰਜੀਹ ਦਿਓ
   usingBrowser: ਬਰਾਊਜ਼ਰ ਦੇ ਅੰਦਰੂਨੀ ਟੈਕਸਟ-ਟੁ-ਸਪੀਚ ਇੰਜਨ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ।
   unsupported: ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ ਟੈਕਸਟ-ਟੁ-ਸਪੀਚ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ, ਕੋਈ ਹੋਰ ਬਰਾਊਜ਼ਰ ਵਰਤੋ।
@@ -98,6 +105,7 @@ code:
   minimize: ਝਲਕ ਛੋਟੀ ਕਰੋ
   maximize: ਝਲਕ ਵੱਡੀ ਕਰੋ
   terminal: ਟਰਮੀਨਲ
+  sendTerminal: ਟਰਮੀਨਲ ਨੂੰ ਭੇਜੋ
   copy: ਕਲਿੱਪਬੋਰਡ 'ਤੇ ਕਾਪੀ
   reset: ਇਨਪੁਟ ਰੀਸੈੱਟ ਕਰੋ
 
@@ -106,6 +114,7 @@ quiz:
   solution: ਹੱਲ ਦਿਖਾਓ
   hint: ਸੰਕੇਤ ਦਿਖਾਓ
   selection: ਚੋਣ
+  input: ਜਵਾਬ
   gap: ਖਾਲੀ ਥਾਂ
   dropZone: ਰੱਖਣ ਵਾਲਾ ਖੇਤਰ
   empty: ਖਾਲੀ
@@ -135,6 +144,7 @@ sort:
 
 chart:
   default: ਚਾਰਟ
+  table: ਸਾਰਣੀ
   pie: ਪਾਈ ਚਾਰਟ
   bar: ਬਾਰ ਚਾਰਟ
   line: ਰੇਖਾ ਚਾਰਟ
@@ -157,6 +167,7 @@ chart:
 
 qr:
   code: ਵੈੱਬਸਾਈਟ ਲਈ QR ਕੋਡ
+  enlarge: QR ਕੋਡ ਵੱਡਾ ਕਰੋ
   err: QR ਕੋਡ ਨੂੰ ਏਨਕੋਡ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ
 
 chat:

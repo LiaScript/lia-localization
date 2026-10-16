@@ -18,6 +18,9 @@ base:
   oneResult: un risultato
   noResult: non ci sono risultati
   toc: indice
+  skipNav: Salta la navigazione
+  closeDialog: Chiudi la finestra di dialogo
+  zoom: Ingrandisci
   slide: Diapositiva
   step: Passo
   slideNavigation: Navigazione diapositive
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Regola la velocità di riproduzione
+  rateLabel: Velocità
   pitch: Regola l'altezza del tono
+  pitchLabel: Tono
   hide: Nascondi i commenti video e avatar
 
 no_translation: ancora non tradotto
@@ -82,6 +87,8 @@ conf:
 tts:
   position: Posizione di riproduzione
   of: di
+  pause: Pausa
+  resume: Riprendi
   preferBrowser: Preferisci la sintesi vocale del browser
   usingBrowser: Viene utilizzata la sintesi vocale integrata del browser.
   unsupported: Il tuo browser non supporta la sintesi vocale, provane un altro.
@@ -98,6 +105,7 @@ code:
   minimize: minimizzare la vista
   maximize: massimizzare la vista
   terminal: terminale
+  sendTerminal: Invia al terminale
   copy: copia negli appunti
   reset: ripristina l'input
 
@@ -106,6 +114,7 @@ quiz:
   solution: mostra la soluzione
   hint: mostra un indizio
   selection: seleziona
+  input: Risposta
   gap: Lacuna
   dropZone: Area di rilascio
   empty: vuota
@@ -135,6 +144,7 @@ sort:
 
 chart:
   default: Grafico
+  table: Tabella
   pie: Diagramma a torta
   bar: Diagramma a barre
   line: Diagramma a linee
@@ -161,6 +171,7 @@ chart:
 
 qr:
   code: Codice QR del sito web
+  enlarge: Ingrandisci il codice QR
   err: Errore nel codificare come codice QR
 
 chat:

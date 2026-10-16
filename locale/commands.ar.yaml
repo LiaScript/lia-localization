@@ -17,6 +17,9 @@ base:
   oneResult: نتيجة واحدة
   noResult: لا توجد نتائج
   toc: جدول المحتويات
+  skipNav: تخطي التنقل
+  closeDialog: إغلاق مربع الحوار
+  zoom: تكبير
   slide: شريحة
   step: خطوة
   slideNavigation: التنقل بين الشرائح
@@ -30,7 +33,9 @@ base:
 
 comment:
   rate: تعديل سرعة التشغيل
+  rateLabel: السرعة
   pitch: تعديل طبقة الصوت
+  pitchLabel: الطبقة
   hide: إخفاء تعليقات الفيديو والصورة الرمزية
 
 no_translation: لا توجد ترجمة حتى الآن
@@ -81,6 +86,8 @@ conf:
 tts:
   position: موضع التشغيل
   of: من
+  pause: إيقاف مؤقت
+  resume: استئناف
   preferBrowser: تفضيل تحويل النص إلى كلام في المتصفح
   usingBrowser: يتم استخدام محرك تحويل النص إلى كلام المدمج في المتصفح.
   unsupported: متصفحك لا يدعم تحويل النص إلى كلام، جرّب متصفحًا آخر.
@@ -97,6 +104,7 @@ code:
   minimize: تصغير
   maximize: إظهار بالكامل
   terminal: طرفية
+  sendTerminal: إرسال إلى الطرفية
   copy: نسخ إلى الحافظة
   reset: إعادة تعيين الإدخال
 
@@ -105,6 +113,7 @@ quiz:
   solution: إظهار الحل
   hint: إظهار تلميح
   selection: اختيار
+  input: الإجابة
   gap: فراغ
   dropZone: منطقة الإفلات
   empty: فارغة
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: مخطط
+  table: جدول
   pie: مخطط دائري
   bar: مخطط شريطي
   line: مخطط خطي
@@ -156,6 +166,7 @@ chart:
 
 qr:
   code: رمز الاستجابة السريعة للموقع
+  enlarge: تكبير رمز الاستجابة السريعة
   err: خطأ أثناء الترميز إلى رمز الاستجابة السريعة
 
 chat:

@@ -18,6 +18,9 @@ base:
   oneResult: one result
   noResult: no results
   toc: Table of Contents
+  skipNav: Skip navigation
+  closeDialog: Close dialog
+  zoom: Enlarge
   slide: Slide
   step: Step
   slideNavigation: Slide navigation
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Adjust playback speed
+  rateLabel: Speed
   pitch: Adjust pitch
+  pitchLabel: Pitch
   hide: Hide video & avatar comments
 
 no_translation: no translation yet
@@ -82,6 +87,8 @@ conf:
 tts:
   position: Playback position
   of: of
+  pause: Pause
+  resume: Resume
   preferBrowser: Prefer browser TTS
   usingBrowser: Using the browser's internal Text-to-Speech engine.
   unsupported: Your browser does not support Text-to-Speech, try another one.
@@ -98,6 +105,7 @@ code:
   minimize: minimize view
   maximize: maximize view
   terminal: terminal
+  sendTerminal: Send to terminal
   copy: copy to clipboard
   reset: reset input
 
@@ -106,6 +114,7 @@ quiz:
   solution: show solution
   hint: show hint
   selection: selection
+  input: Answer
   gap: Gap
   dropZone: Drop zone
   empty: empty
@@ -135,6 +144,7 @@ sort:
 
 chart:
   default: Chart
+  table: Table
   pie: Pie chart
   bar: Bar chart
   line: Line chart
@@ -161,6 +171,7 @@ chart:
 
 qr:
   code: QR code for website
+  enlarge: Enlarge QR code
   err: Error while encoding to QR code
 
 chat:

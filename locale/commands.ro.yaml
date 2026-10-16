@@ -18,6 +18,9 @@ base:
   oneResult: un rezultat
   noResult: niciun rezultat
   toc: Cuprins
+  skipNav: Sari peste navigare
+  closeDialog: Închide dialogul
+  zoom: Mărește
   slide: Diapozitiv
   step: Pas
   slideNavigation: Navigare între diapozitive
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Ajustează viteza de redare
+  rateLabel: Viteză
   pitch: Ajustează înălțimea vocii
+  pitchLabel: Ton
   hide: Ascunde comentariile video și de avatar
 
 no_translation: nu există încă o traducere
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Poziția redării
   of: din
+  pause: Întrerupe
+  resume: Reia
   preferBrowser: Preferă sinteza vocală a browserului
   usingBrowser: Se utilizează motorul de sinteză vocală integrat în browser.
   unsupported: Browserul tău nu acceptă sinteza vocală. Încearcă alt browser.
@@ -99,6 +106,7 @@ code:
   minimize: minimizează vizualizarea
   maximize: maximizează vizualizarea
   terminal: terminal
+  sendTerminal: Trimite la terminal
   copy: copiază în clipboard
   reset: resetează valoarea introdusă
 
@@ -107,6 +115,7 @@ quiz:
   solution: arată soluția
   hint: arată indiciul
   selection: selecție
+  input: Răspuns
   gap: Spațiu liber
   dropZone: Zonă de plasare
   empty: goală
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Diagramă
+  table: Tabel
   pie: Diagramă circulară
   bar: Diagramă cu bare
   line: Diagramă liniară
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: Cod QR pentru site
+  enlarge: Mărește codul QR
   err: Eroare la generarea codului QR
 
 chat:

@@ -18,6 +18,9 @@ base:
   oneResult: en rezultat
   noResult: ni rezultatov
   toc: Kazalo vsebine
+  skipNav: Preskoči navigacijo
+  closeDialog: Zapri pogovorno okno
+  zoom: Povečaj
   slide: Prosojnica
   step: Korak
   slideNavigation: Navigacija po prosojnicah
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Prilagodi hitrost predvajanja
+  rateLabel: Hitrost
   pitch: Prilagodi višino glasu
+  pitchLabel: Višina
   hide: Skrij komentarje videa in avatarja
 
 no_translation: prevod še ni na voljo
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Položaj predvajanja
   of: od
+  pause: Začasno ustavi
+  resume: Nadaljuj
   preferBrowser: Prednostno uporabi sintezo govora v brskalniku
   usingBrowser: Uporablja se vgrajena sinteza govora v brskalniku.
   unsupported: Tvoj brskalnik ne podpira sinteze govora. Poskusi drugega.
@@ -99,6 +106,7 @@ code:
   minimize: pomanjšaj pogled
   maximize: povečaj pogled
   terminal: terminal
+  sendTerminal: Pošlji v terminal
   copy: kopiraj v odložišče
   reset: ponastavi vnos
 
@@ -107,6 +115,7 @@ quiz:
   solution: pokaži rešitev
   hint: pokaži namig
   selection: izbira
+  input: Odgovor
   gap: Vrzel
   dropZone: Ciljno polje
   empty: prazno
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Grafikon
+  table: Tabela
   pie: Tortni grafikon
   bar: Stolpčni grafikon
   line: Črtni grafikon
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: Koda QR za spletno mesto
+  enlarge: Povečaj kodo QR
   err: Napaka pri ustvarjanju kode QR
 
 chat:

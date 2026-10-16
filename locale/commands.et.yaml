@@ -18,6 +18,9 @@ base:
   oneResult: üks tulemus
   noResult: tulemusi pole
   toc: Sisukord
+  skipNav: Jäta navigeerimine vahele
+  closeDialog: Sulge dialoog
+  zoom: Suurenda
   slide: Slaid
   step: Samm
   slideNavigation: Slaidide navigeerimine
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Muuda taasesituse kiirust
+  rateLabel: Kiirus
   pitch: Muuda hääle kõrgust
+  pitchLabel: Kõrgus
   hide: Peida video- ja avatarikommentaarid
 
 no_translation: tõlge pole veel saadaval
@@ -82,6 +87,8 @@ conf:
 tts:
   position: Taasesituse asukoht
   of: /
+  pause: Paus
+  resume: Jätka
   preferBrowser: Eelista brauseri kõnesünteesi
   usingBrowser: Kasutatakse brauseri sisseehitatud kõnesünteesi.
   unsupported: Sinu brauser ei toeta kõnesünteesi. Proovi mõnda teist brauserit.
@@ -98,6 +105,7 @@ code:
   minimize: minimeeri vaade
   maximize: maksimeeri vaade
   terminal: terminal
+  sendTerminal: Saada terminali
   copy: kopeeri lõikelauale
   reset: lähtesta sisend
 
@@ -106,6 +114,7 @@ quiz:
   solution: näita lahendust
   hint: näita vihjet
   selection: valik
+  input: Vastus
   gap: Lünk
   dropZone: Sihtala
   empty: tühi
@@ -135,6 +144,7 @@ sort:
 
 chart:
   default: Diagramm
+  table: Tabel
   pie: Sektordiagramm
   bar: Tulpdiagramm
   line: Joondiagramm
@@ -161,6 +171,7 @@ chart:
 
 qr:
   code: Veebisaidi QR-kood
+  enlarge: Suurenda QR-koodi
   err: Viga QR-koodi loomisel
 
 chat:

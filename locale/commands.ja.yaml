@@ -17,6 +17,9 @@ base:
   oneResult: 1件の結果
   noResult: 結果なし
   toc: 目次
+  skipNav: ナビゲーションをスキップ
+  closeDialog: ダイアログを閉じる
+  zoom: 拡大
   slide: スライド
   step: ステップ
   slideNavigation: スライドナビゲーション
@@ -30,7 +33,9 @@ base:
 
 comment:
   rate: 再生速度を変更
+  rateLabel: 速度
   pitch: 音程を変更
+  pitchLabel: 音程
   hide: 動画とアバターのコメントを非表示にする
 
 no_translation: まだ翻訳されていません
@@ -81,6 +86,8 @@ conf:
 tts:
   position: 再生位置
   of: /
+  pause: 一時停止
+  resume: 再開
   preferBrowser: ブラウザのTTSを優先する
   usingBrowser: ブラウザの内蔵テキスト読み上げエンジンを使用中
   unsupported: このブラウザはテキスト読み上げに対応していません。他のブラウザをお試しください。
@@ -97,6 +104,7 @@ code:
   minimize: 最小化
   maximize: 最大化
   terminal: ターミナル
+  sendTerminal: ターミナルに送信
   copy: クリップボードにコピー
   reset: 入力をリセット
 
@@ -105,6 +113,7 @@ quiz:
   solution: 解答を表示
   hint: ヒントを表示
   selection: 選択
+  input: 回答
   gap: 空欄
   dropZone: ドロップ領域
   empty: 空
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: グラフ
+  table: 表
   pie: 円グラフ
   bar: 棒グラフ
   line: 折れ線グラフ
@@ -160,6 +170,7 @@ chart:
 
 qr:
   code: ウェブサイト用 QR コード
+  enlarge: QR コードを拡大
   err: QR コードのエンコード中にエラーが発生しました
 
 chat:

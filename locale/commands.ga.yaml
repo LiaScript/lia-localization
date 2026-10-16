@@ -18,6 +18,9 @@ base:
   oneResult: toradh amháin
   noResult: gan torthaí
   toc: Clár na nÁbhar
+  skipNav: Léim thar an nascleanúint
+  closeDialog: Dún an bosca dialóige
+  zoom: Méadaigh
   slide: Sleamhnán
   step: Céim
   slideNavigation: Nascleanúint sleamhnán
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Coigeartaigh luas na hathsheinnte
+  rateLabel: Luas
   pitch: Coigeartaigh tuinairde an ghutha
+  pitchLabel: Tuinairde
   hide: Folaigh nótaí tráchta físe agus abhatáir
 
 no_translation: níl aistriúchán ar fáil fós
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Suíomh athsheinnte
   of: as
+  pause: Sos
+  resume: Atosaigh
   preferBrowser: Tabhair tús áite do shintéis cainte an bhrabhsálaí
   usingBrowser: Tá sintéis cainte ionsuite an bhrabhsálaí in úsáid.
   unsupported: Ní thacaíonn do bhrabhsálaí le sintéis cainte. Bain triail as brabhsálaí eile.
@@ -99,6 +106,7 @@ code:
   minimize: íoslaghdaigh an t-amharc
   maximize: uasmhéadaigh an t-amharc
   terminal: teirminéal
+  sendTerminal: Seol chuig an teirminéal
   copy: cóipeáil chuig an ngearrthaisce
   reset: athshocraigh an t-ionchur
 
@@ -107,6 +115,7 @@ quiz:
   solution: taispeáin an réiteach
   hint: taispeáin leid
   selection: roghnú
+  input: Freagra
   gap: Bearna
   dropZone: Limistéar scaoilte
   empty: folamh
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Cairt
+  table: Tábla
   pie: Píchairt
   bar: Barrachairt
   line: Línechairt
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: Cód QR don suíomh gréasáin
+  enlarge: Méadaigh an cód QR
   err: Earráid agus cód QR á chruthú
 
 chat:

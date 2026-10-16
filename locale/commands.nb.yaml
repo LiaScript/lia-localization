@@ -18,6 +18,9 @@ base:
   oneResult: ett resultat
   noResult: ingen resultater
   toc: Innholdsfortegnelse
+  skipNav: Hopp over navigasjonen
+  closeDialog: Lukk dialogen
+  zoom: Forstørr
   slide: Lysbilde
   step: Trinn
   slideNavigation: Lysbildenavigasjon
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Juster avspillingshastighet
+  rateLabel: Tempo
   pitch: Juster tonehøyde
+  pitchLabel: Tone
   hide: Skjul video- og avatarkommentarer
 
 no_translation: ingen oversettelse ennå
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Avspillingsposisjon
   of: av
+  pause: Pause
+  resume: Fortsett
   preferBrowser: Foretrekk nettleserens talesyntese
   usingBrowser: Nettleserens innebygde talesyntese brukes.
   unsupported: Nettleseren din støtter ikke talesyntese. Prøv en annen.
@@ -99,6 +106,7 @@ code:
   minimize: minimer visning
   maximize: maksimer visning
   terminal: terminal
+  sendTerminal: Send til terminalen
   copy: kopier til utklippstavlen
   reset: tilbakestill inndata
 
@@ -107,6 +115,7 @@ quiz:
   solution: vis løsning
   hint: vis hint
   selection: valg
+  input: Svar
   gap: Luke
   dropZone: Slippsone
   empty: tom
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Diagram
+  table: Tabell
   pie: Sektordiagram
   bar: Stolpediagram
   line: Linjediagram
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: QR-kode for nettstedet
+  enlarge: Forstørr QR-koden
   err: Feil ved oppretting av QR-kode
 
 chat:

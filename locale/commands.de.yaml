@@ -17,6 +17,9 @@ base:
   oneResult: ein Ergebnis
   noResult: kein Ergebnis
   toc: Inhaltsverzeichnis
+  skipNav: Navigation überspringen
+  closeDialog: Dialog schließen
+  zoom: Vergrößern
   slide: Folie
   step: Schritt
   slideNavigation: Folien-Navigation
@@ -30,7 +33,9 @@ base:
 
 comment:
   rate: Anpassung der Abspielgeschwindigkeit
+  rateLabel: Tempo
   pitch: Anpassung der Tonhöhe
+  pitchLabel: Tonhöhe
   hide: Video- & Avatar-Kommentare ausblenden
 
 no_translation: noch keine Übersetzungen vorhanden
@@ -82,6 +87,8 @@ conf:
 tts:
   position: Wiedergabeposition
   of: von
+  pause: Pausieren
+  resume: Fortsetzen
   preferBrowser: Browser-TTS bevorzugen
   usingBrowser: Verwendung der internen Text-zu-Speech-Engine des Browsers.
   unsupported: Ihr Browser unterstützt kein Text-to-Speech, versuchen Sie es mit einem anderen.
@@ -98,6 +105,7 @@ code:
   minimize: Darstellung minimieren
   maximize: Darstellung maximieren
   terminal: Terminal
+  sendTerminal: An das Terminal senden
   copy: in die Zwischenablage kopieren
   reset: Eingabe zurücksetzen
 
@@ -106,6 +114,7 @@ quiz:
   solution: zeige Lösung
   hint: Hinweis anzeigen
   selection: Auswahl
+  input: Antwort
   gap: Lücke
   dropZone: Ablagefeld
   empty: leer
@@ -135,6 +144,7 @@ sort:
 
 chart:
   default: Diagramm
+  table: Tabelle
   pie: Tortendiagramm
   bar: Balkendiagramm
   line: Liniendiagramm
@@ -161,6 +171,7 @@ chart:
 
 qr:
   code: QR-Code für Webseite
+  enlarge: QR-Code vergrößern
   err: Fehler beim Codieren in QR-Code
 
 chat:

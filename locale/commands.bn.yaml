@@ -18,6 +18,9 @@ base:
   oneResult: একটি ফলাফল
   noResult: কোন ফলাফল নেই
   toc: সূচী
+  skipNav: নেভিগেশন এড়িয়ে যান
+  closeDialog: ডায়ালগ বন্ধ করুন
+  zoom: বড় করুন
   slide: স্লাইড
   step: ধাপ
   slideNavigation: স্লাইড নেভিগেশন
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: প্লেব্যাকের গতি সামঞ্জস্য করুন
+  rateLabel: গতি
   pitch: স্বরের উচ্চতা সামঞ্জস্য করুন
+  pitchLabel: স্বর
   hide: ভিডিও ও অবতার মন্তব্য লুকান
 
 no_translation: এখনও অনুবাদ নেই
@@ -82,6 +87,8 @@ conf:
 tts:
   position: প্লেব্যাকের অবস্থান
   of: /
+  pause: বিরতি
+  resume: চালিয়ে যান
   preferBrowser: ব্রাউজার TTS পছন্দ করুন
   usingBrowser: ব্রাউজারের অভ্যন্তরীণ টেক্সট-টু-স্পিচ ইঞ্জিন ব্যবহার করা হচ্ছে।
   unsupported: আপনার ব্রাউজার টেক্সট-টু-স্পিচ সমর্থন করে না, অন্য কোন ব্রাউজার চেষ্টা করুন।
@@ -98,6 +105,7 @@ code:
   minimize: দৃশ্য ছোট করুন
   maximize: দৃশ্য বড় করুন
   terminal: টার্মিনাল
+  sendTerminal: টার্মিনালে পাঠান
   copy: ক্লিপবোর্ডে কপি করুন
   reset: ইনপুট রিসেট করুন
 
@@ -106,6 +114,7 @@ quiz:
   solution: সমাধান প্রদর্শন করুন
   hint: ইঙ্গিত দেখান
   selection: নির্বাচন
+  input: উত্তর
   gap: শূন্যস্থান
   dropZone: ড্রপ জোন
   empty: খালি
@@ -135,6 +144,7 @@ sort:
 
 chart:
   default: চার্ট
+  table: টেবিল
   pie: পাই চার্ট
   bar: বার চার্ট
   line: লাইন চার্ট
@@ -161,6 +171,7 @@ chart:
 
 qr:
   code: ওয়েবসাইটের জন্য QR কোড
+  enlarge: QR কোড বড় করুন
   err: QR কোডে এনকোডিং সমস্যা হয়েছে
 
 chat:

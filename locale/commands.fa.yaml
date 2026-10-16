@@ -17,6 +17,9 @@ base:
   oneResult: یک نتیجه
   noResult: هیچ نتیجه ای
   toc: فهرست مطالب
+  skipNav: رد شدن از پیمایش
+  closeDialog: بستن کادر محاوره
+  zoom: بزرگ‌نمایی
   slide: اسلاید
   step: مرحله
   slideNavigation: پیمایش اسلایدها
@@ -30,7 +33,9 @@ base:
 
 comment:
   rate: تنظیم سرعت پخش
+  rateLabel: سرعت
   pitch: تنظیم زیر و بمی صدا
+  pitchLabel: زیر و بمی
   hide: پنهان کردن توضیحات ویدیو و آواتار
 
 no_translation: هنوز ترجمه‌ای وجود ندارد
@@ -81,6 +86,8 @@ conf:
 tts:
   position: موقعیت پخش
   of: از
+  pause: مکث
+  resume: ادامه
   preferBrowser: ترجیح تبدیل متن به گفتار مرورگر
   usingBrowser: استفاده از موتور داخلی تبدیل متن به گفتار مرورگر.
   unsupported: مرورگر شما از تبدیل متن به گفتار پشتیبانی نمی‌کند، مرورگر دیگری را امتحان کنید.
@@ -97,6 +104,7 @@ code:
   minimize: کوچک کردن پنجره
   maximize: بزرگ کردن پنجره
   terminal: پایانه
+  sendTerminal: ارسال به پایانه
   copy: کپی در کلیپ بورد
   reset: بازنشانی ورودی
 
@@ -105,6 +113,7 @@ quiz:
   solution: نمایش راه‌حل
   hint: نمایش راهنمایی
   selection: انتخاب
+  input: پاسخ
   gap: جای خالی
   dropZone: ناحیهٔ رهاسازی
   empty: خالی
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: نمودار
+  table: جدول
   pie: نمودار دایره‌ای
   bar: نمودار میله‌ای
   line: نمودار خطی
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: کد QR برای وب سایت
+  enlarge: بزرگ‌نمایی کد QR
   err: خطا هنگام رمزگذاری روی کد QR
 
 chat:

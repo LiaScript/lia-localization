@@ -18,6 +18,9 @@ base:
   oneResult: viens rezultāts
   noResult: nav rezultātu
   toc: Satura rādītājs
+  skipNav: Izlaist navigāciju
+  closeDialog: Aizvērt dialoglodziņu
+  zoom: Palielināt
   slide: Slaids
   step: Solis
   slideNavigation: Slaidu navigācija
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Pielāgot atskaņošanas ātrumu
+  rateLabel: Ātrums
   pitch: Pielāgot balss augstumu
+  pitchLabel: Augstums
   hide: Paslēpt video un avatāra komentārus
 
 no_translation: tulkojums vēl nav pieejams
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Atskaņošanas pozīcija
   of: 'no'
+  pause: Pauzēt
+  resume: Turpināt
   preferBrowser: Dot priekšroku pārlūkprogrammas runas sintēzei
   usingBrowser: Tiek izmantota pārlūkprogrammā iebūvētā runas sintēze.
   unsupported: Tava pārlūkprogramma neatbalsta runas sintēzi. Izmēģini citu.
@@ -99,6 +106,7 @@ code:
   minimize: minimizēt skatu
   maximize: maksimizēt skatu
   terminal: terminālis
+  sendTerminal: Sūtīt uz termināli
   copy: kopēt starpliktuvē
   reset: atiestatīt ievadi
 
@@ -107,6 +115,7 @@ quiz:
   solution: rādīt risinājumu
   hint: rādīt norādi
   selection: izvēle
+  input: Atbilde
   gap: Aizpildāmā vieta
   dropZone: Nomešanas zona
   empty: tukša
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Diagramma
+  table: Tabula
   pie: Sektoru diagramma
   bar: Stabiņu diagramma
   line: Līniju diagramma
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: Vietnes QR kods
+  enlarge: Palielināt QR kodu
   err: Kļūda, veidojot QR kodu
 
 chat:

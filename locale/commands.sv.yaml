@@ -18,6 +18,9 @@ base:
   oneResult: ett resultat
   noResult: inga resultat
   toc: Innehållsförteckning
+  skipNav: Hoppa över navigeringen
+  closeDialog: Stäng dialogrutan
+  zoom: Förstora
   slide: Bild
   step: Steg
   slideNavigation: Bildnavigering
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Justera uppspelningshastighet
+  rateLabel: Tempo
   pitch: Justera tonhöjd
+  pitchLabel: Tonhöjd
   hide: Dölj video- och avatarkommentarer
 
 no_translation: ingen översättning ännu
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Uppspelningsposition
   of: av
+  pause: Pausa
+  resume: Fortsätt
   preferBrowser: Föredra webbläsarens talsyntes
   usingBrowser: Webbläsarens inbyggda talsyntes används.
   unsupported: Din webbläsare stöder inte talsyntes. Prova en annan.
@@ -99,6 +106,7 @@ code:
   minimize: minimera vyn
   maximize: maximera vyn
   terminal: terminal
+  sendTerminal: Skicka till terminalen
   copy: kopiera till urklipp
   reset: återställ inmatning
 
@@ -107,6 +115,7 @@ quiz:
   solution: visa lösning
   hint: visa ledtråd
   selection: val
+  input: Svar
   gap: Lucka
   dropZone: Släppyta
   empty: tom
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Diagram
+  table: Tabell
   pie: Cirkeldiagram
   bar: Stapeldiagram
   line: Linjediagram
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: QR-kod för webbplatsen
+  enlarge: Förstora QR-koden
   err: Fel när QR-koden skapades
 
 chat:

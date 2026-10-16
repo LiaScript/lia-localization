@@ -18,6 +18,9 @@ base:
   oneResult: jeden výsledok
   noResult: žiadne výsledky
   toc: Obsah
+  skipNav: Preskočiť navigáciu
+  closeDialog: Zavrieť dialóg
+  zoom: Zväčšiť
   slide: Snímka
   step: Krok
   slideNavigation: Navigácia snímok
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Upraviť rýchlosť prehrávania
+  rateLabel: Rýchlosť
   pitch: Upraviť výšku hlasu
+  pitchLabel: Výška
   hide: Skryť komentáre videa a avatara
 
 no_translation: preklad zatiaľ nie je k dispozícii
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Pozícia prehrávania
   of: z
+  pause: Pozastaviť
+  resume: Pokračovať
   preferBrowser: Uprednostniť syntézu reči prehliadača
   usingBrowser: Používa sa vstavaná syntéza reči prehliadača.
   unsupported: Tvoj prehliadač nepodporuje syntézu reči. Skús iný.
@@ -99,6 +106,7 @@ code:
   minimize: minimalizovať zobrazenie
   maximize: maximalizovať zobrazenie
   terminal: terminál
+  sendTerminal: Odoslať do terminálu
   copy: kopírovať do schránky
   reset: obnoviť vstup
 
@@ -107,6 +115,7 @@ quiz:
   solution: zobraziť riešenie
   hint: zobraziť nápovedu
   selection: výber
+  input: Odpoveď
   gap: Medzera
   dropZone: Cieľové pole
   empty: prázdne
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Graf
+  table: Tabuľka
   pie: Koláčový graf
   bar: Stĺpcový graf
   line: Čiarový graf
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: QR kód webovej stránky
+  enlarge: Zväčšiť QR kód
   err: Chyba pri vytváraní QR kódu
 
 chat:

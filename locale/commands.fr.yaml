@@ -17,6 +17,9 @@ base:
   oneResult: un résultat
   noResult: aucun résultat
   toc: Table des matières
+  skipNav: Passer la navigation
+  closeDialog: Fermer la boîte de dialogue
+  zoom: Agrandir
   slide: Diapositive
   step: Étape
   slideNavigation: Navigation entre les diapositives
@@ -30,7 +33,9 @@ base:
 
 comment:
   rate: Ajuster la vitesse de lecture
+  rateLabel: Vitesse
   pitch: Ajuster la hauteur du son
+  pitchLabel: Hauteur
   hide: Masquer les commentaires vidéo et avatar
 
 no_translation: traductions non disponibles
@@ -81,6 +86,8 @@ conf:
 tts:
   position: Position de lecture
   of: sur
+  pause: Pause
+  resume: Reprendre
   preferBrowser: Préférer la synthèse vocale du navigateur
   usingBrowser: Utilisation du moteur de synthèse vocale intégré du navigateur.
   unsupported: Votre navigateur ne prend pas en charge la synthèse vocale, essayez-en un autre.
@@ -97,6 +104,7 @@ code:
   minimize: Réduire l'affichage
   maximize: Maximiser l'affichage
   terminal: Terminal
+  sendTerminal: Envoyer au terminal
   copy: Copier dans le presse-papiers
   reset: réinitialiser la saisie
 
@@ -105,6 +113,7 @@ quiz:
   solution: Afficher la solution
   hint: Afficher l'indice
   selection: Sélection
+  input: Réponse
   gap: Trou
   dropZone: Zone de dépôt
   empty: vide
@@ -132,6 +141,7 @@ sort:
 
 chart:
   default: Graphique
+  table: Tableau
   pie: Diagramme en secteurs
   bar: Diagramme en bâtons
   line: Graphique linéaire
@@ -158,6 +168,7 @@ chart:
 
 qr:
   code: Code QR pour site web
+  enlarge: Agrandir le code QR
   err: Erreur lors de l'encodage en code QR
 
 chat:

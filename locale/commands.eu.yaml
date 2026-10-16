@@ -18,6 +18,9 @@ base:
   oneResult: emaitza bat
   noResult: emaitzarik ez
   toc: Aurkibidea
+  skipNav: Saltatu nabigazioa
+  closeDialog: Itxi elkarrizketa-koadroa
+  zoom: Handitu
   slide: Diapositiba
   step: Urratsa
   slideNavigation: Diapositiben nabigazioa
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Doitu erreprodukzio-abiadura
+  rateLabel: Abiadura
   pitch: Doitu ahotsaren tonua
+  pitchLabel: Tonua
   hide: Ezkutatu bideo- eta avatar-iruzkinak
 
 no_translation: oraindik ez dago itzulpenik
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Erreprodukzio-posizioa
   of: /
+  pause: Pausatu
+  resume: Jarraitu
   preferBrowser: Lehenetsi nabigatzailearen hizketa-sintesia
   usingBrowser: Nabigatzailearen hizketa-sintesi integratua erabiltzen ari da.
   unsupported: Zure nabigatzaileak ez du hizketa-sintesia onartzen. Probatu beste bat.
@@ -99,6 +106,7 @@ code:
   minimize: minimizatu ikuspegia
   maximize: maximizatu ikuspegia
   terminal: terminala
+  sendTerminal: Bidali terminalera
   copy: kopiatu arbelean
   reset: berrezarri sarrera
 
@@ -107,6 +115,7 @@ quiz:
   solution: erakutsi ebazpena
   hint: erakutsi pista
   selection: hautaketa
+  input: Erantzuna
   gap: Hutsunea
   dropZone: Jaregite-eremua
   empty: hutsik
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Diagrama
+  table: Taula
   pie: Sektore-diagrama
   bar: Barra-diagrama
   line: Lerro-diagrama
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: Webgunearen QR kodea
+  enlarge: Handitu QR kodea
   err: Errorea QR kodea sortzean
 
 chat:

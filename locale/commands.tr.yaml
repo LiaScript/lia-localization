@@ -18,6 +18,9 @@ base:
   oneResult: bir sonuç
   noResult: sonuç yok
   toc: İçindekiler
+  skipNav: Gezintiyi atla
+  closeDialog: İletişim kutusunu kapat
+  zoom: Büyüt
   slide: Slayt
   step: Adım
   slideNavigation: Slayt gezintisi
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Oynatma hızını ayarla
+  rateLabel: Hız
   pitch: Ses perdesini ayarla
+  pitchLabel: Perde
   hide: Video ve avatar yorumlarını gizle
 
 no_translation: henüz çeviri yok
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Oynatma konumu
   of: /
+  pause: Duraklat
+  resume: Devam et
   preferBrowser: Tarayıcının metin okuma özelliğini tercih et
   usingBrowser: Tarayıcının yerleşik metin okuma motoru kullanılıyor.
   unsupported: Tarayıcınız metin okumayı desteklemiyor. Başka bir tarayıcı deneyin.
@@ -99,6 +106,7 @@ code:
   minimize: görünümü küçült
   maximize: görünümü büyüt
   terminal: terminal
+  sendTerminal: Terminale gönder
   copy: panoya kopyala
   reset: girişi sıfırla
 
@@ -107,6 +115,7 @@ quiz:
   solution: çözümü göster
   hint: ipucunu göster
   selection: seçim
+  input: Yanıt
   gap: Boşluk
   dropZone: Bırakma alanı
   empty: boş
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Grafik
+  table: Tablo
   pie: Pasta grafiği
   bar: Çubuk grafiği
   line: Çizgi grafiği
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: Web sitesi için QR kodu
+  enlarge: QR kodunu büyüt
   err: QR kodu oluşturulurken hata oluştu
 
 chat:

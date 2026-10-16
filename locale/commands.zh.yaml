@@ -17,6 +17,9 @@ base:
   oneResult: 一个结果
   noResult: 没有结果
   toc: 目录
+  skipNav: 跳过导航
+  closeDialog: 关闭对话框
+  zoom: 放大
   slide: 幻灯片
   step: 步骤
   slideNavigation: 幻灯片导航
@@ -30,7 +33,9 @@ base:
 
 comment:
   rate: 调整播放速度
+  rateLabel: 速度
   pitch: 调整音高
+  pitchLabel: 音高
   hide: 隐藏视频和虚拟形象讲解
 
 no_translation: 尚未翻译
@@ -81,6 +86,8 @@ conf:
 tts:
   position: 播放位置
   of: /
+  pause: 暂停
+  resume: 继续
   preferBrowser: 优先使用浏览器的文本转语音
   usingBrowser: 使用浏览器的内部文本转语音引擎。
   unsupported: 您的浏览器不支持文本转语音，请换一个浏览器。
@@ -97,6 +104,7 @@ code:
   minimize: 最小化视图
   maximize: 最大化视图
   terminal: 终端
+  sendTerminal: 发送到终端
   copy: 复制到剪贴板
   reset: 重置输入
 
@@ -105,6 +113,7 @@ quiz:
   solution: 显示解答
   hint: 显示提示
   selection: 选择
+  input: 答案
   gap: 填空
   dropZone: 放置区
   empty: 空
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: 图表
+  table: 表格
   pie: 饼图
   bar: 柱状图
   line: 折线图
@@ -160,6 +170,7 @@ chart:
 
 qr:
   code: 网站二维码
+  enlarge: 放大二维码
   err: 编码为二维码时出错
 
 chat:

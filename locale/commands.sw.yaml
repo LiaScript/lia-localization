@@ -18,6 +18,9 @@ base:
   oneResult: tokeo moja
   noResult: hakuna matokeo
   toc: Yaliyomo
+  skipNav: Ruka urambazaji
+  closeDialog: Funga kidirisha
+  zoom: Kuza
   slide: Slaidi
   step: Hatua
   slideNavigation: Urambazaji wa slaidi
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Badilisha kasi ya kucheza
+  rateLabel: Kasi
   pitch: Badilisha kiwango cha sauti
+  pitchLabel: Kiwango
   hide: Ficha maoni ya video na avatar
 
 no_translation: hakuna tafsiri bado
@@ -82,6 +87,8 @@ conf:
 tts:
   position: Nafasi ya uchezaji
   of: kati ya
+  pause: Sitisha
+  resume: Endelea
   preferBrowser: Pendelea TTS ya kivinjari
   usingBrowser: Inatumia injini ya ndani ya kivinjari ya Maandishi-hadi-Hotuba.
   unsupported: Kivinjari chako hakiauni Maandishi-hadi-Hotuba, jaribu kingine.
@@ -98,6 +105,7 @@ code:
   minimize: punguza mtazamo
   maximize: ongeza mtazamo
   terminal: terminal
+  sendTerminal: Tuma kwenye terminal
   copy: nakili kwenye ubao wa kunakili
   reset: weka upya ingizo
 
@@ -106,6 +114,7 @@ quiz:
   solution: onyesha suluhisho
   hint: onyesha kidokezo
   selection: uteuzi
+  input: Jibu
   gap: Pengo
   dropZone: Eneo la kudondoshea
   empty: tupu
@@ -135,6 +144,7 @@ sort:
 
 chart:
   default: Chati
+  table: Jedwali
   pie: Chati ya pai
   bar: Chati ya pau
   line: Chati ya mstari
@@ -161,6 +171,7 @@ chart:
 
 qr:
   code: Msimbo wa QR wa tovuti
+  enlarge: Kuza msimbo wa QR
   err: Hitilafu wakati wa kusimba msimbo wa QR
 
 chat:

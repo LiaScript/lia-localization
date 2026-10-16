@@ -18,6 +18,9 @@ base:
   oneResult: ایک نتیجہ
   noResult: کوئی نتیجہ نہیں
   toc: فہرست مشمولات
+  skipNav: نیویگیشن چھوڑیں
+  closeDialog: ڈائیلاگ بند کریں
+  zoom: بڑا کریں
   slide: سلائیڈ
   step: مرحلہ
   slideNavigation: سلائیڈ نیویگیشن
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: پلے بیک کی رفتار ایڈجسٹ کریں
+  rateLabel: رفتار
   pitch: آواز کی پچ ایڈجسٹ کریں
+  pitchLabel: پچ
   hide: ویڈیو اور اوتار تبصرے چھپائیں
 
 no_translation: ابھی تک کوئی ترجمہ نہیں
@@ -82,6 +87,8 @@ conf:
 tts:
   position: پلے بیک کی پوزیشن
   of: /
+  pause: توقف
+  resume: جاری رکھیں
   preferBrowser: براؤزر TTS کو ترجیح دیں
   usingBrowser: براؤزر کے اندرونی ٹیکسٹ ٹو اسپیچ انجن کا استعمال ہو رہا ہے۔
   unsupported: آپ کا براؤزر ٹیکسٹ ٹو اسپیچ کی حمایت نہیں کرتا، کوئی دوسرا آزمائیں۔
@@ -98,6 +105,7 @@ code:
   minimize: منظر کو چھوٹا کریں
   maximize: منظر کو بڑا کریں
   terminal: ٹرمینل
+  sendTerminal: ٹرمینل کو بھیجیں
   copy: کلپ بورڈ پر کاپی کریں
   reset: ان پٹ ری سیٹ کریں
 
@@ -106,6 +114,7 @@ quiz:
   solution: حل دکھائیں
   hint: اشارہ دکھائیں
   selection: انتخاب
+  input: جواب
   gap: خالی جگہ
   dropZone: ڈراپ زون
   empty: خالی
@@ -135,6 +144,7 @@ sort:
 
 chart:
   default: چارٹ
+  table: جدول
   pie: پائی چارٹ
   bar: بار چارٹ
   line: لائن چارٹ
@@ -152,6 +162,7 @@ chart:
 
 qr:
   code: ویب سائٹ کے لیے QR کوڈ
+  enlarge: QR کوڈ بڑا کریں
   err: QR کوڈ میں انکوڈ کرتے وقت خرابی
 
 chat:

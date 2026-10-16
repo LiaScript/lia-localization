@@ -18,6 +18,9 @@ base:
   oneResult: egy találat
   noResult: nincs találat
   toc: Tartalomjegyzék
+  skipNav: Navigáció átugrása
+  closeDialog: Párbeszédablak bezárása
+  zoom: Nagyítás
   slide: Dia
   step: Lépés
   slideNavigation: Dianavigáció
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Lejátszási sebesség beállítása
+  rateLabel: Tempó
   pitch: Hangmagasság beállítása
+  pitchLabel: Magasság
   hide: Videós és avatar-megjegyzések elrejtése
 
 no_translation: még nincs fordítás
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Lejátszási pozíció
   of: /
+  pause: Szünet
+  resume: Folytatás
   preferBrowser: A böngésző beszédszintézisének előnyben részesítése
   usingBrowser: A böngésző beépített beszédszintetizátora van használatban.
   unsupported: A böngésződ nem támogatja a beszédszintézist. Próbálj ki egy másikat.
@@ -99,6 +106,7 @@ code:
   minimize: nézet kicsinyítése
   maximize: nézet nagyítása
   terminal: terminál
+  sendTerminal: Küldés a terminálba
   copy: másolás a vágólapra
   reset: bevitel visszaállítása
 
@@ -107,6 +115,7 @@ quiz:
   solution: megoldás megjelenítése
   hint: tipp megjelenítése
   selection: kiválasztás
+  input: Válasz
   gap: Kitöltendő hely
   dropZone: Célterület
   empty: üres
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Diagram
+  table: Táblázat
   pie: Kördiagram
   bar: Oszlopdiagram
   line: Vonaldiagram
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: A weboldal QR-kódja
+  enlarge: QR-kód nagyítása
   err: Hiba a QR-kód létrehozásakor
 
 chat:

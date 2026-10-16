@@ -18,6 +18,9 @@ base:
   oneResult: ét resultat
   noResult: ingen resultater
   toc: Indholdsfortegnelse
+  skipNav: Spring navigation over
+  closeDialog: Luk dialogboks
+  zoom: Forstør
   slide: Dias
   step: Trin
   slideNavigation: Diasnavigation
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Juster afspilningshastighed
+  rateLabel: Tempo
   pitch: Juster tonehøjde
+  pitchLabel: Tonehøjde
   hide: Skjul video- og avatarkommentarer
 
 no_translation: endnu ingen oversættelse
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Afspilningsposition
   of: af
+  pause: Pause
+  resume: Genoptag
   preferBrowser: Foretræk browserens talesyntese
   usingBrowser: Browserens indbyggede talesyntese bruges.
   unsupported: Din browser understøtter ikke talesyntese. Prøv en anden.
@@ -99,6 +106,7 @@ code:
   minimize: minimer visning
   maximize: maksimer visning
   terminal: terminal
+  sendTerminal: Send til terminal
   copy: kopiér til udklipsholder
   reset: nulstil input
 
@@ -107,6 +115,7 @@ quiz:
   solution: vis løsning
   hint: vis tip
   selection: valg
+  input: Svar
   gap: Hul
   dropZone: Slipfelt
   empty: tomt
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Diagram
+  table: Tabel
   pie: Cirkeldiagram
   bar: Søjlediagram
   line: Linjediagram
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: QR-kode til webstedet
+  enlarge: Forstør QR-kode
   err: Fejl ved oprettelse af QR-kode
 
 chat:

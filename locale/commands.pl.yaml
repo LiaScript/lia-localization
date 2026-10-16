@@ -18,6 +18,9 @@ base:
   oneResult: jeden wynik
   noResult: brak wyników
   toc: Spis treści
+  skipNav: Pomiń nawigację
+  closeDialog: Zamknij okno dialogowe
+  zoom: Powiększ
   slide: Slajd
   step: Krok
   slideNavigation: Nawigacja slajdów
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Dostosuj prędkość odtwarzania
+  rateLabel: Tempo
   pitch: Dostosuj wysokość głosu
+  pitchLabel: Wysokość
   hide: Ukryj komentarze wideo i awatara
 
 no_translation: brak tłumaczenia
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Pozycja odtwarzania
   of: z
+  pause: Wstrzymaj
+  resume: Wznów
   preferBrowser: Preferuj syntezę mowy przeglądarki
   usingBrowser: Używana jest wbudowana synteza mowy przeglądarki.
   unsupported: Twoja przeglądarka nie obsługuje syntezy mowy. Wypróbuj inną.
@@ -99,6 +106,7 @@ code:
   minimize: minimalizuj widok
   maximize: maksymalizuj widok
   terminal: terminal
+  sendTerminal: Wyślij do terminala
   copy: kopiuj do schowka
   reset: resetuj dane wejściowe
 
@@ -107,6 +115,7 @@ quiz:
   solution: pokaż rozwiązanie
   hint: pokaż wskazówkę
   selection: wybór
+  input: Odpowiedź
   gap: Luka
   dropZone: Pole upuszczania
   empty: puste
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Wykres
+  table: Tabela
   pie: Wykres kołowy
   bar: Wykres słupkowy
   line: Wykres liniowy
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: Kod QR strony internetowej
+  enlarge: Powiększ kod QR
   err: Błąd podczas tworzenia kodu QR
 
 chat:

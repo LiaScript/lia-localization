@@ -18,6 +18,9 @@ base:
   oneResult: አንድ ውጤት
   noResult: ምንም ውጤት የለም
   toc: ማውጫ
+  skipNav: ዳሰሳን ዝለል
+  closeDialog: የንግግር ሳጥን ዝጋ
+  zoom: አስፋ
   slide: ስላይድ
   step: ደረጃ
   slideNavigation: የስላይድ ዳሰሳ
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: የማጫወቻ ፍጥነት አስተካክል
+  rateLabel: ፍጥነት
   pitch: የድምጽ ከፍታ አስተካክል
+  pitchLabel: ከፍታ
   hide: የቪዲዮ እና የአቫታር አስተያየቶችን ደብቅ
 
 no_translation: እስካሁን ምንም ትርጉም የለም
@@ -82,6 +87,8 @@ conf:
 tts:
   position: የማጫወቻ ቦታ
   of: ከ
+  pause: ለአፍታ አቁም
+  resume: ቀጥል
   preferBrowser: የአሳሹን ጽሑፍ-ወደ-ንግግር ተመራጭ አድርግ
   usingBrowser: የአሳሹ ውስጣዊ ጽሑፍ-ወደ-ንግግር ሞተር ጥቅም ላይ እየዋለ ነው።
   unsupported: አሳሽዎ ጽሑፍ-ወደ-ንግግርን አይደግፍም፤ እባክዎ ሌላ አሳሽ ይሞክሩ።
@@ -98,6 +105,7 @@ code:
   minimize: እይታውን አሳንስ
   maximize: እይታውን አስፋ
   terminal: ተርሚናል
+  sendTerminal: ወደ ተርሚናል ላክ
   copy: ወደ ቅንጥብ ሰሌዳ ቅዳ
   reset: ግቤቱን ዳግም አስጀምር
 
@@ -106,6 +114,7 @@ quiz:
   solution: መፍትሔ አሳይ
   hint: ፍንጭ አሳይ
   selection: ምርጫ
+  input: መልስ
   gap: ክፍት ቦታ
   dropZone: ማስቀመጫ ቦታ
   empty: ባዶ
@@ -135,6 +144,7 @@ sort:
 
 chart:
   default: ገበታ
+  table: ሰንጠረዥ
   pie: የፓይ ገበታ
   bar: የአሞሌ ገበታ
   line: የመስመር ገበታ
@@ -161,6 +171,7 @@ chart:
 
 qr:
   code: QR ኮድ ለድረ ገጽ
+  enlarge: QR ኮድ አስፋ
   err: ወደ QR ኮድ በመቀየር ላይ ስህተት ተፈጥሯል
 
 chat:

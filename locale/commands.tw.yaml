@@ -17,6 +17,9 @@ base:
   oneResult: 一個結果
   noResult: 沒有結果
   toc: 目錄
+  skipNav: 跳過導覽
+  closeDialog: 關閉對話方塊
+  zoom: 放大
   slide: 投影片
   step: 步驟
   slideNavigation: 投影片導覽
@@ -30,7 +33,9 @@ base:
 
 comment:
   rate: 調整播放速度
+  rateLabel: 速度
   pitch: 調整音高
+  pitchLabel: 音高
   hide: 隱藏影片與虛擬形象評論
 
 no_translation: 尚未翻譯
@@ -81,6 +86,8 @@ conf:
 tts:
   position: 播放位置
   of: /
+  pause: 暫停
+  resume: 繼續
   preferBrowser: 優先使用瀏覽器 TTS
   usingBrowser: 正在使用瀏覽器內建的文字轉語音引擎。
   unsupported: 您的瀏覽器不支援文字轉語音，請換一個瀏覽器。
@@ -97,6 +104,7 @@ code:
   minimize: 最小化顯示
   maximize: 最大化顯示
   terminal: 終端機
+  sendTerminal: 傳送至終端機
   copy: 複製到剪貼簿
   reset: 重設輸入
 
@@ -105,6 +113,7 @@ quiz:
   solution: 顯示解答
   hint: 顯示提示
   selection: 選擇
+  input: 答案
   gap: 填空
   dropZone: 放置區
   empty: 空
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: 圖表
+  table: 表格
   pie: 圓餅圖
   bar: 長條圖
   line: 折線圖
@@ -160,6 +170,7 @@ chart:
 
 qr:
   code: 網站 QR 碼
+  enlarge: 放大 QR 碼
   err: 編碼為 QR 碼時出錯
 
 chat:

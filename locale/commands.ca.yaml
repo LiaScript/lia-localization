@@ -18,6 +18,9 @@ base:
   oneResult: un resultat
   noResult: cap resultat
   toc: Taula de continguts
+  skipNav: Salta la navegació
+  closeDialog: Tanca el diàleg
+  zoom: Amplia
   slide: Diapositiva
   step: Pas
   slideNavigation: Navegació per les diapositives
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Ajusta la velocitat de reproducció
+  rateLabel: Velocitat
   pitch: Ajusta el to de la veu
+  pitchLabel: To
   hide: Amaga els comentaris de vídeo i d'avatar
 
 no_translation: encara no hi ha cap traducció
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Posició de reproducció
   of: de
+  pause: Pausa
+  resume: Reprèn
   preferBrowser: Prefereix la síntesi de veu del navegador
   usingBrowser: S'utilitza el motor de síntesi de veu integrat del navegador.
   unsupported: El teu navegador no admet la síntesi de veu. Prova'n un altre.
@@ -99,6 +106,7 @@ code:
   minimize: minimitza la vista
   maximize: maximitza la vista
   terminal: terminal
+  sendTerminal: Envia al terminal
   copy: copia al porta-retalls
   reset: restableix l'entrada
 
@@ -107,6 +115,7 @@ quiz:
   solution: mostra la solució
   hint: mostra una pista
   selection: selecció
+  input: Resposta
   gap: Buit
   dropZone: Zona per deixar anar
   empty: buida
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Gràfic
+  table: Taula
   pie: Gràfic de sectors
   bar: Gràfic de barres
   line: Gràfic de línies
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: Codi QR del lloc web
+  enlarge: Amplia el codi QR
   err: Error en generar el codi QR
 
 chat:

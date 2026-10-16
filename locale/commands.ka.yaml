@@ -18,6 +18,9 @@ base:
   oneResult: ერთი შედეგი
   noResult: შედეგები არ არის
   toc: სარჩევი
+  skipNav: ნავიგაციის გამოტოვება
+  closeDialog: დიალოგის დახურვა
+  zoom: გადიდება
   slide: სლაიდი
   step: ნაბიჯი
   slideNavigation: სლაიდების ნავიგაცია
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: დაკვრის სიჩქარის რეგულირება
+  rateLabel: სიჩქარე
   pitch: ტონის რეგულირება
+  pitchLabel: ტონი
   hide: ვიდეოსა და ავატარის კომენტარების დამალვა
 
 no_translation: ჯერ არ არის თარგმანი
@@ -82,6 +87,8 @@ conf:
 tts:
   position: დაკვრის პოზიცია
   of: /
+  pause: პაუზა
+  resume: გაგრძელება
   preferBrowser: აირჩიეთ ბრაუზერის TTS
   usingBrowser: გამოიყენება ბრაუზერის ჩაშენებული მეტყველების სინთეზი.
   unsupported: თქვენი ბრაუზერი მხარს არ უჭერს მეტყველების სინთეზს, სცადეთ სხვა.
@@ -98,6 +105,7 @@ code:
   minimize: მინიმიზაცია
   maximize: მაქსიმიზაცია
   terminal: ტერმინალი
+  sendTerminal: ტერმინალში გაგზავნა
   copy: ბუფერში კოპირება
   reset: შეყვანის გადაყენება
 
@@ -106,6 +114,7 @@ quiz:
   solution: ამოხსნის ჩვენება
   hint: მინიშნების ჩვენება
   selection: არჩევა
+  input: პასუხი
   gap: გამოტოვებული ადგილი
   dropZone: ჩასაგდები არე
   empty: ცარიელი
@@ -135,6 +144,7 @@ sort:
 
 chart:
   default: დიაგრამა
+  table: ცხრილი
   pie: წრიული დიაგრამა
   bar: სვეტოვანი დიაგრამა
   line: ხაზოვანი დიაგრამა
@@ -152,6 +162,7 @@ chart:
 
 qr:
   code: ვებგვერდისთვის QR კოდი
+  enlarge: QR კოდის გადიდება
   err: შეცდომა QR კოდში კოდირებისას
 
 chat:

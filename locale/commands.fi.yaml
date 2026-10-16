@@ -18,6 +18,9 @@ base:
   oneResult: yksi tulos
   noResult: ei tuloksia
   toc: Sisällysluettelo
+  skipNav: Ohita navigointi
+  closeDialog: Sulje valintaikkuna
+  zoom: Suurenna
   slide: Dia
   step: Vaihe
   slideNavigation: Dianavigointi
@@ -31,7 +34,9 @@ base:
 
 comment:
   rate: Säädä toistonopeutta
+  rateLabel: Nopeus
   pitch: Säädä äänenkorkeutta
+  pitchLabel: Korkeus
   hide: Piilota video- ja avatarikommentit
 
 no_translation: käännöstä ei vielä ole
@@ -83,6 +88,8 @@ conf:
 tts:
   position: Toistokohta
   of: /
+  pause: Tauko
+  resume: Jatka
   preferBrowser: Suosi selaimen puhesynteesiä
   usingBrowser: Käytetään selaimen sisäänrakennettua puhesynteesiä.
   unsupported: Selaimesi ei tue puhesynteesiä. Kokeile toista selainta.
@@ -99,6 +106,7 @@ code:
   minimize: pienennä näkymä
   maximize: suurenna näkymä
   terminal: pääte
+  sendTerminal: Lähetä päätteeseen
   copy: kopioi leikepöydälle
   reset: palauta syöte
 
@@ -107,6 +115,7 @@ quiz:
   solution: näytä ratkaisu
   hint: näytä vihje
   selection: valinta
+  input: Vastaus
   gap: Aukko
   dropZone: Pudotusalue
   empty: tyhjä
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Kaavio
+  table: Taulukko
   pie: Ympyräkaavio
   bar: Pylväskaavio
   line: Viivakaavio
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: Verkkosivuston QR-koodi
+  enlarge: Suurenna QR-koodi
   err: Virhe QR-koodin luonnissa
 
 chat:

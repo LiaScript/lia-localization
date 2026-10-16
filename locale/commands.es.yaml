@@ -17,6 +17,9 @@ base:
   oneResult: un resultado
   noResult: No hay resultados
   toc: índice
+  skipNav: Saltar navegación
+  closeDialog: Cerrar diálogo
+  zoom: Ampliar
   slide: Diapositiva
   step: Paso
   slideNavigation: Navegación de diapositivas
@@ -30,7 +33,9 @@ base:
 
 comment:
   rate: ajustar velocidad de reproducción
+  rateLabel: Velocidad
   pitch: ajustar tono
+  pitchLabel: Tono
   hide: Ocultar los comentarios de video y avatar
 
 no_translation: aún sin traducción
@@ -81,6 +86,8 @@ conf:
 tts:
   position: Posición de reproducción
   of: de
+  pause: Pausar
+  resume: Reanudar
   preferBrowser: Preferir TTS del navegador
   usingBrowser: Usando el motor interno de conversión de texto a voz del navegador.
   unsupported: Tu navegador no es compatible con la conversión de texto a voz, prueba con otro.
@@ -97,6 +104,7 @@ code:
   minimize: minimizar vista
   maximize: maximizar vista
   terminal: terminal
+  sendTerminal: Enviar al terminal
   copy: copiar al portapapeles
   reset: restablecer entrada
 
@@ -105,6 +113,7 @@ quiz:
   solution: mostrar solución
   hint: mostrar pista
   selection: selección
+  input: Respuesta
   gap: Hueco
   dropZone: Zona de destino
   empty: vacía
@@ -134,6 +143,7 @@ sort:
 
 chart:
   default: Gráfico
+  table: Tabla
   pie: Gráfico circular
   bar: Gráfico de barras
   line: Gráfico de líneas
@@ -151,6 +161,7 @@ chart:
 
 qr:
   code: Código QR para sitio web
+  enlarge: Ampliar código QR
   err: Error al codificar en código QR
 
 chat:
