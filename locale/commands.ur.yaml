@@ -107,6 +107,7 @@ code:
   terminal: ٹرمینل
   sendTerminal: ٹرمینل کو بھیجیں
   copy: کلپ بورڈ پر کاپی کریں
+  copied: کلپ بورڈ پر کاپی ہو گیا
   reset: ان پٹ ری سیٹ کریں
 
 quiz:

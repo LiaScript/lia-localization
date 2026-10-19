@@ -106,6 +106,7 @@ code:
   terminal: terminal
   sendTerminal: Naar terminal sturen
   copy: kopiëren naar klembord
+  copied: gekopieerd naar klembord
   reset: invoer herstellen
 
 quiz:

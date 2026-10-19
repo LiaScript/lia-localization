@@ -108,6 +108,7 @@ code:
   terminal: terminal
   sendTerminal: Send til terminal
   copy: kopiér til udklipsholder
+  copied: kopieret til udklipsholder
   reset: nulstil input
 
 quiz:

@@ -108,6 +108,7 @@ code:
   terminal: terminala
   sendTerminal: Bidali terminalera
   copy: kopiatu arbelean
+  copied: arbelean kopiatuta
   reset: berrezarri sarrera
 
 quiz:

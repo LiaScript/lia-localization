@@ -107,6 +107,7 @@ code:
   terminal: Terminal
   sendTerminal: An das Terminal senden
   copy: in die Zwischenablage kopieren
+  copied: in die Zwischenablage kopiert
   reset: Eingabe zurücksetzen
 
 quiz:

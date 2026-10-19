@@ -108,6 +108,7 @@ code:
   terminal: terminal
   sendTerminal: Terminale gönder
   copy: panoya kopyala
+  copied: panoya kopyalandı
   reset: girişi sıfırla
 
 quiz:

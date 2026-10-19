@@ -108,6 +108,7 @@ code:
   terminal: pääte
   sendTerminal: Lähetä päätteeseen
   copy: kopioi leikepöydälle
+  copied: kopioitu leikepöydälle
   reset: palauta syöte
 
 quiz:

@@ -106,6 +106,7 @@ code:
   terminal: پایانه
   sendTerminal: ارسال به پایانه
   copy: کپی در کلیپ بورد
+  copied: در کلیپ بورد کپی شد
   reset: بازنشانی ورودی
 
 quiz:

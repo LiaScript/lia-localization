@@ -108,6 +108,7 @@ code:
   terminal: terminalas
   sendTerminal: Siųsti į terminalą
   copy: kopijuoti į iškarpinę
+  copied: nukopijuota į iškarpinę
   reset: atkurti pradinę įvestį
 
 quiz:

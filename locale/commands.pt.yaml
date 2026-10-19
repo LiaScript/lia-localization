@@ -105,6 +105,7 @@ code:
   terminal: terminal
   sendTerminal: Enviar ao terminal
   copy: copiar para a área de transferência
+  copied: copiado para a área de transferência
   reset: redefinir entrada
 
 quiz:

@@ -108,6 +108,7 @@ code:
   terminal: terminal
   sendTerminal: Wyślij do terminala
   copy: kopiuj do schowka
+  copied: skopiowano do schowka
   reset: resetuj dane wejściowe
 
 quiz:

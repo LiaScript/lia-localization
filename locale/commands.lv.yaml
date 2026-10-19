@@ -108,6 +108,7 @@ code:
   terminal: terminālis
   sendTerminal: Sūtīt uz termināli
   copy: kopēt starpliktuvē
+  copied: nokopēts starpliktuvē
   reset: atiestatīt ievadi
 
 quiz:

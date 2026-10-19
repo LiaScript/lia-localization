@@ -108,6 +108,7 @@ code:
   terminal: terminál
   sendTerminal: Odeslat do terminálu
   copy: zkopírovat do schránky
+  copied: zkopírováno do schránky
   reset: obnovit vstup
 
 quiz:

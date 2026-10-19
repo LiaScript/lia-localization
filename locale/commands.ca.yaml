@@ -108,6 +108,7 @@ code:
   terminal: terminal
   sendTerminal: Envia al terminal
   copy: copia al porta-retalls
+  copied: copiat al porta-retalls
   reset: restableix l'entrada
 
 quiz:

@@ -106,6 +106,7 @@ code:
   terminal: Terminal
   sendTerminal: Envoyer au terminal
   copy: Copier dans le presse-papiers
+  copied: Copié dans le presse-papiers
   reset: réinitialiser la saisie
 
 quiz:

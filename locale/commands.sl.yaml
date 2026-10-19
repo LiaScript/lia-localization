@@ -108,6 +108,7 @@ code:
   terminal: terminal
   sendTerminal: Pošlji v terminal
   copy: kopiraj v odložišče
+  copied: kopirano v odložišče
   reset: ponastavi vnos
 
 quiz:

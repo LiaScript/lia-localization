@@ -108,6 +108,7 @@ code:
   terminal: terminál
   sendTerminal: Küldés a terminálba
   copy: másolás a vágólapra
+  copied: vágólapra másolva
   reset: bevitel visszaállítása
 
 quiz:

@@ -107,6 +107,7 @@ code:
   terminal: ਟਰਮੀਨਲ
   sendTerminal: ਟਰਮੀਨਲ ਨੂੰ ਭੇਜੋ
   copy: ਕਲਿੱਪਬੋਰਡ 'ਤੇ ਕਾਪੀ
+  copied: ਕਲਿੱਪਬੋਰਡ 'ਤੇ ਕਾਪੀ ਹੋ ਗਿਆ
   reset: ਇਨਪੁਟ ਰੀਸੈੱਟ ਕਰੋ
 
 quiz:

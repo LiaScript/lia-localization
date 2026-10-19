@@ -106,6 +106,7 @@ code:
   terminal: 終端機
   sendTerminal: 傳送至終端機
   copy: 複製到剪貼簿
+  copied: 已複製到剪貼簿
   reset: 重設輸入
 
 quiz:

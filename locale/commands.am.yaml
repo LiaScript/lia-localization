@@ -107,6 +107,7 @@ code:
   terminal: ተርሚናል
   sendTerminal: ወደ ተርሚናል ላክ
   copy: ወደ ቅንጥብ ሰሌዳ ቅዳ
+  copied: ወደ ቅንጥብ ሰሌዳ ተቀድቷል
   reset: ግቤቱን ዳግም አስጀምር
 
 quiz:

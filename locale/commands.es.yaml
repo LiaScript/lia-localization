@@ -106,6 +106,7 @@ code:
   terminal: terminal
   sendTerminal: Enviar al terminal
   copy: copiar al portapapeles
+  copied: copiado al portapapeles
   reset: restablecer entrada
 
 quiz:

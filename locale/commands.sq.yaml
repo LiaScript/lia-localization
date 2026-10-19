@@ -108,6 +108,7 @@ code:
   terminal: terminal
   sendTerminal: Dërgo në terminal
   copy: kopjo në kujtesën e përkohshme
+  copied: u kopjua në kujtesën e përkohshme
   reset: rivendos hyrjen
 
 quiz:

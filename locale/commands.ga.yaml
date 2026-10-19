@@ -108,6 +108,7 @@ code:
   terminal: teirminéal
   sendTerminal: Seol chuig an teirminéal
   copy: cóipeáil chuig an ngearrthaisce
+  copied: cóipeáilte chuig an ngearrthaisce
   reset: athshocraigh an t-ionchur
 
 quiz:

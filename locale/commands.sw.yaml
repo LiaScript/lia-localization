@@ -107,6 +107,7 @@ code:
   terminal: terminal
   sendTerminal: Tuma kwenye terminal
   copy: nakili kwenye ubao wa kunakili
+  copied: imenakiliwa kwenye ubao wa kunakili
   reset: weka upya ingizo
 
 quiz:

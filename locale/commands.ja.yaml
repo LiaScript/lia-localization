@@ -106,6 +106,7 @@ code:
   terminal: ターミナル
   sendTerminal: ターミナルに送信
   copy: クリップボードにコピー
+  copied: クリップボードにコピーしました
   reset: 入力をリセット
 
 quiz:

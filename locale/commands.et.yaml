@@ -107,6 +107,7 @@ code:
   terminal: terminal
   sendTerminal: Saada terminali
   copy: kopeeri lõikelauale
+  copied: kopeeritud lõikelauale
   reset: lähtesta sisend
 
 quiz:

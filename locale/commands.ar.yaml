@@ -106,6 +106,7 @@ code:
   terminal: طرفية
   sendTerminal: إرسال إلى الطرفية
   copy: نسخ إلى الحافظة
+  copied: تم النسخ إلى الحافظة
   reset: إعادة تعيين الإدخال
 
 quiz:

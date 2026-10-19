@@ -108,6 +108,7 @@ code:
   terminal: terminal
   sendTerminal: Trimite la terminal
   copy: copiază în clipboard
+  copied: copiat în clipboard
   reset: resetează valoarea introdusă
 
 quiz:

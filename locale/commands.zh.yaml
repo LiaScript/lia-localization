@@ -106,6 +106,7 @@ code:
   terminal: 终端
   sendTerminal: 发送到终端
   copy: 复制到剪贴板
+  copied: 已复制到剪贴板
   reset: 重置输入
 
 quiz:

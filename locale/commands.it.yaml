@@ -107,6 +107,7 @@ code:
   terminal: terminale
   sendTerminal: Invia al terminale
   copy: copia negli appunti
+  copied: copiato negli appunti
   reset: ripristina l'input
 
 quiz:

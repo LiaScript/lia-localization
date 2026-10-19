@@ -108,6 +108,7 @@ code:
   terminal: terminal
   sendTerminal: Send til terminalen
   copy: kopier til utklippstavlen
+  copied: kopiert til utklippstavlen
   reset: tilbakestill inndata
 
 quiz:
