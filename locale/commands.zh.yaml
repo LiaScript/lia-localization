@@ -19,6 +19,7 @@ base:
   toc: 目录
   skipNav: 跳过导航
   closeDialog: 关闭对话框
+  newTab: 在新标签页中打开
   zoom: 放大
   slide: 幻灯片
   step: 步骤

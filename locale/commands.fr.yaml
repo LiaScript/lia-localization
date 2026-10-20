@@ -19,6 +19,7 @@ base:
   toc: Table des matières
   skipNav: Passer la navigation
   closeDialog: Fermer la boîte de dialogue
+  newTab: s'ouvre dans un nouvel onglet
   zoom: Agrandir
   slide: Diapositive
   step: Étape

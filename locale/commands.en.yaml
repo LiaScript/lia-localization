@@ -20,6 +20,7 @@ base:
   toc: Table of Contents
   skipNav: Skip navigation
   closeDialog: Close dialog
+  newTab: opens in a new tab
   zoom: Enlarge
   slide: Slide
   step: Step

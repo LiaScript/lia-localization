@@ -20,6 +20,7 @@ base:
   toc: 목차
   skipNav: 탐색 건너뛰기
   closeDialog: 대화 상자 닫기
+  newTab: 새 탭에서 열림
   zoom: 확대
   slide: 슬라이드
   step: 단계

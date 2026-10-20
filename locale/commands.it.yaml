@@ -20,6 +20,7 @@ base:
   toc: indice
   skipNav: Salta la navigazione
   closeDialog: Chiudi la finestra di dialogo
+  newTab: si apre in una nuova scheda
   zoom: Ingrandisci
   slide: Diapositiva
   step: Passo

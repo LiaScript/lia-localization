@@ -18,6 +18,7 @@ base:
   toc: Sumário
   skipNav: Pular navegação
   closeDialog: Fechar diálogo
+  newTab: abre em uma nova aba
   zoom: Ampliar
   slide: Slide
   step: Passo

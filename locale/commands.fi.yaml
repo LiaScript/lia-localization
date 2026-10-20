@@ -20,6 +20,7 @@ base:
   toc: Sisällysluettelo
   skipNav: Ohita navigointi
   closeDialog: Sulje valintaikkuna
+  newTab: avautuu uudelle välilehdelle
   zoom: Suurenna
   slide: Dia
   step: Vaihe

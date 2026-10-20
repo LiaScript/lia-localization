@@ -20,6 +20,7 @@ base:
   toc: Sisukord
   skipNav: Jäta navigeerimine vahele
   closeDialog: Sulge dialoog
+  newTab: avaneb uuel vahekaardil
   zoom: Suurenda
   slide: Slaid
   step: Samm

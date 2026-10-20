@@ -20,6 +20,7 @@ base:
   toc: Tartalomjegyzék
   skipNav: Navigáció átugrása
   closeDialog: Párbeszédablak bezárása
+  newTab: új lapon nyílik meg
   zoom: Nagyítás
   slide: Dia
   step: Lépés

@@ -19,6 +19,7 @@ base:
   toc: विषय सूची
   skipNav: नेविगेशन छोड़ें
   closeDialog: डायलॉग बंद करें
+  newTab: नए टैब में खुलता है
   zoom: बड़ा करें
   slide: स्लाइड
   step: चरण

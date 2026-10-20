@@ -19,6 +19,7 @@ base:
   toc: 目次
   skipNav: ナビゲーションをスキップ
   closeDialog: ダイアログを閉じる
+  newTab: 新しいタブで開きます
   zoom: 拡大
   slide: スライド
   step: ステップ

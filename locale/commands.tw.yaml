@@ -19,6 +19,7 @@ base:
   toc: 目錄
   skipNav: 跳過導覽
   closeDialog: 關閉對話方塊
+  newTab: 在新分頁中開啟
   zoom: 放大
   slide: 投影片
   step: 步驟

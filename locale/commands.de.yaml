@@ -19,6 +19,7 @@ base:
   toc: Inhaltsverzeichnis
   skipNav: Navigation überspringen
   closeDialog: Dialog schließen
+  newTab: öffnet in neuem Tab
   zoom: Vergrößern
   slide: Folie
   step: Schritt

@@ -20,6 +20,7 @@ base:
   toc: Obsah
   skipNav: Preskočiť navigáciu
   closeDialog: Zavrieť dialóg
+  newTab: otvorí sa na novej karte
   zoom: Zväčšiť
   slide: Snímka
   step: Krok
