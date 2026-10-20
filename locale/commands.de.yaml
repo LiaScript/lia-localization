@@ -75,6 +75,9 @@ info:
   date: 'Datum: '
   email: 'E-Mail: '
   version: 'Version: '
+  offline: Medien für offline herunterladen
+  offlineFailed: fehlgeschlagen
+  offlineStatus: Medien offline
 
 conf:
   information: Informationen
