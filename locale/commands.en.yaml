@@ -38,6 +38,7 @@ comment:
   pitch: Adjust pitch
   pitchLabel: Pitch
   hide: Hide video & avatar comments
+  sidebar: Comments
 
 no_translation: no translation yet
 translateWithGoogle: Translate with Google (experimental)

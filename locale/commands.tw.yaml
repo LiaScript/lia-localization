@@ -37,6 +37,7 @@ comment:
   pitch: 調整音高
   pitchLabel: 音高
   hide: 隱藏影片與虛擬形象評論
+  sidebar: 評論
 
 no_translation: 尚未翻譯
 translateWithGoogle: 使用 Google 翻譯（實驗性）

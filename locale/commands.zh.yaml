@@ -37,6 +37,7 @@ comment:
   pitch: 调整音高
   pitchLabel: 音高
   hide: 隐藏视频和虚拟形象讲解
+  sidebar: 讲解
 
 no_translation: 尚未翻译
 translateWithGoogle: 使用 Google 翻译（实验性）

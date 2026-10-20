@@ -37,6 +37,7 @@ comment:
   pitch: 音程を変更
   pitchLabel: 音程
   hide: 動画とアバターのコメントを非表示にする
+  sidebar: コメント
 
 no_translation: まだ翻訳されていません
 translateWithGoogle: Google翻訳で翻訳する（実験的）

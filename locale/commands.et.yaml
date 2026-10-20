@@ -38,6 +38,7 @@ comment:
   pitch: Muuda hääle kõrgust
   pitchLabel: Kõrgus
   hide: Peida video- ja avatarikommentaarid
+  sidebar: Kommentaarid
 
 no_translation: tõlge pole veel saadaval
 translateWithGoogle: Tõlgi Google'iga (eksperimentaalne)
