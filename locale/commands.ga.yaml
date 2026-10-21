@@ -61,6 +61,7 @@ mode:
   textbook: Téacsleabhar
   presentation: Cur i láthair
   slides: Sleamhnáin
+  navigation: Folaigh an nascleanúint
 
 fullscreen:
   enter: Téigh go lánscáileán
@@ -76,6 +77,9 @@ info:
   date: 'Dáta: '
   email: 'Ríomhphost: '
   version: 'Leagan: '
+  offline: Íoslódáil meáin le húsáid as líne
+  offlineFailed: theip
+  offlineStatus: Meáin as líne
 
 conf:
   information: Eolas

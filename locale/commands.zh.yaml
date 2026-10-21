@@ -3,6 +3,7 @@
 home: 首页
 
 base:
+  abc: 字
   next: 下一个
   prev: 上一个
   play: 播放
@@ -63,6 +64,7 @@ mode:
   textbook: 教科书
   presentation: 演示
   slides: 幻灯片
+  navigation: 隐藏导航
 
 sound:
   'on': 声音开启
@@ -74,6 +76,9 @@ info:
   date: 日期：
   email: 电子邮件：
   version: 版本：
+  offline: 下载媒体以供离线使用
+  offlineFailed: 失败
+  offlineStatus: 离线媒体
 
 conf:
   information: 信息

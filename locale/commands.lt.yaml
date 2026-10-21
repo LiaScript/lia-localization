@@ -61,6 +61,7 @@ mode:
   textbook: Vadovėlis
   presentation: Pristatymas
   slides: Skaidrės
+  navigation: Slėpti naršymą
 
 fullscreen:
   enter: Įjungti viso ekrano režimą
@@ -76,6 +77,9 @@ info:
   date: 'Data: '
   email: 'El. paštas: '
   version: 'Versija: '
+  offline: Atsisiųsti mediją naudoti neprisijungus
+  offlineFailed: nepavyko
+  offlineStatus: Medija neprisijungus
 
 conf:
   information: Informacija

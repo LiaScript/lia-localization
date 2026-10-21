@@ -3,6 +3,7 @@
 home: Vue d'ensemble
 
 base:
+  abc: Aa
   next: suivant
   prev: précédent
   play: Lecture
@@ -63,6 +64,7 @@ mode:
   textbook: Manuel
   presentation: Présentation
   slides: Diapositives
+  navigation: Masquer la navigation
 
 sound:
   'on': Haut-parleur activé
@@ -74,6 +76,9 @@ info:
   date: 'Date : '
   email: 'Email : '
   version: 'Version : '
+  offline: Télécharger les médias pour une utilisation hors ligne
+  offlineFailed: échoués
+  offlineStatus: Médias hors ligne
 
 conf:
   information: Informations

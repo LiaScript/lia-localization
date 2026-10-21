@@ -61,6 +61,7 @@ mode:
   textbook: Ders kitabı
   presentation: Sunum
   slides: Slaytlar
+  navigation: Gezinmeyi gizle
 
 fullscreen:
   enter: Tam ekrana geç
@@ -76,6 +77,9 @@ info:
   date: 'Tarih: '
   email: 'E-posta: '
   version: 'Sürüm: '
+  offline: Medyayı çevrimdışı kullanım için indir
+  offlineFailed: başarısız
+  offlineStatus: Çevrimdışı medya
 
 conf:
   information: Bilgi

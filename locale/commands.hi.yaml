@@ -3,6 +3,7 @@
 home: सिंहावलोकन
 
 base:
+  abc: अआ
   next: जारी रखें
   prev: वापस
   play: प्लेबैक
@@ -64,6 +65,7 @@ mode:
   textbook: पाठ्यपुस्तक
   presentation: प्रस्तुति
   slides: स्लाइड्स
+  navigation: नेविगेशन छिपाएँ
 
 sound:
   'on': स्पीकर ऑन
@@ -75,6 +77,9 @@ info:
   date: 'तारीख: '
   email: 'ईमेल: '
   version: 'संस्करण: '
+  offline: ऑफ़लाइन उपयोग के लिए मीडिया डाउनलोड करें
+  offlineFailed: विफल
+  offlineStatus: मीडिया ऑफ़लाइन
 
 conf:
   information: सूचना

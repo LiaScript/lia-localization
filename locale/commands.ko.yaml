@@ -64,6 +64,7 @@ mode:
   textbook: 교과서
   presentation: 프레젠테이션
   slides: 슬라이드
+  navigation: 탐색 숨기기
 
 sound:
   'on': 소리 켬
@@ -75,6 +76,9 @@ info:
   date: '날짜: '
   email: '이메일: '
   version: '버전: '
+  offline: 오프라인용 미디어 다운로드
+  offlineFailed: 실패
+  offlineStatus: 오프라인 미디어
 
 conf:
   information: 정보

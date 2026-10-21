@@ -61,6 +61,7 @@ mode:
   textbook: Učbenik
   presentation: Predstavitev
   slides: Prosojnice
+  navigation: Skrij navigacijo
 
 fullscreen:
   enter: Vklopi celozaslonski način
@@ -76,6 +77,9 @@ info:
   date: 'Datum: '
   email: 'E-pošta: '
   version: 'Različica: '
+  offline: Prenesi medije za uporabo brez povezave
+  offlineFailed: neuspešno
+  offlineStatus: Mediji brez povezave
 
 conf:
   information: Informacije

@@ -61,6 +61,7 @@ mode:
   textbook: Oppikirja
   presentation: Esitys
   slides: Diat
+  navigation: Piilota navigointi
 
 fullscreen:
   enter: Siirry koko näytön tilaan
@@ -76,6 +77,9 @@ info:
   date: 'Päivämäärä: '
   email: 'Sähköposti: '
   version: 'Versio: '
+  offline: Lataa media offline-käyttöön
+  offlineFailed: epäonnistui
+  offlineStatus: Media offline-tilassa
 
 conf:
   information: Tiedot

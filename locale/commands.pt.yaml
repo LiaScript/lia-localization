@@ -62,6 +62,7 @@ mode:
   textbook: Livro-texto
   presentation: Apresentação
   slides: Slides
+  navigation: Ocultar navegação
 
 sound:
   'on': Som ligado
@@ -73,6 +74,9 @@ info:
   date: 'Data: '
   email: 'Email: '
   version: 'Versão: '
+  offline: Baixar mídia para uso offline
+  offlineFailed: falharam
+  offlineStatus: Mídia offline
 
 conf:
   information: Informação

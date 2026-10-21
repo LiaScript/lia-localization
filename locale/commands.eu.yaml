@@ -61,6 +61,7 @@ mode:
   textbook: Testuliburua
   presentation: Aurkezpena
   slides: Diapositibak
+  navigation: Ezkutatu nabigazioa
 
 fullscreen:
   enter: Sartu pantaila osoko moduan
@@ -76,6 +77,9 @@ info:
   date: 'Data: '
   email: 'Posta elektronikoa: '
   version: 'Bertsioa: '
+  offline: Deskargatu multimedia lineaz kanpo erabiltzeko
+  offlineFailed: huts egin du
+  offlineStatus: Multimedia lineaz kanpo
 
 conf:
   information: Informazioa

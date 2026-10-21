@@ -61,6 +61,7 @@ mode:
   textbook: Manual
   presentation: Prezentare
   slides: Diapozitive
+  navigation: Ascunde navigarea
 
 fullscreen:
   enter: Intră în modul ecran complet
@@ -76,6 +77,9 @@ info:
   date: 'Data: '
   email: 'E-mail: '
   version: 'Versiune: '
+  offline: Descarcă media pentru utilizare offline
+  offlineFailed: eșuate
+  offlineStatus: Media offline
 
 conf:
   information: Informații

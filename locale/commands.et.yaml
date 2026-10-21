@@ -60,6 +60,7 @@ mode:
   textbook: Õpik
   presentation: Esitlus
   slides: Slaidid
+  navigation: Peida navigeerimine
 
 fullscreen:
   enter: Ava täisekraan
@@ -75,6 +76,9 @@ info:
   date: 'Kuupäev: '
   email: 'E-post: '
   version: 'Versioon: '
+  offline: Laadi meedia alla võrguühenduseta kasutamiseks
+  offlineFailed: ebaõnnestus
+  offlineStatus: Meedia võrguühenduseta
 
 conf:
   information: Teave

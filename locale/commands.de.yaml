@@ -3,6 +3,7 @@
 home: Übersicht
 
 base:
+  abc: Aa
   next: weiter
   prev: zurück
   play: Wiedergabe
@@ -64,6 +65,7 @@ mode:
   textbook: Lehrbuch
   presentation: Präsentation
   slides: Folien
+  navigation: Navigation ausblenden
 
 sound:
   'on': Sprecher an

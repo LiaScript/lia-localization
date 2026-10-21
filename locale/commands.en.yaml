@@ -60,6 +60,7 @@ mode:
   textbook: Textbook
   presentation: Presentation
   slides: Slides
+  navigation: Hide navigation
 
 fullscreen:
   enter: Enter Fullscreen

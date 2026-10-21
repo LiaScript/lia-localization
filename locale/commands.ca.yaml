@@ -61,6 +61,7 @@ mode:
   textbook: Llibre de text
   presentation: Presentació
   slides: Diapositives
+  navigation: Amaga la navegació
 
 fullscreen:
   enter: Entra a pantalla completa
@@ -76,6 +77,9 @@ info:
   date: 'Data: '
   email: 'Correu electrònic: '
   version: 'Versió: '
+  offline: Baixa els mitjans per a ús sense connexió
+  offlineFailed: fallits
+  offlineStatus: Mitjans sense connexió
 
 conf:
   information: Informació

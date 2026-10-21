@@ -61,6 +61,7 @@ mode:
   textbook: Lärobok
   presentation: Presentation
   slides: Bilder
+  navigation: Dölj navigering
 
 fullscreen:
   enter: Aktivera helskärm
@@ -76,6 +77,9 @@ info:
   date: 'Datum: '
   email: 'E-post: '
   version: 'Version: '
+  offline: Ladda ner media för offlineanvändning
+  offlineFailed: misslyckades
+  offlineStatus: Media offline
 
 conf:
   information: Information

@@ -61,6 +61,7 @@ mode:
   textbook: Mācību grāmata
   presentation: Prezentācija
   slides: Slaidi
+  navigation: Paslēpt navigāciju
 
 fullscreen:
   enter: Ieslēgt pilnekrāna režīmu
@@ -76,6 +77,9 @@ info:
   date: 'Datums: '
   email: 'E-pasts: '
   version: 'Versija: '
+  offline: Lejupielādēt multividi lietošanai bezsaistē
+  offlineFailed: neizdevās
+  offlineStatus: Multivide bezsaistē
 
 conf:
   information: Informācija

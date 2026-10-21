@@ -1,6 +1,7 @@
 home: нет войне
 
 base:
+  abc: Аа
   next: вперёд
   prev: назад
   play: воспроизвести
@@ -61,6 +62,7 @@ mode:
   textbook: учебник
   presentation: презентация
   slides: слайды
+  navigation: Скрыть навигацию
 
 sound:
   'on': звук включён
@@ -72,6 +74,9 @@ info:
   date: 'дата: '
   email: 'эл. почта: '
   version: 'версия: '
+  offline: Скачать медиафайлы для офлайн-использования
+  offlineFailed: не удалось
+  offlineStatus: Медиа офлайн
 
 conf:
   information: информация

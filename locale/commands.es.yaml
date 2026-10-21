@@ -3,6 +3,7 @@
 home: Inicio
 
 base:
+  abc: Aa
   next: siguiente
   prev: anterior
   play: reproducir
@@ -63,6 +64,7 @@ mode:
   textbook: Manual
   presentation: Presentación
   slides: Diapositivas
+  navigation: Ocultar navegación
 
 sound:
   'on': Sonido encendido
@@ -74,6 +76,9 @@ info:
   date: 'Fecha: '
   email: 'Correo electrónico: '
   version: 'Versión: '
+  offline: Descargar multimedia para usar sin conexión
+  offlineFailed: fallidos
+  offlineStatus: Multimedia sin conexión
 
 conf:
   information: información

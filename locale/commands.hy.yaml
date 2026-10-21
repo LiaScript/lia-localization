@@ -3,6 +3,7 @@
 home: Գլխավոր
 
 base:
+  abc: Աա
   next: հաջորդը
   prev: նախորդը
   play: նվագարկել
@@ -63,6 +64,7 @@ mode:
   textbook: դասագիրք
   presentation: ներկայացում
   slides: սլայդներ
+  navigation: Թաքցնել նավարկումը
 
 sound:
   'on': ձայնով
@@ -74,6 +76,9 @@ info:
   date: 'ամսաթիվ: '
   email: 'էլ. փոստ: '
   version: 'տարբերակ: '
+  offline: Ներբեռնել մեդիան անցանց օգտագործման համար
+  offlineFailed: ձախողվել է
+  offlineStatus: Մեդիան անցանց
 
 conf:
   information: տեղեկություններ

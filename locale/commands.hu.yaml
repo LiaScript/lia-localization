@@ -61,6 +61,7 @@ mode:
   textbook: Tankönyv
   presentation: Bemutató
   slides: Diák
+  navigation: Navigáció elrejtése
 
 fullscreen:
   enter: Teljes képernyő megnyitása
@@ -76,6 +77,9 @@ info:
   date: 'Dátum: '
   email: 'E-mail: '
   version: 'Verzió: '
+  offline: Médiafájlok letöltése offline használatra
+  offlineFailed: sikertelen
+  offlineStatus: Média offline
 
 conf:
   information: Információk

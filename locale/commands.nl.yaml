@@ -3,6 +3,7 @@
 home: Start
 
 base:
+  abc: Aa
   next: verder
   prev: terug
   play: afspelen
@@ -63,6 +64,7 @@ mode:
   textbook: Studieboek
   presentation: Presentatie
   slides: Dia's
+  navigation: Navigatie verbergen
 
 sound:
   'on': Geluid aan
@@ -74,6 +76,9 @@ info:
   date: 'Datum: '
   email: 'E-mail: '
   version: 'Versie: '
+  offline: Media downloaden voor offline gebruik
+  offlineFailed: mislukt
+  offlineStatus: Media offline
 
 conf:
   information: Informatie

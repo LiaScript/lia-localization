@@ -61,6 +61,7 @@ mode:
   textbook: Lærebok
   presentation: Presentasjon
   slides: Lysbilder
+  navigation: Skjul navigasjon
 
 fullscreen:
   enter: Åpne fullskjerm
@@ -76,6 +77,9 @@ info:
   date: 'Dato: '
   email: 'E-post: '
   version: 'Versjon: '
+  offline: Last ned medier for frakoblet bruk
+  offlineFailed: mislyktes
+  offlineStatus: Medier frakoblet
 
 conf:
   information: Informasjon

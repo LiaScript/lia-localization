@@ -3,6 +3,7 @@
 home: Головна
 
 base:
+  abc: Аа
   next: далі
   prev: назад
   play: відтворити
@@ -63,6 +64,7 @@ mode:
   textbook: підручник
   presentation: презентація
   slides: слайди
+  navigation: Сховати навігацію
 
 sound:
   'on': Звук увімкнено
@@ -74,6 +76,9 @@ info:
   date: 'дата: '
   email: 'електронна пошта: '
   version: 'версія: '
+  offline: Завантажити медіа для офлайн-використання
+  offlineFailed: не вдалося
+  offlineStatus: Медіа офлайн
 
 conf:
   information: інформація

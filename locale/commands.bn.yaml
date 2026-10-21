@@ -7,7 +7,7 @@ base:
   prev: পূর্ববর্তী
   play: চালান
   stop: থামান
-  abc: এবিসি
+  abc: অআ
   font: 'ফন্ট সাইজ: {{size}}'
   size1: ছোট
   size2: মাঝারি
@@ -64,6 +64,7 @@ mode:
   textbook: পাঠ্যবই
   presentation: প্রেজেন্টেশন
   slides: স্লাইড
+  navigation: নেভিগেশন লুকান
 
 sound:
   'on': শব্দ চালু
@@ -75,6 +76,9 @@ info:
   date: 'তারিখ: '
   email: 'ইমেইল: '
   version: 'সংস্করণ: '
+  offline: অফলাইনে ব্যবহারের জন্য মিডিয়া ডাউনলোড করুন
+  offlineFailed: ব্যর্থ
+  offlineStatus: মিডিয়া অফলাইন
 
 conf:
   information: তথ্য

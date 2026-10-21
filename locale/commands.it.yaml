@@ -64,6 +64,7 @@ mode:
   textbook: Manuale
   presentation: Presentazione
   slides: Diapositive
+  navigation: Nascondi navigazione
 
 sound:
   'on': Suono attivo
@@ -75,6 +76,9 @@ info:
   date: 'Data: '
   email: 'Email: '
   version: 'Versione: '
+  offline: 'Scarica i media per l''uso offline'
+  offlineFailed: non riusciti
+  offlineStatus: Media offline
 
 conf:
   information: Informazioni

@@ -64,6 +64,7 @@ mode:
   textbook: სახელმძღვანელო
   presentation: პრეზენტაცია
   slides: სლაიდები
+  navigation: ნავიგაციის დამალვა
 
 sound:
   'on': ხმა ჩართული
@@ -75,6 +76,9 @@ info:
   date: 'თარიღი: '
   email: 'ელფოსტა: '
   version: 'ვერსია: '
+  offline: მედიის ჩამოტვირთვა ხაზგარეშე გამოყენებისთვის
+  offlineFailed: ვერ მოხერხდა
+  offlineStatus: მედია ხაზგარეშე
 
 conf:
   information: ინფორმაცია

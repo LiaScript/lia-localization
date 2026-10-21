@@ -64,6 +64,7 @@ mode:
   textbook: መማሪያ መጽሐፍ
   presentation: አቀራረብ
   slides: ስላይዶች
+  navigation: ዳሰሳን ደብቅ
 
 sound:
   'on': ድምጽ አብራ
@@ -75,6 +76,9 @@ info:
   date: 'ቀን: '
   email: 'ኢሜል: '
   version: 'ስሪት: '
+  offline: ሚዲያን ከመስመር ውጭ ለመጠቀም አውርድ
+  offlineFailed: አልተሳካም
+  offlineStatus: ሚዲያ ከመስመር ውጭ
 
 conf:
   information: መረጃ

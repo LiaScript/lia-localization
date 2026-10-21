@@ -3,6 +3,7 @@
 home: الرئيسية
 
 base:
+  abc: أب
   next: التالي
   prev: السابق
   play: تشغيل
@@ -63,6 +64,7 @@ mode:
   textbook: الكتاب المدرسي
   presentation: العرض
   slides: الشرائح
+  navigation: إخفاء التنقل
 
 sound:
   'on': الصوت مفعل
@@ -74,6 +76,9 @@ info:
   date: 'التاريخ: '
   email: 'البريد الإلكتروني: '
   version: 'الإصدار: '
+  offline: تنزيل الوسائط للاستخدام دون اتصال
+  offlineFailed: فشل
+  offlineStatus: الوسائط دون اتصال
 
 conf:
   information: معلومات

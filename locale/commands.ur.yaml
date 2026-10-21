@@ -64,6 +64,7 @@ mode:
   textbook: ٹیکسٹ بک
   presentation: پریزنٹیشن
   slides: سلائیڈز
+  navigation: نیویگیشن چھپائیں
 
 sound:
   'on': آواز آن
@@ -75,6 +76,9 @@ info:
   date: 'تاریخ: '
   email: 'ای میل: '
   version: 'ورژن: '
+  offline: آف لائن استعمال کے لیے میڈیا ڈاؤن لوڈ کریں
+  offlineFailed: ناکام
+  offlineStatus: میڈیا آف لائن
 
 conf:
   information: معلومات

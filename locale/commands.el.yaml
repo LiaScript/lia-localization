@@ -61,6 +61,7 @@ mode:
   textbook: Εγχειρίδιο
   presentation: Παρουσίαση
   slides: Διαφάνειες
+  navigation: Απόκρυψη πλοήγησης
 
 fullscreen:
   enter: Είσοδος σε πλήρη οθόνη
@@ -76,6 +77,9 @@ info:
   date: 'Ημερομηνία: '
   email: 'Email: '
   version: 'Έκδοση: '
+  offline: Λήψη πολυμέσων για χρήση εκτός σύνδεσης
+  offlineFailed: απέτυχαν
+  offlineStatus: Πολυμέσα εκτός σύνδεσης
 
 conf:
   information: Πληροφορίες

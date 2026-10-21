@@ -63,6 +63,7 @@ mode:
   textbook: 教科書
   presentation: プレゼンテーション
   slides: スライド
+  navigation: ナビゲーションを隠す
 
 sound:
   'on': 音声オン
@@ -74,6 +75,9 @@ info:
   date: '日付：'
   email: 'メール：'
   version: 'バージョン：'
+  offline: オフライン用にメディアをダウンロード
+  offlineFailed: 失敗
+  offlineStatus: オフラインのメディア
 
 conf:
   information: 情報

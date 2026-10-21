@@ -64,6 +64,7 @@ mode:
   textbook: Kitabu cha kiada
   presentation: Uwasilishaji
   slides: Slaidi
+  navigation: Ficha urambazaji
 
 sound:
   'on': Sauti imewashwa
@@ -75,6 +76,9 @@ info:
   date: 'Tarehe: '
   email: 'Barua pepe: '
   version: 'Toleo: '
+  offline: Pakua media kwa matumizi nje ya mtandao
+  offlineFailed: imeshindwa
+  offlineStatus: Media nje ya mtandao
 
 conf:
   information: Taarifa

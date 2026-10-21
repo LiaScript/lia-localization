@@ -61,6 +61,7 @@ mode:
   textbook: Učebnica
   presentation: Prezentácia
   slides: Snímky
+  navigation: Skryť navigáciu
 
 fullscreen:
   enter: Prejsť na celú obrazovku
@@ -76,6 +77,9 @@ info:
   date: 'Dátum: '
   email: 'E-mail: '
   version: 'Verzia: '
+  offline: Stiahnuť médiá na použitie offline
+  offlineFailed: zlyhalo
+  offlineStatus: Médiá offline
 
 conf:
   information: Informácie

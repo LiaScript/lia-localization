@@ -61,6 +61,7 @@ mode:
   textbook: Udžbenik
   presentation: Prezentacija
   slides: Slajdovi
+  navigation: Sakrij navigaciju
 
 fullscreen:
   enter: Uključi prikaz preko cijelog zaslona
@@ -76,6 +77,9 @@ info:
   date: 'Datum: '
   email: 'E-pošta: '
   version: 'Verzija: '
+  offline: Preuzmi medije za izvanmrežnu upotrebu
+  offlineFailed: neuspjelo
+  offlineStatus: Mediji izvan mreže
 
 conf:
   information: Informacije

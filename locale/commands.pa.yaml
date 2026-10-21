@@ -7,7 +7,7 @@ base:
   prev: ਪਿੱਛੇ
   play: ਚਲਾਓ
   stop: ਬੰਦ ਕਰੋ
-  abc: ਏਬੀਸੀ
+  abc: ਅਆ
   font: 'ਫੋਂਟ ਆਕਾਰ: {{size}}'
   size1: ਛੋਟਾ
   size2: ਦਰਮਿਆਨਾ
@@ -64,6 +64,7 @@ mode:
   textbook: ਟੈਕਸਟਬੁੱਕ
   presentation: ਪ੍ਰਸਤੁਤੀ
   slides: ਸਲਾਈਡ
+  navigation: ਨੈਵੀਗੇਸ਼ਨ ਲੁਕਾਓ
 
 sound:
   'on': ਆਵਾਜ਼ ਚਾਲੂ
@@ -75,6 +76,9 @@ info:
   date: 'ਮਿਤੀ: '
   email: 'ਈਮੇਲ: '
   version: 'ਵਰਜਨ: '
+  offline: ਔਫਲਾਈਨ ਵਰਤੋਂ ਲਈ ਮੀਡੀਆ ਡਾਊਨਲੋਡ ਕਰੋ
+  offlineFailed: ਅਸਫਲ
+  offlineStatus: ਮੀਡੀਆ ਔਫਲਾਈਨ
 
 conf:
   information: ਜਾਣਕਾਰੀ
